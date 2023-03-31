@@ -1,0 +1,30 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content';
+import BlogPost from '../../layouts/BlogPost.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('notes');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'notes'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<BlogPost {...post.data}>
+	<h1>{post.data.title}</h1>
+	<Content />
+</BlogPost>
+<style is:global>
+	a.not-created {
+	@apply underline decoration-dashed;
+	}
+
+  a:not(.internal) {
+    @apply underline decoration-double;
+  }
+</style>
