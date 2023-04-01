@@ -2,14 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  main {
+    @apply max-w-screen-md mx-auto p-6 prose dark:prose-invert;
+  }
 
- @layer base {
-
- main {
-	@apply max-w-screen-md mx-auto p-6 prose dark:prose-invert;
- }
-
- html {
+  html {
     @apply font-normal font-["NewsreaderVariable"] prose md:prose-lg lg:prose-xl prose-neutral max-w-screen-lg mx-auto;
     @apply bg-neutral-50 prose-headings:text-lime-700;
     @apply dark:prose-invert dark:font-medium dark:bg-neutral-800 dark:prose-headings:text-lime-300;
@@ -20,8 +18,6 @@
 }
 
 @layer components {
-
-
   time {
     @apply block prose-sm font-light dark:font-normal mt-2 mb-3;
   }
@@ -48,15 +44,13 @@
     @apply font-normal;
   }
   cite:before {
-    content: '― ';
+    content: "― ";
   }
   a {
     @apply no-underline font-semibold  text-lime-700 cursor-pointer;
     @apply hover:text-neutral-800 focus:text-neutral-800 hover:bg-yellow-100 focus:bg-yellow-100;
     @apply dark:text-lime-300 dark:hover:bg-yellow-400 dark:focus:bg-yellow-400 dark:hover:text-neutral-600 dark:focus:text-neutral-600;
   }
-
-
 
   .backlink-box {
     @apply prose-sm leading-snug rounded bg-neutral-100 dark:bg-neutral-700 p-4;
@@ -68,13 +62,13 @@
   #notes-entry-container {
     display: grid;
     grid-gap: 2em;
-    grid-template-areas: 'content' 'side';
+    grid-template-areas: "content" "side";
   }
 
   @media (min-width: 1024px) {
     #notes-entry-container {
       grid-template-columns: 3fr 1fr;
-      grid-template-areas: 'content side';
+      grid-template-areas: "content side";
     }
   }
 
@@ -85,7 +79,7 @@
   /* fade out the tooltip box */
   #tooltip-wrapper:after {
     @apply absolute z-10 bottom-0 left-0 pointer-events-none bg-gradient-to-b from-transparent to-neutral-100 dark:to-neutral-600 w-full h-20;
-    content: '';
+    content: "";
   }
 }
 
@@ -129,5 +123,4 @@
     opacity: 0.1;
     transition: all 0.15s ease-out;
   }
-
 }
