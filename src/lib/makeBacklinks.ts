@@ -1,15 +1,10 @@
 import { getCollection } from "astro:content";
 import { unified } from "unified";
 import markdown from "remark-parse";
-import wikiLinkPlugin from "remark-wiki-link";
+import wikiLinkPlugin from "@flowershow/remark-wiki-link";
 import remarkRehype from "remark-rehype";
 import remarkStringify from "remark-stringify";
-
-const wikiLinkConfig = {
-  pageResolver: (name: string) => [name.replace(/ /g, "-").toLowerCase()],
-  hrefTemplate: (permalink: string) => `/notes/${permalink}`,
-  newClassName: "not-created",
-};
+import { wikiLinkConfig } from "../consts";
 
 type AstNode = {
   type: "paragraph" | "listitem" | "root";
@@ -30,12 +25,14 @@ function extractPermalinks(node: AstNode): Thing[] {
         output.push({
           parent: node,
           permalink: child.data.permalink,
+          title: child.data.alias || child.data.target,
         });
       } else {
         output.push(...extractPermalinks(child));
       }
     }
   }
+
   return output;
 }
 
@@ -60,10 +57,14 @@ async function makeLinks() {
       links.push({
         title: notePage.data.title,
         // TODO make this process to just prose?
-        snippet: processor.stringify(link.parent),
+        // TODO handle aliases
+        snippet: processor
+          .stringify(link.parent)
+          .replace("[[]]", `[[${link.title}]]`)
+          .replace(`[[:${link.title}]]`, `[[${link.title}]]`),
         permalink: notePage.slug,
       });
-      inLinks.set(link.permalink, links);
+      inLinks.set(link.permalink.replace("/", ""), links);
     }
   }
 
