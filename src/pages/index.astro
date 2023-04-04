@@ -26,20 +26,20 @@ const allPosts = posts.sort((a, b) => new Date(b.data.pubDate).valueOf() - new D
 
 			<p>Here are a few ideas on how to get started with the template:</p>
 			<ul>
-				<li><a href='/notes/weaving'>weaving</a></li>
-				<li><a href='/notes/getting-stuff-done'>getting stuff done</a></li>
+				<li><a href='/weaving'>weaving</a></li>
+				<li><a href='/getting-stuff-done'>getting stuff done</a></li>
 						</ul>
 			<p>
 
 and a bunch of other random topics. Have a look around or <a href='/search'>search</a> for something interesting.
 			</p>
 			<p>
-				Here's a bit more <a href='/notes/about-these-notes'>about these notes</a> to explain how they work.
+				Here's a bit more <a href='/about-these-notes'>about these notes</a> to explain how they work.
 			</p>
 			<h2>Recently updated</h2>
 			<ol class="list-disc">		{allPosts.map(blogPostEntry => (
 				<li>
-				  <a href={`/notes/${blogPostEntry.slug}`}>{blogPostEntry.data.title}</a>
+				  <a href={`/${blogPostEntry.slug}`}>{blogPostEntry.data.title}</a>
 
 				</li>
 			  ))}</ol>

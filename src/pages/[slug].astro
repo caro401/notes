@@ -1,6 +1,6 @@
 ---
 import { CollectionEntry, getCollection } from 'astro:content';
-import BlogPost from '../../layouts/BlogPost.astro';
+import BlogPost from '../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('notes');
@@ -16,15 +16,5 @@ const { Content } = await post.render();
 ---
 
 <BlogPost slug={post.slug} {...post.data}>
-	<h1>{post.data.title}</h1>
 	<Content />
 </BlogPost>
-<style is:global>
-	a.not-created {
-	@apply underline decoration-dashed;
-	}
-
-  a:not(.internal) {
-    @apply underline decoration-double;
-  }
-</style>

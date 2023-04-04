@@ -8,29 +8,21 @@
   }
 
   html {
-    @apply font-normal font-["NewsreaderVariable"] prose md:prose-lg lg:prose-xl prose-neutral max-w-screen-lg mx-auto;
+    @apply font-normal font-["NewsreaderVariable"] prose md:prose-lg lg:prose-xl prose-neutral max-w-none mx-auto;
     @apply bg-neutral-50 prose-headings:text-lime-700;
     @apply dark:prose-invert dark:font-medium dark:bg-neutral-800 dark:prose-headings:text-lime-300;
   }
   body {
-    @apply box-content px-4 py-6 overflow-x-hidden max-w-5xl;
+    @apply box-content px-4 py-6 overflow-x-hidden mx-auto max-w-6xl;
   }
 }
 
 @layer components {
-  time {
-    @apply block prose-sm font-light dark:font-normal mt-2 mb-3;
-  }
-
-  footer {
-    @apply my-8 pt-4 text-sm;
-  }
-
   img {
     @apply max-w-full block mx-auto my-0 max-h-96 rounded;
   }
 
-  blockquote {
+  /* blockquote {
     @apply px-6 py-4 m-0 font-light  bg-neutral-100 dark:bg-neutral-700 rounded;
   }
   blockquote > p {
@@ -45,82 +37,21 @@
   }
   cite:before {
     content: "― ";
-  }
+  } */
   a {
     @apply no-underline font-semibold  text-lime-700 cursor-pointer;
     @apply hover:text-neutral-800 focus:text-neutral-800 hover:bg-yellow-100 focus:bg-yellow-100;
     @apply dark:text-lime-300 dark:hover:bg-yellow-400 dark:focus:bg-yellow-400 dark:hover:text-neutral-600 dark:focus:text-neutral-600;
   }
-
-  .backlink-box {
-    @apply prose-sm leading-snug rounded bg-neutral-100 dark:bg-neutral-700 p-4;
+  a.new {
+    @apply underline decoration-dashed;
   }
 
-  .backlink-summary {
-    @apply font-light dark:font-normal pt-2;
+  article a:not(.internal) {
+    @apply underline decoration-double;
   }
-  #notes-entry-container {
-    display: grid;
-    grid-gap: 2em;
-    grid-template-areas: "content" "side";
-  }
-
-  @media (min-width: 1024px) {
-    #notes-entry-container {
-      grid-template-columns: 3fr 1fr;
-      grid-template-areas: "content side";
-    }
-  }
-
-  #tooltip-wrapper {
-    @apply bg-neutral-100 p-4 border-neutral-400 rounded absolute overflow-hidden w-96 h-56 text-sm shadow-md opacity-0 transition-opacity;
-    @apply dark:bg-neutral-600;
-  }
-  /* fade out the tooltip box */
-  #tooltip-wrapper:after {
-    @apply absolute z-10 bottom-0 left-0 pointer-events-none bg-gradient-to-b from-transparent to-neutral-100 dark:to-neutral-600 w-full h-20;
-    content: "";
-  }
-}
-
-@layer utilities {
-  .invalid-link {
-    color: #444444;
-    cursor: help;
-    background: #fafafa;
-    padding: 0 0.1em;
-  }
-
-  .invalid-link-brackets {
-    color: #ccc;
-    cursor: help;
-  }
-
-  .links line {
-    @apply stroke-neutral-400 opacity-50;
-    /* stroke: #9CA3AF;
-    opacity: 0.5; */
-  }
-
-  .nodes circle {
-    @apply cursor-pointer fill-lime-700 dark:fill-lime-300;
-    /* cursor: pointer;
-    fill: #6b21a8; */
-    transition: all 0.15s ease-out;
-  }
-
-  .text text {
-    @apply text-xs  font-light cursor-pointer fill-neutral-600 dark:fill-neutral-200;
-    /* text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb; */
-  }
-
-  .nodes [active],
-  .text [active] {
-    @apply cursor-pointer fill-neutral-700 dark:fill-neutral-300;
-  }
-
-  .inactive {
-    opacity: 0.1;
-    transition: all 0.15s ease-out;
+  article > *:first-child {
+    margin-top: 0;
+    padding-top: 0;
   }
 }

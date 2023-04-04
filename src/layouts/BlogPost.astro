@@ -1,48 +1,103 @@
 ---
-import type { CollectionEntry } from 'astro:content';
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
-import { allLinks} from "../lib/makeBacklinks";
+import type { CollectionEntry } from "astro:content";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import FormattedDate from "../components/FormattedDate.astro";
+import { allLinks } from "../lib/makeBacklinks";
 
-type Props = CollectionEntry<'notes'>['data'];
+type Props = CollectionEntry<"notes">["data"];
 
 const allLinks_ = await allLinks;
 
-const { title, description, pubDate, updatedDate, heroImage, slug } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, slug } =
+  Astro.props;
 const inLinks = allLinks_.get(slug) || [];
 ---
 
 <html lang="en">
-	<head>
-		<BaseHead title={title} description={description} />
-		<style>
-			.last-updated-on {
-				font-style: italic;
-			}
-		</style>
-	</head>
+  <head>
+    <BaseHead title={title} description={description} />
+    <style>
+      .last-updated-on {
+        font-style: italic;
+      }
+    </style>
+  </head>
 
-	<body>
-		<Header />
-		<main >
-			<article>
-<p class='text-gray-700 dark:text-gray-300 font-regular'>
-				Planted <FormattedDate date={pubDate} />{
-					updatedDate && (
-							<span class='block'>Last updated <FormattedDate date={updatedDate} /></span>
-					)
-				}
-</p>
-				<slot />
-			</article>
-		</main>
-		<aside>
-			{inLinks.map((l) =>(
-				<a href={`/notes/${l.permalink}`}>{l.title}</a><p>{l.snippet}</p>
-			))}
-		</aside>
-		<Footer />
-	</body>
+  <body>
+    <Header />
+    <main class="wrapper max-w-7xl m-0 p-0 min-h-screen">
+      <div class="meta">
+        <p class="text-neutral-600 dark:text-neutral-300 font-light text-sm">
+          Planted <FormattedDate date={pubDate} />{
+            updatedDate && (
+              <span class="block">
+                Last updated <FormattedDate date={updatedDate} />
+              </span>
+            )
+          }
+        </p>
+        <h1>{title}</h1>
+      </div>
+
+      <article>
+        <slot />
+      </article>
+      <aside class="not-prose">
+		<section class='bg-neutral-100 rounded-lg p-2'>
+        <h3 class="text-base font-bold mb-2 pt-0 mt-0">Notes mentioning this note</h3>
+        {
+          inLinks.length > 0 ? (
+            <>
+              {inLinks.map((l) => (
+                  <a class="internal text-sm" href={l.permalink}>
+                    {l.title}
+                  </a>
+                  <p  class="text-xs font-light leading-5">{l.snippet}</p>
+              ))}
+            </>
+          ) : (
+            <div>
+              <p class="text-xs font-light leading-5">There are no notes linking to this note.</p>
+            </div>
+          )
+        }
+		</section>
+      </aside>
+    </main>
+    <Footer />
+  </body><style>
+    div.meta {
+		@apply h-fit max-h-fit;
+      grid-area: meta;
+    }
+    article {
+      @apply h-full ;
+	  grid-area: content;
+
+    }
+    aside {
+      grid-area: sidebar;
+    }
+
+    .wrapper {
+      display: grid;
+      grid-gap: 0 3em;
+	  grid-template-rows: max-content 1fr;
+	  grid-template-columns: minmax(60%, 65ch) auto;
+	  grid-template-areas:
+        "meta meta"
+        "content sidebar";
+    }
+    @media (max-width: 1024px) {
+      .wrapper {
+        grid-template-columns: 4fr;
+        grid-template-areas:
+          "meta"
+          "content"
+          "sidebar";
+      }
+    }
+  </style>
 </html>
