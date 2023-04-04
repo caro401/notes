@@ -8,16 +8,17 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: "https://example.com",
   markdown: {
-    remarkPlugins: [
-      [
-        "remark-wiki-link",
-        {
-          pageResolver: (name) => [name.replace(/ /g, "-").toLowerCase()],
-          hrefTemplate: (permalink) => `/notes/${permalink}`,
-          newClassName: "not-created",
-        },
-      ],
-    ],
+    shikiConfig: {
+      // Choose from Shiki's built-in themes (or add your own)
+      // https://github.com/shikijs/shiki/blob/main/docs/themes.md
+      theme: `../../../../../../src/styles/frappe`,
+      // Add custom languages
+      // Note: Shiki has countless langs built-in, including .astro!
+      // https://github.com/shikijs/shiki/blob/main/docs/languages.md
+      langs: [],
+      // Enable word wrap to prevent horizontal scrolling
+      wrap: true,
+    },
     rehypePlugins: [["rehype-external-links", { target: "_blank" }]],
   },
   integrations: [sitemap(), tailwind()],
