@@ -1,0 +1,14 @@
+---
+id: 20220905121221-modern-redux
+title: Modern Redux prioritises developer productivity
+pubDate: 2022-09-05 12:11
+updatedDate: 2023-04-04 18:13
+created: 2023-04-04T18:14
+updated: 2023-04-04T18:14
+---
+
+Modern redux means react, redux hooks, [[Redux Toolkit encapsulates suggested best practices|RTK]] for store setup, slices, [[Redux can have good integration with typescript|typescript]], exporting type hooks. Underlying redux is the same, but the code you write looks a lot different, and it makes a lot of difference in developer productivity.
+
+### Sources
+
+- [Learn with Jason](https://www.youtube.com/watch?v=9zySeP5vH9c)

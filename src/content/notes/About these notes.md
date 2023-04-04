@@ -1,7 +1,9 @@
 ---
 title: About these notes
-description: "Lorem ipsum dolor sit amet"
-pubDate: "March 31 2023"
+pubDate: 2022-06-30 10:26
+updatedDate: 2023-04-04 18:07
+created: 2023-04-04T18:08
+updated: 2023-04-04T18:08
 ---
 
 This is my space for sharing the random things I'm thinking about at any time. Everything is a work in progress, my own opinion, and subject to change. In general, assume I'm making notes on a topic I am learning about as a beginner, and that nothing stated here is necessarily true, just reflecting the best of my knowledge at the time.

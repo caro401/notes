@@ -1,7 +1,10 @@
 ---
 id: 20221125111433-getting-stuff-done
-title: "Getting Stuff Done"
-pubDate: "31 March 2023"
+title: Getting stuff done
+pubDate: 2022-11-25 11:14
+updatedDate: 2023-04-04 18:11
+created: 2023-04-04T18:11
+updated: 2023-04-04T18:11
 ---
 
 I spend a lot of time thinking about how best to get stuff done, and remember what the stuff is that I need to get done. If there's a productivity system, I've probably attempted to use it at some point, or at least read a bunch about other people using it. No I don't use learning about productivity as an excuse to not actually be productive, of course not!
@@ -12,7 +15,7 @@ This topic is really broad for me, covering everything from picking a task manag
 
 This thinking informs a couple of my side projects:
 
-- [Flow housework](https://www.flowhousework.com) which deals with distributing chores among people in a household, and reminding me to actually do them. It draws loosely on ideas from GTD for managing household projects, and on the way emacs org-mode does rescheduling.
+- [Flow housework](https://flowhousework.com) which deals with distributing chores among people in a household, and reminding me to actually do them. It draws loosely on ideas from GTD for managing household projects, and on the way emacs org-mode does rescheduling.
 - [Herding cats](https://herdingcats.work) which helps with the fact that I have far too many projects, and far too many sources of things I need to do. Also tiny cats. This makes use of the slight time pressure that comes from countdown timers, and forces me to break down and prioritise tasks before jumping in.
 
 ### Sources
