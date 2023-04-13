@@ -1,9 +1,7 @@
 ---
 title: What to do with photos
-pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-04 18:22
-created: 2023-04-04T18:23
-updated: 2023-04-04T18:23
+pubDate: 2022-06-20 10:00
+updatedDate: 2023-04-13 18:47
 ---
 
 I have a load of digital photos, which I have recently actually managed to wrangle into one place. But I basically never look at them, and most of them are rubbish. How can I make better use of them?
@@ -11,6 +9,7 @@ I have a load of digital photos, which I have recently actually managed to wrang
 - Some kind of website thing?
   - [Stephen Wolfram's scrapbook](https://www.stephenwolfram.com/scrapbook/)
   - [Ga11ery](https://github.com/Heydon/ga11ery) 11ty static site, designed for webcomics but might be appropriate. worry about bandwidth costs for good quality photos though
+  - There's a couple of [astro](https://astro.build/templates) templates that might be a good starting point also, for example [this one backed by Notion](https://astro.build/themes/details/art-portfolio/) and [this one which looks gorgeous](https://astro.build/themes/details/astro-multiverse/)
 
 ## Management tools
 

@@ -2,9 +2,7 @@
 id: 20220818060902-units-in-names
 title: Put units in variable names
 pubDate: 2022-08-18 18:07
-updatedDate: 2023-04-04 18:15
-created: 2023-04-04T18:15
-updated: 2023-04-04T18:15
+updatedDate: 2023-04-13 11:38
 ---
 
 When defining a variable that represents some sort of quantity - time, money, distance etc - make sure your variable makes it clear what the unit - seconds, Euros, metres - of that quantity is. You can do this in the name - `timeout_seconds` rather than just `timeout`, or by using a more specific type if your language supports that, for example a `timedelta` rather than an integer.

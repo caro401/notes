@@ -1,9 +1,7 @@
 ---
 title: Mac apps
 pubDate: 2022-07-18 13:10
-updatedDate: 2023-04-04 18:13
-created: 2023-04-04T18:14
-updated: 2023-04-04T18:14
+updatedDate: 2023-04-13 11:38
 ---
 
 I recently acquired a mac, and am learning about what the software ecosystem is like.

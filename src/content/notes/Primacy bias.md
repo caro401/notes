@@ -2,9 +2,7 @@
 id: 2204022047941-primacy-bias
 title: "Primacy bias means we remember the first thing in a list more strongly"
 pubDate: 2022-06-30 15:56
-updatedDate: 2023-04-04 18:14
-created: 2023-04-04T18:15
-updated: 2023-04-04T18:15
+updatedDate: 2023-04-13 11:38
 ---
 
 Primacy bias means we remember the first thing more strongly, for example the first participant in user research, particularly if you are having a new experience doing the activity.

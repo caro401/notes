@@ -2,9 +2,7 @@
 id: 20220905114134-redux-typescript
 title: Redux can have good integration with typescript
 pubDate: 2022-09-05 11:41
-updatedDate: 2023-04-04 18:15
-created: 2023-04-04T18:16
-updated: 2023-04-04T18:16
+updatedDate: 2023-04-13 11:38
 ---
 
 It is often useful to know the type of your Redux store. Redux toolkit helps you create the types of your store automatically when you [create the store](https://redux-toolkit.js.org/api/configureStore). [Here's an example](https://github.com/learnwithjason/lets-learn-redux-toolkit/blob/main/src/app/store.ts). The types automatically update whenever you change the shape of your store.

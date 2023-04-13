@@ -2,9 +2,7 @@
 id: 20221108114527-notebook-covers
 title: Weave notebook covers on a rigid heddle loom
 pubDate: 2022-11-08 11:44
-updatedDate: 2023-04-04 18:14
-created: 2023-04-04T18:14
-updated: 2023-04-04T18:14
+updatedDate: 2023-04-13 11:38
 ---
 
 This is a great project idea from [Kelly Casanova](https://kellycasanovaweavinglessons.com/) for using up small amounts of leftover yarn in various weights and fibres. The stripes of your weft will go vertically on the notebook, so you don't need a very wide warp, just the height of your notebook. They suggest weaving something that will end up 16x8 inches off the loom, to fit a hardback notebook 5x7 inches including seam allowance.

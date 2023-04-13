@@ -2,9 +2,7 @@
 id: 22041117062357-github-actions
 title: GitHub Actions is a workflow automation tool
 pubDate: 2022-08-25 18:47
-updatedDate: 2023-04-04 18:11
-created: 2023-04-04T18:12
-updated: 2023-04-04T18:12
+updatedDate: 2023-04-13 11:37
 ---
 
 Actions provide a way to automate, customize, and execute your software development workflows within your GitHub repository. Detailed documentation is available in the [GitHub Actions Documentation](https://docs.github.com/en/actions).

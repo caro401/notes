@@ -2,9 +2,7 @@
 id: 20220630032941-not-simple
 title: Don't write that things are simple
 pubDate: 2022-06-30 15:27
-updatedDate: 2023-04-04 18:10
-created: 2023-04-04T18:10
-updated: 2023-04-04T18:10
+updatedDate: 2023-04-13 11:37
 ---
 
 Eleanor Konik's [newsletter](https://www.obsidianroundup.org/dont-minimize-difficulty/) and working on some docs reminded me of how much I hate being told that a thing I found really hard is "simple" or "easy". And of course she summarizes it fantastically:

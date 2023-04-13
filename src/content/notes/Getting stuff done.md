@@ -2,9 +2,7 @@
 id: 20221125111433-getting-stuff-done
 title: Getting stuff done
 pubDate: 2022-11-25 11:14
-updatedDate: 2023-04-04 18:11
-created: 2023-04-04T18:11
-updated: 2023-04-04T18:11
+updatedDate: 2023-04-13 11:37
 ---
 
 I spend a lot of time thinking about how best to get stuff done, and remember what the stuff is that I need to get done. If there's a productivity system, I've probably attempted to use it at some point, or at least read a bunch about other people using it. No I don't use learning about productivity as an excuse to not actually be productive, of course not!

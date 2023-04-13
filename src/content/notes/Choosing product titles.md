@@ -2,9 +2,7 @@
 id: 2204025715688-product-title
 title: "Your product title is your first chance to sell your product and make a good impression"
 pubDate: 2022-06-30 15:18
-updatedDate: 2023-04-04 18:08
-created: 2023-04-04T18:09
-updated: 2023-04-04T18:09
+updatedDate: 2023-04-13 11:34
 ---
 
 A product title can make or break your sales numbers. A good title can catch the attention of your audience and make them intrigued. A bad title can mean they click away onto the next product.

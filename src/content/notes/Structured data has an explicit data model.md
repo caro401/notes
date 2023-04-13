@@ -2,9 +2,7 @@
 id: 20220907134655-structured-data
 title: "Structured data has an explicit data model"
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:17
-created: 2023-04-04T18:17
-updated: 2023-04-04T18:17
+updatedDate: 2023-04-13 11:39
 ---
 
 Structured data is data organized according to some particular data model, which explicitly defines the structure of the data. This is usually a database or strict spreadsheet format.

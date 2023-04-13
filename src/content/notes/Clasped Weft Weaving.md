@@ -2,9 +2,7 @@
 id: 20220823041723-clasped-weft
 title: Clasped Weft Weaving
 pubDate: 2022-08-25 18:47
-updatedDate: 2023-04-04 18:08
-created: 2023-04-04T18:09
-updated: 2023-04-04T18:09
+updatedDate: 2023-04-13 11:34
 ---
 
 This is a weft-faced technique, with a doubled [[Pick is a single weft thread in a fabric|pick]] - 2 strands in each pick so choose your yarn weights accordingly.

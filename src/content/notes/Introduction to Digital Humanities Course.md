@@ -1,9 +1,7 @@
 ---
 title: Introduction to Digital Humanities Course
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:13
-created: 2023-04-04T18:13
-updated: 2023-04-04T18:13
+updatedDate: 2023-04-13 11:38
 ---
 
 Introduction to Digital Humanities from Harvard. [Course link](https://www.edx.org/course/introduction-to-digital-humanities) on EdX. Summary from the course page

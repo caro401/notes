@@ -1,9 +1,7 @@
 ---
 title: Books someone said I should read
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:08
-created: 2023-04-04T18:09
-updated: 2023-04-04T18:09
+updatedDate: 2023-04-13 11:34
 ---
 
 In no particular order

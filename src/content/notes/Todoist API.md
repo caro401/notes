@@ -2,9 +2,7 @@
 id: 22041117442041-todoist-api
 title: "Todoist has an API"
 pubDate: 2022-06-30 15:23
-updatedDate: 2023-04-04 18:18
-created: 2023-04-04T18:19
-updated: 2023-04-04T18:19
+updatedDate: 2023-04-13 11:40
 ---
 
 Todoist has 2 APIs, a standard REST one for single calls and a special "sync" one for batching actions and syncing with the Todoist service. There's a Python library for both flavours, and a JS one for the REST API. and of course you can use [cURL](https://en.wikipedia.org/wiki/CURL) or anything else to make raw requests too.

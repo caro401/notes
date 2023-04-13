@@ -2,9 +2,7 @@
 id: 2204022047843-bias
 title: "Having a bias means favouring or having prejudice against something based on limited information"
 pubDate: 2022-08-25 18:47
-updatedDate: 2023-04-04 18:08
-created: 2023-04-04T18:09
-updated: 2023-04-04T18:09
+updatedDate: 2023-04-13 11:34
 ---
 
 Having a bias means favouring or having prejudice against something based on limited information. We can't get rid of biases completely, but should work to be more aware of them.

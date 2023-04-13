@@ -1,9 +1,7 @@
 ---
 title: Tailwind components
 pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-04 18:17
-created: 2023-04-04T18:18
-updated: 2023-04-04T18:18
+updatedDate: 2023-04-13 11:39
 ---
 
 I like to look at component examples when I'm designing websites, because I'm not a designer. And I like to use [Tailwind CSS](https://tailwindcss.com/) because it encourages me to be consistent and use sensible defaults, and there's loads of examples of it in use.

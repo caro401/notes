@@ -3,9 +3,7 @@ id: 20220907125929-unstructured-data
 alias: "unstructured data"
 title: "Unstructured data is not organised into semantic units"
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:19
-created: 2023-04-04T18:20
-updated: 2023-04-04T18:20
+updatedDate: 2023-04-13 11:40
 ---
 
 Unstructured data is data that is not organized into distinct, pre-defined semantic units. Typically, this means data in free text format.

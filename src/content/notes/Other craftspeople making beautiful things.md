@@ -2,9 +2,7 @@
 id: 20221110104414-other-crafty-folk
 title: Other craftspeople making beautiful things
 pubDate: 2022-11-10 10:43
-updatedDate: 2023-04-04 18:14
-created: 2023-04-04T18:14
-updated: 2023-04-04T18:14
+updatedDate: 2023-04-13 11:38
 ---
 
 - [Lottieknits](https://www.lottieknits.com) makes gorgeous hand-dyed yarn. They make particularly stunning gradients, I love the idea for their [Mini Fade Club](https://www.lottieknits.com/mini-fade-club) with tiny gradient skeins.

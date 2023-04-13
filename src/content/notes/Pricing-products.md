@@ -2,9 +2,7 @@
 id: 2204025715711-pricing-products
 title: "Pricing products is a difficult art"
 pubDate: 2022-07-05 12:01
-updatedDate: 2023-04-04 18:14
-created: 2023-04-04T18:15
-updated: 2023-04-04T18:15
+updatedDate: 2023-04-13 11:38
 ---
 
 You need to find a price that lets your customers purchase your product and feel happy with the amount they paid, but a price that also makes all your hard work worth it.

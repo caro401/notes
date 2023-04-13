@@ -1,9 +1,7 @@
 ---
 title: Foundations of UX Design course
 pubDate: 2022-08-25 18:47
-updatedDate: 2023-04-04 18:11
-created: 2023-04-04T18:11
-updated: 2023-04-04T18:11
+updatedDate: 2023-04-13 11:37
 ---
 
 [This course on Coursera](https://www.coursera.org/learn/foundations-user-experience-design), from Google

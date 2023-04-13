@@ -2,9 +2,7 @@
 id: 20220905121855-RTK
 title: Redux Toolkit encapsulates suggested best practices
 pubDate: 2022-09-05 12:18
-updatedDate: 2023-04-04 18:16
-created: 2023-04-04T18:16
-updated: 2023-04-04T18:16
+updatedDate: 2023-04-13 11:39
 ---
 
 [Redux Toolkit](https://redux-toolkit.js.org) (RTK) is the official recommended approach for writing Redux logic, since it was introduced some 3 years ago. It builds in the current suggested best practices, simplifies most Redux tasks, prevents common mistakes, and makes it easier to write Redux applications. RTK wraps Redux core to include utilities that help simplify many common use cases.

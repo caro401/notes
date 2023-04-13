@@ -3,9 +3,7 @@ id: 20220905120113-redux
 alias: "Redux"
 title: Redux is a predictable state container for js
 pubDate: 2022-11-08 11:31
-updatedDate: 2023-04-04 18:16
-created: 2023-04-04T18:16
-updated: 2023-04-04T18:16
+updatedDate: 2023-04-13 11:39
 ---
 
 Redux defines itself as:

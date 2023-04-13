@@ -2,9 +2,7 @@
 id: 2204022047925-serial-position-effect
 title: "The serial position effect means we pay more attention to the earlier and later parts of long lists"
 pubDate: 2022-06-30 15:54
-updatedDate: 2023-04-04 18:17
-created: 2023-04-04T18:17
-updated: 2023-04-04T18:17
+updatedDate: 2023-04-13 11:39
 ---
 
 When given a list of items come out people are most likely to remember the first and last few, not the middle ones. [[Primacy bias]] covers the first bit, and [[Recency bias]] the last bit.

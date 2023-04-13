@@ -51,7 +51,7 @@ const inLinks = allLinks_.get(slug) || [];
           inLinks.length > 0 ? (
             <>
               {inLinks.map((l) => (
-                  <a class="internal text-sm" href={l.permalink}>
+                  <a class="internal text-sm" href={`/${l.permalink}`}>
                     {l.title}
                   </a>
                   <p  class="text-xs font-light leading-5">{l.snippet}</p>

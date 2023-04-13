@@ -2,9 +2,7 @@
 id: 2204022401968-next-billion
 title: "The next billion users refers to the people who are about to become internet users"
 pubDate: 2022-06-30 15:47
-updatedDate: 2023-04-04 18:18
-created: 2023-04-04T18:18
-updated: 2023-04-04T18:18
+updatedDate: 2023-04-13 11:39
 ---
 
 The next billion users refers to the people who are about to become internet users, coming online for the first time. These users probably have different considerations to you:

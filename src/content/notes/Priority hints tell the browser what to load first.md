@@ -2,9 +2,7 @@
 id: 20220818051909-priority-hints
 title: "Priority hints tell the browser what to load first"
 pubDate: 2022-08-18 17:18
-updatedDate: 2023-04-04 18:15
-created: 2023-04-04T18:15
-updated: 2023-04-04T18:15
+updatedDate: 2023-04-13 11:38
 ---
 
 You can use "Priority hints" to help [some browsers](https://caniuse.com/mdn-html_elements_link_fetchpriority) know what is important for your user to see first, or is less important.

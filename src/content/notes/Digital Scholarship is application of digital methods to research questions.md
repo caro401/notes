@@ -2,9 +2,7 @@
 id: 20220907125756-digital-scholarship
 title: "Digital Scholarship is application of digital methods to research questions"
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:10
-created: 2023-04-04T18:10
-updated: 2023-04-04T18:10
+updatedDate: 2023-04-13 11:37
 ---
 
 > Digital scholarship can be broadly defined as the thoughtful, theoretically and ethically informed use of digital evidence, methods of inquiry, research, publication and preservation to achieve scholarly and research goals.

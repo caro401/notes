@@ -2,9 +2,7 @@
 id: 20221206112348-work-clean
 title: Work Clean
 pubDate: 2022-12-06 11:23
-updatedDate: 2023-04-04 18:22
-created: 2023-04-04T18:23
-updated: 2023-04-04T18:23
+updatedDate: 2023-04-13 18:47
 ---
 
 Read December 2022

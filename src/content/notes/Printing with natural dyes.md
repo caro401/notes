@@ -1,9 +1,7 @@
 ---
 title: Printing with natural dyes
 pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-04 18:14
-created: 2023-04-04T18:15
-updated: 2023-04-04T18:15
+updatedDate: 2023-04-13 11:38
 ---
 
 Would like to try this out for making branded things for packaging for [Sheep's green](https://www.sheepsgreencrafts.co.uk)

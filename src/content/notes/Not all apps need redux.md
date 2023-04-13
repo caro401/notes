@@ -2,9 +2,7 @@
 id: 20220823030041-dont-need-redux
 title: Not all apps need redux
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:14
-created: 2023-04-04T18:14
-updated: 2023-04-04T18:14
+updatedDate: 2023-04-13 11:38
 ---
 
 You can feel a bit of resistance to [[Redux is a predictable state container for js|Redux]] when your application doesn't actually need it, or it isn't a good fit for your application. Redux may be useful when:

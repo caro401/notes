@@ -1,9 +1,7 @@
 ---
 title: Vale is a linter for prose
 pubDate: 2022-08-18 16:59
-updatedDate: 2023-04-04 18:19
-created: 2023-04-04T18:20
-updated: 2023-04-04T18:22
+updatedDate: 2023-04-13 11:40
 ---
 
 [Vale](https://vale.sh/) is a tool for enforcing an editorial style guide on prose in various plain-text formats. There's some pre-defined styles, for example based on the [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/) and [Google](https://developers.google.com/style/) style guides, [write-good](https://www.npmjs.com/package/write-good) and [alex](https://github.com/get-alex/alex), but you can edit these to create a configuration to suit your needs.

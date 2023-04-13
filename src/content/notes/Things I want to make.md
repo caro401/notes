@@ -1,9 +1,7 @@
 ---
 title: Things I want to make
 pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-04 18:18
-created: 2023-04-04T18:18
-updated: 2023-04-04T18:18
+updatedDate: 2023-04-13 11:40
 ---
 
 ## Wood

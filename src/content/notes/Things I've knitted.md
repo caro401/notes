@@ -1,9 +1,7 @@
 ---
 title: Things I've knitted
 pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-04 18:18
-created: 2023-04-04T18:19
-updated: 2023-04-04T18:19
+updatedDate: 2023-04-13 11:40
 ---
 
 Some of these links are Ravelry links, beware!
