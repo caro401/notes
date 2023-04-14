@@ -1,7 +1,7 @@
 ---
 title: Rust variables are immutable by default
 pubDate: 2023-04-13 13:48
-updatedDate: 2023-04-13 14:22
+updatedDate: 2023-04-14 16:43
 id: 20230413130434-rust-variables-are-immutable-by-default
 ---
 
@@ -38,6 +38,8 @@ fn main() {
     let spaces = spaces.len();  // this one is a usize - i'm on a 64-bit machine so this is a 64 bit unsigned integer
 }
 ```
+
+You probably mainly use it for changing types via parsing in real life, for avoiding having a load of variables like `x_number`, `x_string` and the like. Or possibly for re-binding after having done some validation, or a pattern match or whatever.
 
 ## Sources
 
