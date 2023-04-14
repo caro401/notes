@@ -5,7 +5,7 @@ import { wikiLinkConfig } from "./src/consts";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://notes.caro.fyi/",
   markdown: {
     shikiConfig: {
       // Choose from Shiki's built-in themes (or add your own)
@@ -22,4 +22,5 @@ export default defineConfig({
     rehypePlugins: [["rehype-external-links", { target: "_blank" }]],
   },
   integrations: [sitemap(), tailwind()],
+  build: { format: 'file' }
 });
