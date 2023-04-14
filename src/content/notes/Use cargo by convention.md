@@ -9,7 +9,7 @@ On small projects, it might not seem like using `cargo` has any advantage over j
 
 I try to manange all my other projects in other languages using a [`justfile`](https://just.systems/man/en/) so I don't have to remember whether I used `pip` or `poetry`, `npm` or `yarn` or even what language(s) I used, I always have a command `just dev` to run a dev server. Having this built into the language is really nice!
 
-`cargo` also provides the `cargo doc` command, to build HTML docs of your code and its dependencies. 
+`cargo` also provides the `cargo doc` command, to build HTML docs of your code and its dependencies.
 
 ## Sources
 

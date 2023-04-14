@@ -8,13 +8,13 @@ id: 20230413140490-tuples-and-arrays-are-the-primitive-compound-data-types-in-ru
 Tuples are fixed length things that can contain elements of different types. Here's one:
 
 ```rust
-fn main() { 
+fn main() {
     let tup: (i32, f64, u8) = (500, 6.4, 1);  // specifying the types is optional
-    
+
     let (x, y, z) = tup;  // this is called destructuring
     println!("The value of y is: {y}");
     // 6.4
-    
+
     // access an element directly using . then the index (0-indexed)
     let five_hundred = tup.0;
 }

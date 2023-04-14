@@ -84,7 +84,7 @@ fn main() {
 }
 ```
 
-Sure you could do this with a `while`, but you are much more likely to mess up. `for` is probably the most common type of loop. 
+Sure you could do this with a `while`, but you are much more likely to mess up. `for` is probably the most common type of loop.
 
 ## Sources
 

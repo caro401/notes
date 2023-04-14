@@ -5,7 +5,7 @@ updatedDate: 2023-04-13 15:29
 id: 20230413140467-statements-perform-actions,-expressions-return-values
 ---
 
-In Rust, function definitions and variable declarations are statements. You can't bind a statement to a variable, because it doesn't return anything. Calling functions or macros, or making scope blocks are expressions. 
+In Rust, function definitions and variable declarations are statements. You can't bind a statement to a variable, because it doesn't return anything. Calling functions or macros, or making scope blocks are expressions.
 
 Expressions do not include ending semicolons. If you add a semicolon to the end of an expression, you turn it into a statement, and it will then not return a value. This will probably bite you at some point.
 
@@ -33,7 +33,7 @@ Function bodies are made up of a series of statements optionally ending in an ex
 fn main() {
     let condition = true;
     let number = if condition { 5 } else { 6 };
-    // note that both of these ^^         ^^ must be the same type 
+    // note that both of these ^^         ^^ must be the same type
     println!("The value of number is: {number}");
     //                                   5
 }

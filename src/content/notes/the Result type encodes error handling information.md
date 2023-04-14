@@ -50,8 +50,6 @@ fn main() {
 
 `cargo` will tell you if you forgot to handle a `Result` properly with a compiler warning.
 
-
-
 ## Sources
 
-- The Rust Book, [chapter 2](https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html#handling-potential-failure-with-the-result-type)  [and chapter 9.2](https://rust-book.cs.brown.edu/ch09-02-recoverable-errors-with-result.html#alternatives-to-using-match-with-resultt-e)
+- The Rust Book, [chapter 2](https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html#handling-potential-failure-with-the-result-type) [and chapter 9.2](https://rust-book.cs.brown.edu/ch09-02-recoverable-errors-with-result.html#alternatives-to-using-match-with-resultt-e)

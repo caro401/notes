@@ -31,6 +31,7 @@ fn main() {
 ```
 
 Shadowing also allows you to change the type of an already declared variable, like this
+
 ```rust
 fn main() {
     let spaces = "   ";  // this one is an &str

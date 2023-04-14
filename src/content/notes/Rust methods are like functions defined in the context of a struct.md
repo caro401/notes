@@ -6,6 +6,7 @@ id: 20230413160491-rust-methods-are-like-functions-defined-in-the-context-of-a-s
 ---
 
 (or an enum or a trait object). The first parameter to the function is always `self`, which represents the instance of the struct that the method is called on. Here's an example
+
 ```rust
 #[derive(Debug)]
 struct Rectangle {

@@ -8,6 +8,7 @@ id: 20230413160462-rust-structs-are-like-tuples-with-named-data
 This is kinda like the tuple-namedtuple or dataclass relation in Python.
 
 Define a `struct` like this
+
 ```rust
 struct User {
     active: bool,  // these things are called fields
@@ -29,9 +30,9 @@ fn main() {
         sign_in_count: 1,
     };
     // access and change (if mutable instance) fields with . notation
-    user1.email = String::from("anotheremail@example.com"); 
+    user1.email = String::from("anotheremail@example.com");
 
-	// make another user with mostly the same data as user1 
+	// make another user with mostly the same data as user1
     let user2 = User {
         email: String::from("another@example.com"),
         ..user1
@@ -53,8 +54,8 @@ fn build_user(email: String, username: String) -> User {
 }
 ```
 
-
 You can also make "tuple structs" which are tuples with names, but not named fields, for example
+
 ```rust
 struct Color(i32, i32, i32);
 struct Point(i32, i32, i32);
@@ -67,6 +68,7 @@ fn main() {
 ```
 
 You can put derived traits on structs, like this one that lets you print out a representation of the struct
+
 ```rust
 #[derive(Debug)]
 struct Rectangle {
