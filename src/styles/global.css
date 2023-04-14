@@ -4,45 +4,41 @@
 
 @layer base {
   main {
-    @apply max-w-screen-md mx-auto p-6 prose dark:prose-invert;
+    @apply prose mx-auto max-w-screen-md p-6 dark:prose-invert;
   }
 
   html {
-    @apply font-normal font-["NewsreaderVariable"] prose md:prose-lg lg:prose-xl prose-neutral max-w-none mx-auto;
-    @apply bg-neutral-50 prose-headings:text-lime-700;
-    @apply dark:prose-invert dark:font-medium dark:bg-neutral-800 dark:prose-headings:text-lime-300;
+    @apply prose prose-neutral mx-auto max-w-none font-["NewsreaderVariable"] font-normal md:prose-lg lg:prose-xl;
+    @apply bg-neutral-100;
+    @apply dark:prose-invert dark:bg-neutral-800 dark:font-medium;
+    @apply hover:prose-a:text-lime-700 dark:hover:prose-a:text-lime-300;
+    @apply prose-blockquote:prose-base prose-blockquote:font-normal;
+    @apply prose-code:font-normal prose-code:text-lime-700 dark:prose-code:text-lime-300;
   }
   body {
-    @apply box-content px-4 py-6 overflow-x-hidden mx-auto max-w-6xl;
+    @apply mx-auto box-content max-w-6xl overflow-x-hidden px-4 py-6;
   }
 }
 
 @layer components {
   img {
-    @apply max-w-full block mx-auto my-0 max-h-96 rounded;
-  }
-
-  /* blockquote {
-    @apply px-6 py-4 m-0 font-light  bg-neutral-100 dark:bg-neutral-700 rounded;
-  }
-  blockquote > p {
-    @apply p-0;
+    @apply mx-auto my-0 block max-h-96 max-w-full rounded;
   }
 
   cite {
-    @apply block w-full text-right mt-5 italic font-normal text-lime-700 dark:text-lime-300;
+    @apply block w-full pt-4 text-right italic;
   }
   cite > a {
-    @apply font-normal;
+    @apply font-normal not-italic;
   }
   cite:before {
     content: "― ";
-  } */
-  a {
-    @apply no-underline font-semibold  text-lime-700 cursor-pointer;
-    @apply hover:text-neutral-800 focus:text-neutral-800 hover:bg-yellow-100 focus:bg-yellow-100;
-    @apply dark:text-lime-300 dark:hover:bg-yellow-400 dark:focus:bg-yellow-400 dark:hover:text-neutral-600 dark:focus:text-neutral-600;
   }
+  /* a {
+    @apply cursor-pointer font-semibold  text-lime-700 no-underline;
+    @apply hover:bg-yellow-100 hover:text-neutral-800 focus:bg-yellow-100 focus:text-neutral-800;
+    @apply dark:text-lime-300 dark:hover:bg-yellow-400 dark:hover:text-neutral-600 dark:focus:bg-yellow-400 dark:focus:text-neutral-600;
+  } */
   a.new {
     @apply underline decoration-dashed;
   }
@@ -53,5 +49,17 @@
   article > *:first-child {
     margin-top: 0;
     padding-top: 0;
+  }
+
+  .prose :where(code):not(:where([class~="not-prose"] *))::after,
+  .prose :where(code):not(:where([class~="not-prose"] *))::before {
+    content: "";
+  }
+  blockquote p:first-of-type::before,
+  blockquote p:first-of-type::after {
+    content: "";
+  }
+  mark {
+    @apply rounded-sm bg-lime-300 px-1 py-[0.15rem];
   }
 }

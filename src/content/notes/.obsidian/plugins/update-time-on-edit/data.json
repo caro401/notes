@@ -6,9 +6,6 @@
   "headerUpdated": "updatedDate",
   "headerCreated": "pubDate",
   "minMinutesBetweenSaves": 10,
-  "ignoreGlobalFolder": [
-    "_templates",
-    "templates"
-  ],
+  "ignoreGlobalFolder": ["_templates", "templates"],
   "ignoreCreatedFolder": []
 }

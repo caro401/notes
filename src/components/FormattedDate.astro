@@ -1,13 +1,11 @@
 ---
 export interface Props {
-	date: Date;
+  date: Date;
 }
 
 const { date } = Astro.props;
 ---
 
-<time class="font-normal inline" datetime={date.toISOString()}>
-	{
-		date.toLocaleDateString('sv-se')
-	}
+<time class="inline font-light" datetime={date.toISOString()}>
+  {date.toLocaleDateString("sv-se")}
 </time>

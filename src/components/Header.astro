@@ -1,22 +1,29 @@
 ---
-import HeaderLink from './HeaderLink.astro';
-import Icon from './Icon.astro';
+import HeaderLink from "./HeaderLink.astro";
+import Icon from "./Icon.astro";
 ---
 
-<header class='flex items-center justify-between'>
-	<h2 class='text-xl'>
-<a class='internal' href='/'>Caro is thinking out loud</a>	</h2>
-	<nav class='flex items-center gap-2'>
-		<HeaderLink href="/search"><span class='sr-only'>Search</span><Icon icon='search'></Icon> </HeaderLink>
-		<HeaderLink href="https://github.com/caro401/public-notes" target="_blank"><span class="sr-only">GitHub</span>
-			<Icon icon='github-logo' /></HeaderLink>
-	</nav>
+<header class="flex items-center justify-between">
+  <h2 class="text-xl">
+    <a class="internal text-lime-700 no-underline dark:text-lime-300" href="/"
+      >Caro is thinking out loud</a
+    >
+  </h2>
+  <nav class="flex items-center gap-2">
+    <HeaderLink href="/search">
+      <span class="sr-only">Search</span><Icon icon="search" />
+    </HeaderLink>
+    <HeaderLink href="https://github.com/caro401/public-notes" target="_blank">
+      <span class="sr-only">GitHub</span>
+      <Icon icon="github-logo" />
+    </HeaderLink>
+  </nav>
 </header>
 <style>
-	header {
-		margin: 0em 0 2em;
-	}
-	h2 {
-		margin: 0.5em 0;
-	}
+  header {
+    margin: 0em 0 2em;
+  }
+  h2 {
+    margin: 0.5em 0;
+  }
 </style>

@@ -1,6 +1,6 @@
 ---
-title: _frontmatter
-pubDate: 2023-04-13 11:27
-updatedDate: 2023-04-13 18:50
-id: 20230413110471-_frontmatter
+title: <%tp.file.title %>
+pubDate: <%tp.file.creation_date()%>
+updatedDate: <%tp.file.last_modified_date()%>
+id: <%tp.file.creation_date('YYYYMMDDHHMMSS')%>-<%tp.file.title.replaceAll(' ', '-').toLowerCase()%>
 ---

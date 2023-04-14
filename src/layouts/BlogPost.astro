@@ -27,10 +27,10 @@ const inLinks = allLinks_.get(slug) || [];
 
   <body>
     <Header />
-    <main class="wrapper max-w-7xl m-0 p-0 min-h-screen">
+    <main class="wrapper min-h-screen max-w-prose px-auto p-0">
       <div class="meta">
-        <p class="text-neutral-600 dark:text-neutral-300 font-light text-sm">
-          Planted <FormattedDate date={pubDate} />{
+        <p class="text-sm font-light text-neutral-600 dark:text-neutral-300">
+          Created <FormattedDate date={pubDate} />{
             updatedDate && (
               <span class="block">
                 Last updated <FormattedDate date={updatedDate} />
@@ -41,63 +41,38 @@ const inLinks = allLinks_.get(slug) || [];
         <h1>{title}</h1>
       </div>
 
-      <article>
+      <article class=''>
         <slot />
       </article>
-      <aside class="not-prose">
-		<section class='bg-neutral-100 rounded-lg p-2'>
-        <h3 class="text-base font-bold mb-2 pt-0 mt-0">Notes mentioning this note</h3>
-        {
-          inLinks.length > 0 ? (
-            <>
-              {inLinks.map((l) => (
-                  <a class="internal text-sm" href={`/${l.permalink}`}>
-                    {l.title}
-                  </a>
-                  <p  class="text-xs font-light leading-5">{l.snippet}</p>
-              ))}
-            </>
-          ) : (
-            <div>
-              <p class="text-xs font-light leading-5">There are no notes linking to this note.</p>
-            </div>
-          )
-        }
-		</section>
+      <aside class="rounded-lg bg-neutral-200 dark:bg-neutral-700 p-4 mt-8">
+          <h3 class="mb-2 mt-0 pt-0 text-base font-bold">
+            Notes mentioning this note
+          </h3>
+          {
+            inLinks.length > 0 ? (
+              <>
+                {inLinks.map((l) => (
+                  <>
+                    <a class="internal text-sm" href={`/${l.permalink}`}>
+                      {l.title}
+                    </a>
+                    <p class="text-xs font-light dark:font-normal leading-5 mt-0">{l.snippet}</p>
+                  </>
+                ))}
+              </>
+            ) : (
+              <div>
+                <p class="text-xs font-light dark:font-normal leading-5">
+                  There are no notes linking to this note.
+                </p>
+              </div>
+            )
+          }
       </aside>
     </main>
     <Footer />
-  </body><style>
-    div.meta {
-		@apply h-fit max-h-fit;
-      grid-area: meta;
-    }
-    article {
-      @apply h-full ;
-	  grid-area: content;
+    <style>
 
-    }
-    aside {
-      grid-area: sidebar;
-    }
-
-    .wrapper {
-      display: grid;
-      grid-gap: 0 3em;
-	  grid-template-rows: max-content 1fr;
-	  grid-template-columns: minmax(60%, 65ch) auto;
-	  grid-template-areas:
-        "meta meta"
-        "content sidebar";
-    }
-    @media (max-width: 1024px) {
-      .wrapper {
-        grid-template-columns: 4fr;
-        grid-template-areas:
-          "meta"
-          "content"
-          "sidebar";
-      }
-    }
-  </style>
+    </style>
+  </body>
 </html>

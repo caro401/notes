@@ -1,50 +1,56 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
-import { getCollection } from 'astro:content';
-const posts = await getCollection('notes');
-const allPosts = posts.sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()).slice(0,4);
-
-
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import { getCollection } from "astro:content";
+const posts = await getCollection("notes");
+const allPosts = posts
+  .sort(
+    (a, b) =>
+      new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+  )
+  .slice(0, 4);
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body data-pagefind-ignore>
-		<Header title={SITE_TITLE} />
-		<main>
-			<h1>Welcome 👋</h1>
-			<p>
-	I'm currently thinking out loud about
-			</p>
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body data-pagefind-ignore>
+    <Header title={SITE_TITLE} />
+    <main>
+      <h1 class="text-lime-700 dark:text-lime-300">Welcome 👋</h1>
+      <p>I'm currently thinking out loud about</p>
 
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li><a href='/weaving'>weaving</a></li>
-				<li><a href='/getting-stuff-done'>getting stuff done</a></li>
-						</ul>
-			<p>
+      <ul>
+        <li><a href="/weaving">weaving</a></li>
+        <li><a href="/getting-stuff-done">getting stuff done</a></li>
+        <li><a href="/learning-rust">learning rust</a></li>
+      </ul>
+      <p>
+        and a bunch of other random topics. Have a look around or <a
+          href="/search">search</a
+        > for something interesting.
+      </p>
+      <p>
+        Here's a bit more <a href="/about-these-notes">about these notes</a> to explain
+        how they work.
+      </p>
+      <h2>Recently updated</h2>
+      <ol class="list-disc">
+        {
+          allPosts.map((blogPostEntry) => (
+            <li>
+              <a href={`/${blogPostEntry.slug}`}>{blogPostEntry.data.title}</a>
+            </li>
+          ))
+        }
+      </ol>
+    </main>
 
-and a bunch of other random topics. Have a look around or <a href='/search'>search</a> for something interesting.
-			</p>
-			<p>
-				Here's a bit more <a href='/about-these-notes'>about these notes</a> to explain how they work.
-			</p>
-			<h2>Recently updated</h2>
-			<ol class="list-disc">		{allPosts.map(blogPostEntry => (
-				<li>
-				  <a href={`/${blogPostEntry.slug}`}>{blogPostEntry.data.title}</a>
-
-				</li>
-			  ))}</ol>
-		</main>
-
-		<Footer />
-	</body>
+    <Footer />
+  </body>
 </html>

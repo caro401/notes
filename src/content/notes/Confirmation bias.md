@@ -2,7 +2,7 @@
 id: 2204022047873-confirmation-bias
 title: "Confirmation bias is when you look for evidence to prove a hypothesis you already have"
 pubDate: 2022-06-30 15:52
-updatedDate: 2023-04-13 11:34
+updatedDate: 2023-04-14 13:23
 ---
 
 Confirmation bias is when you look for evidence to prove a hypothesis you already have, gravitating towards evidence that supports your belief.

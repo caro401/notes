@@ -10,7 +10,7 @@ module.exports = {
           "Newsreader",
           ...defaultTheme.fontFamily.serif,
         ],
-        mono: ["FiraMono", ...defaultTheme.fontFamily.mono],
+        mono: ["Fira Mono", ...defaultTheme.fontFamily.mono],
       },
     },
   },

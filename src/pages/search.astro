@@ -18,10 +18,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
         id="search"
         type="text"
         placeholder="Search for..."
-        class="bg-neutral-50 border border-neutral-300 text-neutral-900 text-sm rounded-lg focus:ring-lime-500 focus:border-lime-500 block w-full p-2.5 dark:bg-neutral-700 dark:border-neutral-600 dark:placeholder-neutral-400 dark:text-neutral-50 dark:focus:ring-lime-500 dark:focus:border-lime-500"
+        class="block w-full rounded-lg border border-neutral-300 bg-neutral-50 p-2.5 text-sm text-neutral-900 focus:border-lime-500 focus:ring-lime-500 dark:border-neutral-600 dark:bg-neutral-700 dark:text-neutral-50 dark:placeholder-neutral-400 dark:focus:border-lime-500 dark:focus:ring-lime-500"
       />
 
-      <div id="results"></div>
+      <div id="results" class="not-prose"></div>
 
       <script is:inline>
         document
@@ -35,19 +35,23 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
             }
 
             // search the index using the input value
-            const search = await window.pagefind.search(e.target.value);
+            const search = await window.pagefind.debouncedSearch(
+              e.target.value
+            );
 
             // clear the old results
             document.querySelector("#results").innerHTML = "";
 
-            // add the new results
-            for (const result of search.results) {
-              const data = await result.data();
-              document.querySelector("#results").innerHTML += `
-                    <a href="${data.url}">
-                      <h3>${data.meta.title}</h3>
-                      <p>${data.excerpt}</p>
+            if (search !== null) {
+              // add the new results
+              for (const result of search.results) {
+                const data = await result.data();
+                document.querySelector("#results").innerHTML += `
+                    <a class='block group no-underline font-normal not-prose py-4' href="${data.url}">
+                      <h3 class='text-xl font-bold leading-tight group-hover:text-lime-700 dark:group-hover:text-lime-300'>${data.meta.title}</h3>
+                      <p class='no-underline leading-normal pt-2'>... ${data.excerpt} ...</p>
                     </a>`;
+              }
             }
           });
       </script>
