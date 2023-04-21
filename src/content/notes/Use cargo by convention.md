@@ -1,7 +1,7 @@
 ---
 title: Use cargo by convention
 pubDate: 2023-04-13 12:32
-updatedDate: 2023-04-13 13:31
+updatedDate: 2023-04-17 10:39
 id: 20230413120482-use-cargo-by-convention
 ---
 
@@ -11,7 +11,10 @@ I try to manange all my other projects in other languages using a [`justfile`](h
 
 `cargo` also provides the `cargo doc` command, to build HTML docs of your code and its dependencies.
 
+Use `cargo add` to add dependencies, rather than typing them into your `cargo.toml` file. When you add a package like this, cargo installs it and tells you what features are installed and availablt. If you want to add a feature for that crate, use the `-F` flag, like `cargo add tokio -F macros`
+
 ## Sources
 
 - [The Rust Book, chapter 1.3](https://rust-book.cs.brown.edu/ch01-03-hello-cargo.html#cargo-as-convention)
 - [The Cargo Book command reference](https://doc.rust-lang.org/cargo/commands/cargo-doc.html)
+- [Introduction to Axum video](https://www.youtube.com/watch?v=QCktBeTkOjA&list=PLrmY5pVcnuE-_CP7XZ_44HN-mDrLQV4nS&index=6) covers `cargo add` and some tips for finding and assessing packages.

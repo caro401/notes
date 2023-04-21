@@ -1,7 +1,7 @@
 ---
 title: Learning Rust
 pubDate: 2023-04-13 11:57
-updatedDate: 2023-04-13 16:51
+updatedDate: 2023-04-17 10:41
 id: 20230413110483-learning-rust
 ---
 
@@ -27,3 +27,4 @@ Why Rust and why now? The other day I stumbled across [this Reddit post about AD
 - [[Rust structs are like tuples with named data]]
 - [[Rust methods are like functions defined in the context of a struct]]
 - [[A crate is the smallest amount of code the Rust compiler considers at a time]]
+- [[Search rust docs quickly from raycast]]

@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "Newsreader",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "showViewHeader": true
 }
