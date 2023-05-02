@@ -3,7 +3,9 @@ import { CollectionEntry, getCollection } from "astro:content";
 import BlogPost from "../layouts/BlogPost.astro";
 
 export async function getStaticPaths() {
-  const posts = (await getCollection("notes")).filter(p => p.id !== 'templates/_frontmatter.md');
+  const posts = (await getCollection("notes")).filter(
+    (p) => p.id !== "templates/_frontmatter.md"
+  );
   return posts.map((post) => {
     return {
       params: { slug: post.slug },

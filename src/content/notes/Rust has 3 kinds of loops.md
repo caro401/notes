@@ -104,7 +104,7 @@ fn main() {
             println!("`i` is `{:?}`. Try again.", i);
             optional = Some(i + 1);
         }
-        // ^ Less rightward drift than match, and doesn't 
+        // ^ Less rightward drift than match, and doesn't
         // require explicitly handling the failing case.
     }
 }
@@ -113,41 +113,42 @@ fn main() {
 Usually you want a for-loop for iterating over a collection, but you'd use this thing instead when the thing you are iterating over needs something async doing to it, for example reading lines from a file where the value needs to be awaited.
 
 ```rust
-use tokio::fs::File;  
-use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader, Result as TokioResult};  
-  
-#[tokio::main]  
-async fn main() -> TokioResult<()> {  
-create_file().await?;  
-let file = File::open("/tmp/test.txt").await?;  
-  
-// Shadow file here because I don't really care there is a bufreader thingy,  
-// I just want the file contents  
-let mut file = BufReader::new(file).lines();  
-  
-// You have to call lines before your loop so you have an iterator thingy, not a BufReader,  
-// because the loop needs to access the thing every time it runs and ownership things  
-while let Some(line) = file.next_line().await? {  
-println!("{line}");  
-}  
-  
-// You can't do this because for is trying to do iterator.next(),  
-// but Lines (from tokio) isn't an iterator (because it does async things it's a stream)  
-// for line in file {  
-// println!("{line}");  
-// }  
-  
-Ok(())  
-// prints hello then world, because that's whats in your file until it runs out of lines  
-}  
-  
-async fn create_file() -> tokio::io::Result<()> {  
-File::create("/tmp/test.txt")  
-.await?  
-.write_all(b"hello\nworld")  
-.await  
+use tokio::fs::File;
+use tokio::io::{AsyncBufReadExt, AsyncWriteExt, BufReader, Result as TokioResult};
+
+#[tokio::main]
+async fn main() -> TokioResult<()> {
+create_file().await?;
+let file = File::open("/tmp/test.txt").await?;
+
+// Shadow file here because I don't really care there is a bufreader thingy,
+// I just want the file contents
+let mut file = BufReader::new(file).lines();
+
+// You have to call lines before your loop so you have an iterator thingy, not a BufReader,
+// because the loop needs to access the thing every time it runs and ownership things
+while let Some(line) = file.next_line().await? {
+println!("{line}");
+}
+
+// You can't do this because for is trying to do iterator.next(),
+// but Lines (from tokio) isn't an iterator (because it does async things it's a stream)
+// for line in file {
+// println!("{line}");
+// }
+
+Ok(())
+// prints hello then world, because that's whats in your file until it runs out of lines
+}
+
+async fn create_file() -> tokio::io::Result<()> {
+File::create("/tmp/test.txt")
+.await?
+.write_all(b"hello\nworld")
+.await
 }
 ```
+
 ## Sources
 
 - [The Rust Book chapter 3.5](https://rust-book.cs.brown.edu/ch03-05-control-flow.html#repetition-with-loops)

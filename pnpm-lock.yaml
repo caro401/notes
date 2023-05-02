@@ -13,9 +13,6 @@ dependencies:
   "@astrojs/tailwind":
     specifier: ^3.1.1
     version: 3.1.1(astro@2.3.0)(tailwindcss@3.3.1)
-  "@fontsource/chivo-mono":
-    specifier: ^4.5.1
-    version: 4.5.1
   "@fontsource/fira-mono":
     specifier: ^4.5.10
     version: 4.5.10
@@ -859,13 +856,6 @@ packages:
       mdast-util-wiki-link: 0.0.2
       micromark-util-symbol: 1.0.1
     dev: true
-
-  /@fontsource/chivo-mono@4.5.1:
-    resolution:
-      {
-        integrity: sha512-/Q35PEDYn17FAUWcYuLZ9VQxT83SikEPKX8vs0ptDS2+AcjZYa3GngewRbzVMwnHJ40mOq/ydJm2UMCZdw4WPw==,
-      }
-    dev: false
 
   /@fontsource/fira-mono@4.5.10:
     resolution:

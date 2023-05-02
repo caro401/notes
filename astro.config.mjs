@@ -22,5 +22,5 @@ export default defineConfig({
     rehypePlugins: [["rehype-external-links", { target: "_blank" }]],
   },
   integrations: [sitemap(), tailwind()],
-  build: { format: 'file' }
+  build: { format: "file" },
 });

@@ -1,16 +1,13 @@
 ---
-import type { CollectionEntry } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import { allLinks } from "../lib/makeBacklinks";
 
-type Props = CollectionEntry<"notes">["data"];
-
 const allLinks_ = await allLinks;
 
-const { title, description, pubDate, updatedDate, heroImage, slug } =
+const { title, description, pubDate, updatedDate, slug } =
   Astro.props;
 const inLinks = allLinks_.get(slug) || [];
 ---
@@ -27,7 +24,7 @@ const inLinks = allLinks_.get(slug) || [];
 
   <body>
     <Header />
-    <main class="wrapper min-h-screen max-w-prose px-auto p-0">
+    <main class="wrapper px-auto min-h-screen max-w-prose p-0">
       <div class="meta">
         <p class="text-sm font-light text-neutral-600 dark:text-neutral-300">
           Created <FormattedDate date={pubDate} />{
@@ -41,38 +38,37 @@ const inLinks = allLinks_.get(slug) || [];
         <h1>{title}</h1>
       </div>
 
-      <article class=''>
+      <article class="">
         <slot />
       </article>
-      <aside class="rounded-lg bg-neutral-200 dark:bg-neutral-700 p-4 mt-8">
-          <h3 class="mb-2 mt-0 pt-0 text-base font-bold">
-            Notes mentioning this note
-          </h3>
-          {
-            inLinks.length > 0 ? (
-              <>
-                {inLinks.map((l) => (
-                  <>
-                    <a class="internal text-sm" href={`/${l.permalink}`}>
-                      {l.title}
-                    </a>
-                    <p class="text-xs font-light dark:font-normal leading-5 mt-0">{l.snippet}</p>
-                  </>
-                ))}
-              </>
-            ) : (
-              <div>
-                <p class="text-xs font-light dark:font-normal leading-5">
-                  There are no notes linking to this note.
-                </p>
-              </div>
-            )
-          }
+      <aside class="mt-8 rounded-lg bg-neutral-200 p-4 dark:bg-neutral-700">
+        <h3 class="mb-2 mt-0 pt-0 text-base font-bold">
+          Notes mentioning this note
+        </h3>
+        {
+          inLinks.length > 0 ? (
+            <>
+              {inLinks.map((l) => (
+                <>
+                  <a class="internal text-sm" href={`/${l.permalink}`}>
+                    {l.title}
+                  </a>
+                  <p class="mt-0 text-xs font-light leading-5 dark:font-normal">
+                    {l.snippet}
+                  </p>
+                </>
+              ))}
+            </>
+          ) : (
+            <div>
+              <p class="text-xs font-light leading-5 dark:font-normal">
+                There are no notes linking to this note.
+              </p>
+            </div>
+          )
+        }
       </aside>
     </main>
     <Footer />
-    <style>
-
-    </style>
   </body>
 </html>
