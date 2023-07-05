@@ -31,9 +31,9 @@ dependencies:
     version: 3.3.2
 
 devDependencies:
-  '@portaljs/remark-wiki-link':
-    specifier: ^1.0.4
-    version: 1.0.4
+  '@flowershow/remark-wiki-link':
+    specifier: 1.1.2
+    version: 1.1.2
   '@tailwindcss/typography':
     specifier: ^0.5.9
     version: 0.5.9(tailwindcss@3.3.2)
@@ -667,6 +667,15 @@ packages:
     dev: false
     optional: true
 
+  /@flowershow/remark-wiki-link@1.1.2:
+    resolution: {integrity: sha512-BfRkavWSx0zUDQJwyLYa7q+EFNR+M6o5VvV1FrUcaqLzB3FgJnkwQzgiaxlIGNseK1n1gtlKIniCg+YIy4x0hw==}
+    deprecated: This package has been renamed to `@portaljs/remark-wiki-link`. Please use it instead.
+    dependencies:
+      mdast-util-to-markdown: 1.5.0
+      mdast-util-wiki-link: 0.0.2
+      micromark-util-symbol: 1.1.0
+    dev: true
+
   /@fontsource/fira-mono@4.5.10:
     resolution: {integrity: sha512-bxUnRP8xptGRo8YXeY073DSpfK74XpSb0ZyRNpHV9WvLnJ7TwPOjZll8hTMin7zLC6iOp59pDZ8EQDj1gzgAQQ==}
     dev: false
@@ -774,14 +783,6 @@ packages:
       open: 9.1.0
       picocolors: 1.0.0
       tslib: 2.6.0
-
-  /@portaljs/remark-wiki-link@1.0.4:
-    resolution: {integrity: sha512-cp6vlssDAPawcBI0vUPRpcPdORql3RbK1Q+t1LuRvMQ+yiRb+9DnSPBUviDXKqwsBMOOXP/ePAdYohaeXGt0lQ==}
-    dependencies:
-      mdast-util-to-markdown: 1.5.0
-      mdast-util-wiki-link: 0.0.2
-      micromark-util-symbol: 1.1.0
-    dev: true
 
   /@proload/core@0.3.3:
     resolution: {integrity: sha512-7dAFWsIK84C90AMl24+N/ProHKm4iw0akcnoKjRvbfHifJZBLhaDsDus1QJmhG12lXj4e/uB/8mB/0aduCW+NQ==}
