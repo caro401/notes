@@ -18,7 +18,7 @@ export default defineConfig({
       // Enable word wrap to prevent horizontal scrolling
       wrap: true,
     },
-    remarkPlugins: [["@flowershow/remark-wiki-link", wikiLinkConfig]],
+    remarkPlugins: [["@portaljs/remark-wiki-link", wikiLinkConfig]],
     rehypePlugins: [["rehype-external-links", { target: "_blank" }]],
   },
   integrations: [sitemap(), tailwind()],
