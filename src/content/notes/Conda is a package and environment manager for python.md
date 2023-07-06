@@ -1,11 +1,11 @@
 ---
 title: Conda is a package and environment manager for python
 pubDate: 2023-05-22 14:10
-updatedDate: 2023-05-23 12:24
+updatedDate: 2023-07-06 17:57
 id: 20230522140501-conda-is-a-package-and-environment-manager-for-python
 ---
 
-I usually use poetry for managing my dependencies, but other folks often use conda so I need to know my way around it. Like poetry, conda manages virtual environments, and getting packages installed into those environments. It is mostly useful for scientific computing applications, because of how it distributes pre-built packages. This means you can use C- or Fortran-based packages without needing a compiler installed, as long as there's a binary for your architecture. 
+I usually use poetry for managing my dependencies, but other folks often use conda so I need to know my way around it. Like poetry, conda manages virtual environments, and getting packages installed into those environments. It is mostly useful for scientific computing applications, because of how it distributes pre-built packages. This means you can use C- or Fortran-based packages without needing a compiler installed, as long as there's a binary for your architecture.
 
 As usual, I get my shell prompt to help remind me I'm using conda. I use starship, [here's the docs for the conda prompt section](https://starship.rs/config/#conda)
 
@@ -67,7 +67,7 @@ conda list
 conda list -n myenv
 ```
 
-You can use pip with conda, but they recommend installing as much as you can using conda, and then [conda-forge](https://conda-forge.org/) before falling back to pip. 
+You can use pip with conda, but they recommend installing as much as you can using conda, and then [conda-forge](https://conda-forge.org/) before falling back to pip.
 
 Conda's lockfile-type thing is called `environment.yml`. You make one like this
 ```sh

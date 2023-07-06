@@ -4,14 +4,16 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
-  "page-preview",
-  "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "bookmarks",
   "outline",
-  "word-count"
+  "random-note",
+  "word-count",
+  "sync"
 ]

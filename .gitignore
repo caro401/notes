@@ -19,7 +19,13 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+src/content/notes/.obsidian/workspace.json
+src/content/notes/.obsidian/graph.json
 src/content/notes/.obsidian/workspace.json
 src/content/notes/.obsidian/plugins/**/*.js
 src/content/notes/.obsidian/plugins/**/*.css
 src/content/notes/.obsidian/plugins/**/manifest.json
+src/content/notes/.obsidian/plugins/**/data.json
+
+src/content/notes/embed

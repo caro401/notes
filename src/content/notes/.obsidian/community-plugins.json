@@ -1,5 +1,13 @@
 [
+  "customizable-sidebar",
+  "obsidian-minimal-settings",
+  "nldates-obsidian",
+  "oz-image-plugin",
+  "obsidian-system-dark-mode",
+  "obsidian-local-images",
+  "obsidian-git",
+  "obsidian-advanced-uri",
   "update-time-on-edit",
-  "templater-obsidian",
-  "url-into-selection"
+  "recent-files-obsidian",
+  "templater-obsidian"
 ]

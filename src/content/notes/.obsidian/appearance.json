@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "textFontFamily": "Newsreader",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
-  "theme": "system",
-  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Operator Mono",
+  "theme": "moonstone",
+  "cssTheme": "",
   "translucency": false,
-  "showViewHeader": true
+  "showViewHeader": false,
+  "interfaceFontFamily": ""
 }

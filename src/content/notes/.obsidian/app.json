@@ -1,4 +1,17 @@
 {
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true
+  "showInlineTitle": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "embed",
+  "userIgnoreFilters": [
+    "embed/"
+  ],
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download"
 }

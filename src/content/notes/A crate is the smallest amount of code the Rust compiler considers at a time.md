@@ -1,7 +1,7 @@
 ---
 title: A crate is the smallest amount of code the Rust compiler considers at a time
 pubDate: 2023-04-13 16:50
-updatedDate: 2023-05-02 13:33
+updatedDate: 2023-07-06 17:56
 id: 20230413160416-a-crate-is-the-smallest-amount-of-code-the-rust-compiler-considers-at-a-time
 ---
 
