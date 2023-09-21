@@ -25,7 +25,7 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
 <meta name="generator" content={Astro.generator} />
 
 <!-- Canonical URL -->
-<link rel="canonical" href={canonicalURL} />
+<link rel="canonical" href={canonicalURL.toString().replace(/.html$/, '')} />
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
