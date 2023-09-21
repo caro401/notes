@@ -1,7 +1,7 @@
 ---
 title: Conda is a package and environment manager for python
 pubDate: 2023-05-22 14:10
-updatedDate: 2023-07-06 17:57
+updatedDate: 2023-07-24 13:19
 id: 20230522140501-conda-is-a-package-and-environment-manager-for-python
 ---
 

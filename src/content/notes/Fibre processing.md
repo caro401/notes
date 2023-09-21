@@ -2,7 +2,7 @@
 id: 20221213045714-fibre-processing
 title: Fibre processing
 pubDate: 2022-12-13 16:56
-updatedDate: 2023-07-06 17:56
+updatedDate: 2023-07-24 13:19
 created: 2023-04-04T18:11
 updated: 2023-04-05T13:28
 ---

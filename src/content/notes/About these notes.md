@@ -1,7 +1,7 @@
 ---
 title: About these notes
 pubDate: 2022-06-30 10:26
-updatedDate: 2023-07-06 17:56
+updatedDate: 2023-07-24 13:19
 ---
 
 This is my space for sharing the random things I'm thinking about at any time. Everything is a work in progress, my own opinion, and subject to change. In general, assume I'm making notes on a topic I am learning about as a beginner, and that nothing stated here is necessarily true, just reflecting the best of my knowledge at the time.

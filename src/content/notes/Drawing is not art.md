@@ -2,7 +2,7 @@
 id: 20220826051222-drawing-is-not-art
 title: Drawing is not art
 pubDate: 2022-08-26 17:12
-updatedDate: 2023-07-06 17:56
+updatedDate: 2023-07-24 13:19
 created: 2023-04-04T18:10
 updated: 2023-04-05T13:28
 ---

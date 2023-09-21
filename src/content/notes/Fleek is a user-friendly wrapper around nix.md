@@ -1,7 +1,7 @@
 ---
 title: Fleek is a user-friendly wrapper around nix
 pubDate: 2023-05-02 13:33
-updatedDate: 2023-07-06 17:57
+updatedDate: 2023-07-24 13:19
 id: 20230502130535-fleek-is-a-user-friendly-wrapper-around-nix
 ---
 

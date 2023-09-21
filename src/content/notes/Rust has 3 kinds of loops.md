@@ -1,7 +1,7 @@
 ---
 title: Rust has 3 kinds of loops
 pubDate: 2023-04-13 15:04
-updatedDate: 2023-07-06 17:56
+updatedDate: 2023-07-24 13:19
 id: 20230413150463-rust-has-3-kinds-of-loops
 ---
 
