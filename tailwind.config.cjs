@@ -6,7 +6,7 @@ module.exports = {
     extend: {
       fontFamily: {
         serif: [
-          "NewsreaderVariable",
+          "Newsreader Variable",
           "Newsreader",
           ...defaultTheme.fontFamily.serif,
         ],
