@@ -2,9 +2,9 @@
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
 import "../styles/global.css";
-import "@fontsource/newsreader/variable.css";
-import "@fontsource/newsreader/variable-italic.css";
-
+// Supports weights 200-800
+import '@fontsource-variable/newsreader';
+import '@fontsource-variable/newsreader/wght-italic.css';
 import "@fontsource/fira-mono/400.css";
 
 export interface Props {
@@ -13,10 +13,13 @@ export interface Props {
   image?: string;
 }
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString().replace(/.html$/, '');
-const currentURL = Astro.url.toString().replace(/.html$/, '')
+const canonicalURL = new URL(Astro.url.pathname, Astro.site)
+  .toString()
+  .replace(/.html$/, "");
+const currentURL = Astro.url.toString().replace(/.html$/, "");
 const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
 ---
+
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -36,7 +39,7 @@ const { title, description, image = "/placeholder-social.jpg" } = Astro.props;
   :root,
   html,
   main {
-    font-family: "NewsreaderVariable", Newsreader, Georgia, "Times New Roman",
+    font-family: "Newsreader Variable", Newsreader, Georgia, "Times New Roman",
       Times, serif;
   }
 </style>

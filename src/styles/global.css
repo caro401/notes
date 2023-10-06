@@ -8,7 +8,7 @@
   }
 
   html {
-    @apply prose prose-neutral mx-auto max-w-none font-["NewsreaderVariable"] font-normal md:prose-lg lg:prose-xl;
+    @apply prose prose-neutral mx-auto max-w-none font-normal md:prose-lg lg:prose-xl;
     @apply bg-neutral-100;
     @apply dark:prose-invert dark:bg-neutral-800 dark:font-medium;
     @apply hover:prose-a:text-lime-700 dark:hover:prose-a:text-lime-300;
