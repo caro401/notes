@@ -13,4 +13,4 @@ I like to acquire fleeces from local sheep and alpaca owners. These need a bunch
 
 ### Sources
 
- - [This video about combing](https://www.youtube.com/watch?v=bGbhEuqyTGo) is a great demo
+- [This video about combing](https://www.youtube.com/watch?v=bGbhEuqyTGo) is a great demo

@@ -51,7 +51,7 @@ async function makeLinks() {
 
   for (const notePage of allNotes) {
     for (const link of extractPermalinks(
-      await processor.parse(notePage.body)
+      await processor.parse(notePage.body),
     )) {
       const links = inLinks.get(link.permalink) || [];
       links.push({

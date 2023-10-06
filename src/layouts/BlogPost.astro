@@ -7,8 +7,7 @@ import { allLinks } from "../lib/makeBacklinks";
 
 const allLinks_ = await allLinks;
 
-const { title, description, pubDate, updatedDate, slug } =
-  Astro.props;
+const { title, description, pubDate, updatedDate, slug } = Astro.props;
 const inLinks = allLinks_.get(slug) || [];
 ---
 

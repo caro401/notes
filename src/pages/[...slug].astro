@@ -4,7 +4,7 @@ import BlogPost from "../layouts/BlogPost.astro";
 
 export async function getStaticPaths() {
   const posts = (await getCollection("notes")).filter(
-    (p) => p.id !== "templates/_frontmatter.md"
+    (p) => p.id !== "templates/_frontmatter.md",
   );
   return posts.map((post) => {
     return {

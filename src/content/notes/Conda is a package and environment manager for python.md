@@ -10,6 +10,7 @@ I usually use poetry for managing my dependencies, but other folks often use con
 As usual, I get my shell prompt to help remind me I'm using conda. I use starship, [here's the docs for the conda prompt section](https://starship.rs/config/#conda)
 
 Miniconda is the install of conda that comes with just enough to run conda itself. Anaconda comes bundled with a ton of packages - it is 3GB or so on disk.
+
 ## Managing environments
 
 Taken from conda's own [getting started guide](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
@@ -31,6 +32,7 @@ conda activate # no name here
 ```
 
 Check what envs you have like
+
 ```sh
 conda info --envs
 #or
@@ -42,6 +44,7 @@ conda env list
 check which python you are using with `which python`, or `where python` on Windows.
 
 You can set environment variables within specific conda environments like
+
 ```sh
 conda env config vars set my_var=value
 # see the env vars managed by conda
@@ -51,16 +54,19 @@ conda env config vars list
 ## Managing packages
 
 Look for a package
+
 ```sh
 conda search beautifulsoup4
 ```
 
 then install it into the currently active environment
+
 ```sh
 conda install beautifulsoup4
 ```
 
 Check what other packages are installed
+
 ```sh
 conda list
 # or to ask about an environment that isn't currently active
@@ -70,12 +76,12 @@ conda list -n myenv
 You can use pip with conda, but they recommend installing as much as you can using conda, and then [conda-forge](https://conda-forge.org/) before falling back to pip.
 
 Conda's lockfile-type thing is called `environment.yml`. You make one like this
+
 ```sh
 conda env export > environment.yml
 ```
+
 This is the equivalent of pip freeze - you get everything installed in that environment, as well as the python version, any environment variables and the name. If you just want the things you specifically installed, use `conda env export --from-history`. You can then create an environment from this file using `conda env create -f environment.yml`
-
-
 
 ```sh
 # open a new prompt then

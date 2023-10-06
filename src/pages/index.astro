@@ -9,12 +9,12 @@ const posts = await getCollection("notes");
 const allPosts = posts
   .sort(
     (a, b) =>
-      new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+      new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
   )
   .slice(0, 4);
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
@@ -36,8 +36,8 @@ const allPosts = posts
         > for something interesting.
       </p>
       <p>
-        Here's a bit more <a href="/about-these-notes">about these notes</a> to explain
-        how they work.
+        Here's a bit more <a href="/about-these-notes">about these notes</a> to
+        explain how they work.
       </p>
       <h2>Recently updated</h2>
       <ol class="list-disc">

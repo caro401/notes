@@ -9,7 +9,7 @@ This cowl has a really clever construction, using warp threads from the start of
 
 So far I've made two cowls from this pattern, one in dark green wool yarns including a bit of boucle yarn for texture, and one in teal and pink fluffy yarns.
 
-There's a few useful tips, including stabilising all the partially finished edges when you start the weaving across bit, and using a dowel tied to your cloth beam to help with catching the cloth before you start the tricky bit. 
+There's a few useful tips, including stabilising all the partially finished edges when you start the weaving across bit, and using a dowel tied to your cloth beam to help with catching the cloth before you start the tricky bit.
 
 ### Sources
 
