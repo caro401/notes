@@ -18,7 +18,7 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
 - [[Notebook Covers on a rigid heddle loom]]
 - [[Tote bag from a long strip of cloth]]
 - [[Colour gamp or colour sampler]]
-
+- [[Rag rugs]]
 ## Tools
 
 - [Seizenn band weaving pattern editor](https://www.raktres.net/seizenn/editor.html) and the [updated version](https://www.raktres.net/seizenn/) (which is a bit too complicated for me at the moment). These are great for designing cool striped warps for band weaving.
