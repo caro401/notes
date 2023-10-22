@@ -16,8 +16,8 @@
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.1",
     "@astrojs/tailwind": "^5.0.1",
+    "@fontsource-variable/newsreader": "^5.0.14",
     "@fontsource/fira-mono": "^5.0.8",
-    "@fontsource-variable/newsreader": "^5.0.13",
     "astro": "^3.2.3",
     "tailwindcss": "^3.3.3"
   },
