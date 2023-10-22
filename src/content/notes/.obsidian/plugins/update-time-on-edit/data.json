@@ -1,11 +1,23 @@
 {
   "dateFormat": "yyyy-MM-dd'T'HH:mm",
-  "readDateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
-  "useDifferentReadFormat": false,
   "enableCreateTime": true,
   "headerUpdated": "updatedDate",
   "headerCreated": "pubDate",
   "minMinutesBetweenSaves": 10,
   "ignoreGlobalFolder": [],
-  "ignoreCreatedFolder": []
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "CS50's Introduction to Databases with SQL.md": "ccb0d130f5eba24923cca24c99676f2eabb59ba327435c80907e38050914b0e1",
+    "A DBMS is a way to interact with a database.md": "d615a1b10dc360016d65797fbdece3839607d4dd271b7c8dd8c641d730766ac2",
+    "SQL is a language used to interact with data in a database.md": "4df1e6970a5117481fe4585c9dd6f1cde12a98f891e0478c084982c1f816356d",
+    "SELECT gets data from rows in a table.md": "8fcd4dbf7548f7ae97bd9573e172e9bf72ce5dc77af95425cb5de4fdcf2e97ac",
+    "LIMIT limits the number of rows returned.md": "e31579b0c6e38cff9dc0a336a39bbecff3cce7bd5ed7913051a2aa79a78fc68b",
+    "WHERE only returns rows that match a condition.md": "84229f3eafd298d8da405c1ea4d96113fbde542105c3d64aa794a2ef05d20586",
+    "NULL represents missing data.md": "0aaf6ad9e3165e40b64b395cc84a2eacc2e4b6fd6eafb97affd0a2e0d4a51230",
+    "ORDER BY sorts query results.md": "08c4496a0156e72f62db521710eea74af0091bb17d4d7c2ef1e3404cc734e80e",
+    "Aggregate functions return statistics about groups of rows.md": "1ea4620c56aa8f27ef0c4182b429314593f0a0fca902732e82c0f164e3019d8a"
+  },
+  "readDateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
+  "useDifferentReadFormat": false
 }
