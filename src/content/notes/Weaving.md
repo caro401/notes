@@ -1,8 +1,8 @@
 ---
-title: A heddle is aka reed
+title: Weaving
 pubDate: 2023-10-17 10:45
 updatedDate: 2023-10-17 10:45
-id: 20231017101071-a-heddle-is-aka-reed
+id: 20231017101071-weaving
 ---
 
 I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-heddle-loom.html) in the 24inch/60cm size, and a DIY [[A backstrap loom is a loom tensioned with your body|backstrap loom]] that I made from some rolling pins, a ruler and some cable ties.
@@ -13,12 +13,14 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
 - [[Choosing yarn for your weaving project]]
 - [[Project planning and calculations]]
 - [[Wet-finishing woven pieces]]
+
 ## Projects
 
 - [[Notebook Covers on a rigid heddle loom]]
 - [[Tote bag from a long strip of cloth]]
 - [[Colour gamp or colour sampler]]
 - [[Rag rugs]]
+
 ## Tools
 
 - [Seizenn band weaving pattern editor](https://www.raktres.net/seizenn/editor.html) and the [updated version](https://www.raktres.net/seizenn/) (which is a bit too complicated for me at the moment). These are great for designing cool striped warps for band weaving.
@@ -37,11 +39,11 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
 - [[Stick shuttles should be in proportion to the size of your piece]]
 - [[Ends per inch measures the number of warp threads]]
 - [[Sett is the combination of ends and picks per inch]]
-- [[take-up describes the length lost when cloth is taken off a loom]] and [[draw-in describes the width lost when cloth is woven]]
-- [[Loom waste]] 
+- [[Take-up describes the length lost when cloth is taken off a loom]] and [[Draw-in describes the width lost when cloth is woven]]
+- [[Loom waste]]
 - [[Balanced weave has the same number of ends and picks per inch]]
 - [[Plain weave is one weft thread over one warp thread throughout]]
-- [[nap is a fluffy surface from raising part of fibres]]
+- [[Nap is a fluffy surface from raising part of fibres]]
 
 ## Reference materials and general sources
 
