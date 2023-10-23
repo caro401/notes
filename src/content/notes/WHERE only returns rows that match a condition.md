@@ -1,7 +1,7 @@
 ---
 title: WHERE only returns rows that match a condition
 pubDate: 2023-10-10 16:20
-updatedDate: 2023-10-10T16:41
+updatedDate: 2023-10-23T17:17
 id: 20231010161044-where-only-returns-rows-that-match-a-condition
 ---
 The `WHERE` keyword lets you filter the rows returned from your query to only those where the specified condition is true. For example, get only rows where the `year` column has the value `2022` like `SELECT "title", "author" FROM "longlist" WHERE "year" = 2022;`. 
@@ -19,3 +19,5 @@ There's a bunch of operators you can use in the condition
  - `AND` like `WHERE "year" = 2022 AND "format" = 'paperback'`
  - show precedence using `()`, like `WHERE ("year" = 2022 OR "year" = 2023) AND "format" = 'paperback'`
 - `IS` and `IS NOT` are used with [[NULL represents missing data|NULL]] , like `WHERE "translator" IS NULL` to find books with no translator.
+
+Use `HAVING` instead of `WHERE` to specify a condition on the result of a `GROUP BY` rather than a single row.

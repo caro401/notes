@@ -8,15 +8,15 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "CS50's Introduction to Databases with SQL.md": "ccb0d130f5eba24923cca24c99676f2eabb59ba327435c80907e38050914b0e1",
+    "CS50's Introduction to Databases with SQL.md": "9d85fa4e73ef1493dc42cf6e830b26f662176baa8ffa35d23640b1573e935221",
     "A DBMS is a way to interact with a database.md": "d615a1b10dc360016d65797fbdece3839607d4dd271b7c8dd8c641d730766ac2",
-    "SQL is a language used to interact with data in a database.md": "4df1e6970a5117481fe4585c9dd6f1cde12a98f891e0478c084982c1f816356d",
+    "SQL is a language used to interact with data in a database.md": "10f57cdae166402d403a5249f2f11d0942f6a8908aba8036413a1eea25bac517",
     "SELECT gets data from rows in a table.md": "8fcd4dbf7548f7ae97bd9573e172e9bf72ce5dc77af95425cb5de4fdcf2e97ac",
     "LIMIT limits the number of rows returned.md": "e31579b0c6e38cff9dc0a336a39bbecff3cce7bd5ed7913051a2aa79a78fc68b",
-    "WHERE only returns rows that match a condition.md": "84229f3eafd298d8da405c1ea4d96113fbde542105c3d64aa794a2ef05d20586",
+    "WHERE only returns rows that match a condition.md": "567feb1c72093a5a832ab1d25413f53f501d2cee4fa6977d1c0209221e2ea775",
     "NULL represents missing data.md": "0aaf6ad9e3165e40b64b395cc84a2eacc2e4b6fd6eafb97affd0a2e0d4a51230",
     "ORDER BY sorts query results.md": "08c4496a0156e72f62db521710eea74af0091bb17d4d7c2ef1e3404cc734e80e",
-    "Aggregate functions return statistics about groups of rows.md": "1ea4620c56aa8f27ef0c4182b429314593f0a0fca902732e82c0f164e3019d8a",
+    "Aggregate functions return statistics about groups of rows.md": "596654800495cf8e9ba9f0081f68cf586ba1bb25f7582d58745fd7de2ec98c4c",
     "Clasped Weft Weaving.md": "57a1d8e5a811be808dacff75a531a073535681add1e4cae84fb402c22eeaf159",
     "Weaving.md": "cdac285d0cbf147a8c244fcbae972e1d85d1a0474598bdc913e0e57a4b6840c2",
     "A dent is an opening in the heddle.md": "42234fe8220853e271ce7835ab822034c773148a9352579582f50d8af9324370",
@@ -45,7 +45,12 @@
     "nap is a fluffy surface from raising part of fibres.md": "f1fa1062504ad1dce6af92595ee5773273b0dc5b26e2ea7de902c82a46692957",
     "take-up describes the length lost when cloth is taken off a loom.md": "dc985882daedecf9a540d70cafc82919e409d0f3967f8754e221367b869869f9",
     "wensleydale.md": "b492fe4972189dd22a5aafa51f416e02ee47ec58729063304b6bbfb6f015d583",
-    "wool moths.md": "9603665253477e199674c0725570d5b465cf06c2f1e4c1dc4b8544a24b633fae"
+    "wool moths.md": "9603665253477e199674c0725570d5b465cf06c2f1e4c1dc4b8544a24b633fae",
+    "Relational databases usually have several tables with related data.md": "7611c743a602219adedd9bef51f0e43188dfa43495c590b40b21a51efc3b0fa9",
+    "Entity relationship diagrams are used to visualise the schema of data in a database.md": "761413831f90b08a9610bb6e7c463bc0bb4008fa4925f25694bfe0217c6ea8ad",
+    "keys are used to relate data.md": "51acc847f2f394aa900388c7e44c94e2698083c4351dccae9aa8648f29f6e328",
+    "a subquery is a SQL query inside another.md": "a99cad5d967ee194fcc7f2b112fc14b051f23ef17017fb0699edc44d1493e1f5",
+    "joins connect tables.md": "bbc94c902a87c3959548d244539d32a18170e7831f3a00882983d12b97c83f3f"
   },
   "readDateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
   "useDifferentReadFormat": false

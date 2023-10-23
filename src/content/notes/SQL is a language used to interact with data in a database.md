@@ -1,7 +1,7 @@
 ---
 title: SQL is a language used to interact with data in a database
 pubDate: 2023-10-10 15:52
-updatedDate: 2023-10-10T16:42
+updatedDate: 2023-10-23T14:02
 id: 20231010151097-sql-is-a-language-used-to-interact-with-data-in-a-database
 ---
 
@@ -16,3 +16,5 @@ Usually use `""` around your SQL identifiers - table and column names. It isn't 
 - [[NULL represents missing data]].
 - [[ORDER BY sorts query results]].
 - [[Aggregate functions return statistics about groups of rows]]
+- [[a subquery is a SQL query inside another]], [[joins connect tables|JOIN connects tables]]
+- 
