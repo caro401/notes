@@ -1,7 +1,7 @@
 ---
 title: Balanced weave has the same number of ends and picks per inch
 pubDate: 2023-10-17 11:40
-updatedDate: 2023-10-17 11:40
+updatedDate: 2023-10-23T12:55
 id: 20231017111022-balanced-weave-has-the-same-number-of-ends-and-picks-per-inch
 aliases:
   - balanced weave

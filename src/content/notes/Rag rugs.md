@@ -1,7 +1,7 @@
 ---
 title: Rag rugs
 pubDate: 2023-10-18 14:09
-updatedDate: 2023-10-18 14:09
+updatedDate: 2023-10-23T12:55
 id: 20231018141021-rag-rugs
 ---
 Originally this would be done with worn-out clothing, but you can use lots of things. You can make rugs, or also table things, and even scarves if you use really narrow strips and some more 'normal' yarn for weft. 

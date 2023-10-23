@@ -1,7 +1,7 @@
 ---
 title: Wet-finishing woven pieces
 pubDate: 2023-10-18 09:56
-updatedDate: 2023-10-18 09:56
+updatedDate: 2023-10-23T12:55
 id: 20231018091066-wet-finishing-woven-pieces
 ---
 Wet-finishing is the first time your weaving meets water. Often, the processes involved may be harsher than normal washing. lots of things can happen

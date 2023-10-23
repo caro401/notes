@@ -1,7 +1,7 @@
 ---
 title: Colour gamp or colour sampler
 pubDate: 2023-10-17 11:52
-updatedDate: 2023-10-17 11:52
+updatedDate: 2023-10-23T12:55
 id: 20231017111008-colour-gamp-or-colour-sampler
 ---
 A colour gamp is a piece of cloth meant to sample colour combinations in your warp and weft, in the same weave structure as you use for the colour gamp. Usually you use a striped warp, optionally separating each coloured stripe with a few ends of black or white, and then the same colour sequence in the warp. 

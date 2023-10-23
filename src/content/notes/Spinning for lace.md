@@ -1,7 +1,7 @@
 ---
 title: Spinning for lace
 pubDate: 2023-10-18 15:05
-updatedDate: 2023-10-18 15:05
+updatedDate: 2023-10-23T12:55
 id: 20231018151018-spinning-for-lace
 ---
 If  you have locks, you might want to spin with the tip end going in first, as this might be less inclined to pill - [Source](https://margaretstove.nz/) , [but this is controversial](https://spinoffmagazine.com/which-end-first-spinning-from-the-lock/). If you've got brittle tips, for example on merino, break them off. You probably want a short backwards draft, but not pulling quite to the staple length so you don't get weak spots even if you have long locks. You might want to spin from the fold of commercial top, as this can help pull fibres back into alignment. The drafting triangle can be pretty translucent, you want about 45degree angle of twist - this isn't a high twist yarn. 

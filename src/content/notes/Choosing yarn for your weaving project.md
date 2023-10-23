@@ -1,7 +1,7 @@
 ---
 title: Choosing yarn for your weaving project
 pubDate: 2023-10-17 11:02
-updatedDate: 2023-10-17 11:02
+updatedDate: 2023-10-23T12:55
 id: 20231017111095-choosing-yarn-for-your-weaving-project
 ---
 There's more to think about when picking your [[Warp is the threads running the length of your cloth|warp]] yarn, since it is the one held under tension and abraded by your [[A heddle is a thing you thread warp yarn through|heddle]]. 

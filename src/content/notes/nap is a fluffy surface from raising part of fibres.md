@@ -1,7 +1,7 @@
 ---
 title: Nap is a fluffy surface from raising part of fibres
 pubDate: 2023-10-18 12:08
-updatedDate: 2023-10-18 12:08
+updatedDate: 2023-10-23T12:55
 id: 20231018121075-nap-is-a-fluffy-surface-from-raising-part-of-fibres
 aliases:
   - nap

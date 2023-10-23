@@ -1,7 +1,7 @@
 ---
 title: wensleydale
 pubDate: 2023-10-18 16:37
-updatedDate: 2023-10-18 16:37
+updatedDate: 2023-10-23T12:55
 id: 20231018161098-wensleydale
 ---
 I have some wensleydale locks, what do I do with them?

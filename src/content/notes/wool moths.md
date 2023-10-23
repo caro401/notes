@@ -1,7 +1,7 @@
 ---
 title: Wool moths
 pubDate: 2023-10-18 16:58
-updatedDate: 2023-10-18 16:58
+updatedDate: 2023-10-23T12:55
 id: 20231018161073-wool-moths
 ---
 Moth larvae eat wool.
