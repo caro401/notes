@@ -10,4 +10,6 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[SQL is a language used to interact with data in a database]]
 - [[Relational databases usually have several tables with related data]], and [[keys are used to relate data]]
 - [[Entity relationship diagrams are used to visualise the schema of data in a database]]
-- 
+- [[A database schema defines the tables and columns in a database]]
+- [[Table constraints impose restrictions on values in tables]]
+

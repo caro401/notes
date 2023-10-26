@@ -9,7 +9,7 @@ There's lots of different database management systems (DBMSs) which you can use 
 - MySQL
 - Oracle
 - PostgreSQL
-- SQLite
+- [[SQLite is a DBMS|sqlite]]
 - Microsoft Access
 
 There are tradeoffs to consider when choosing a DBMS
