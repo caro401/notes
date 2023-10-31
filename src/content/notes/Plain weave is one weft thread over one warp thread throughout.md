@@ -7,7 +7,9 @@ aliases:
   - plain weave
   - tabby
 ---
-Also called tabby, plain weave doesn't necessarily result in a plain-looking fabric. Rather, it can be the basis for all sorts of interesting effects with colour and density. 
+
+Also called tabby, plain weave doesn't necessarily result in a plain-looking fabric. Rather, it can be the basis for all sorts of interesting effects with colour and density.
 
 ## Source
+
 - [[Textile Terms and Definitions]] pp378-9

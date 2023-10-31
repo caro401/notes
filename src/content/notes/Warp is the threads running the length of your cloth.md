@@ -6,4 +6,5 @@ id: 20231017101095-warp-is-the-threads-running-the-length-of-your-cloth
 aliases:
   - warp
 ---
+
 The warp is held under tension while weaving

@@ -4,6 +4,7 @@ pubDate: 2023-10-10 15:42
 updatedDate: 2023-10-23T17:20
 id: 20231010151075-cs50-databases
 ---
+
 I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql) on edX as a refresher, and a way to cement my fundamental knowledge of databases. I've used SQL a bunch, but never really formally sat down to learn things, so this should be good for me.
 
 - [[A DBMS is a way to interact with a database]]
@@ -12,4 +13,3 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[Entity relationship diagrams are used to visualise the schema of data in a database]]
 - [[A database schema defines the tables and columns in a database]]
 - [[Table constraints impose restrictions on values in tables]]
-

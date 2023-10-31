@@ -17,4 +17,4 @@ Usually use `""` around your SQL identifiers - table and column names. It isn't 
 - [[ORDER BY sorts query results]].
 - [[Aggregate functions return statistics about groups of rows]]
 - [[a subquery is a SQL query inside another]], [[joins connect tables|JOIN connects tables]]
-- 
+-

@@ -16,6 +16,7 @@ I think this could be a nice way of using a small amount of really exciting yarn
 You could even use a different colour section of warp to mark out a boundary of where your colour change goes in each pick, for extra emphasis on that section
 
 You can get really cool effects using 2 skeins/shuttles of gradient yarn, starting at really different points in the gradient.
+
 ### Further Reading
 
 - You can do this with [3 colours](https://www.youtube.com/watch?v=W0Q_2mzYNW0) and even [4 colours](https://www.youtube.com/watch?v=QwTj6hn4PHI)!

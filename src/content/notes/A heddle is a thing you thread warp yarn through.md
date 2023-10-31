@@ -6,6 +6,7 @@ id: 20231017101071-a-heddle-is-aka-reed
 aliases:
   - heddle
 ---
+
 It helps you form a [[Shed is the opening formed when warp threads are separated|shed]], controlling the movement of warp yarns.
 
 There's loads of different kinds, but they usually look like some sort of stick or string, with a loop or hole in the middle.

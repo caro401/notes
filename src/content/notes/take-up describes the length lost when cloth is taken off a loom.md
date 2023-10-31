@@ -6,6 +6,7 @@ id: 20231018111013-take-up-describes-the-length-lost-when-cloth-is-taken-off-a-l
 aliases:
   - take-up
 ---
+
 Because the warp is held under tension on the loom, cloth appears a bit longer on the loom than when it is taken off. An average take-up would be 10% for cotton, 15% for wool, relating to the elasticity of the warp yarn
 
 ## Sources

@@ -6,7 +6,9 @@ id: 20231026161077-a-foreign-key-is-a-column-in-a-table-linked-to-a-column-in-a-
 aliases:
   - foreign key
 ---
+
 Write foreign key [[Table constraints impose restrictions on values in tables|table constraints]] in a [[A database schema defines the tables and columns in a database|schema]] like this:
+
 ```sqlite
 CREATE TABLE "visits" (
 	"rider_id" INTEGER,

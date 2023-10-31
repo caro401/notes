@@ -4,11 +4,12 @@ pubDate: 2023-10-23 14:01
 updatedDate: 2023-10-23T14:19
 id: 20231023141099-joins-connect-tables
 ---
+
 Use joins when you want to expand the data in one table with data from another table, where you have a matching [[A foreign key is a column in a table linked to a column in a different table|foreign key]] column
 
 ```sql
 SELECT * FROM "sea_lions"
-JOIN "migrations" 
+JOIN "migrations"
 ON "migrations"."id" = "sea_lions"."id";
 ```
 

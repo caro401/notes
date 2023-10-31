@@ -4,7 +4,8 @@ pubDate: 2023-10-18 14:09
 updatedDate: 2023-10-23T12:55
 id: 20231018141021-rag-rugs
 ---
-Originally this would be done with worn-out clothing, but you can use lots of things. You can make rugs, or also table things, and even scarves if you use really narrow strips and some more 'normal' yarn for weft. 
+
+Originally this would be done with worn-out clothing, but you can use lots of things. You can make rugs, or also table things, and even scarves if you use really narrow strips and some more 'normal' yarn for weft.
 
 Usually use 8/4 cotton carpet warp for the warp, at 12epi or so, plain weave. Closer sett will make your warp much more dominant, wider sett will emphasise the weft (rags). A natural warp will wash the colours out of your weft a bit, you might try a black or dark blue or green, or something vibrant to go with your fabrics. You can use patterned warps too!
 

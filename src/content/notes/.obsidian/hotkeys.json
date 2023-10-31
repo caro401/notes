@@ -1,15 +1,11 @@
 {
   "templater-obsidian:replace-in-file-templater": [
     {
-      "modifiers": [
-        "Alt"
-      ],
+      "modifiers": ["Alt"],
       "key": "r"
     },
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "R"
     }
   ]
