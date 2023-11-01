@@ -13,3 +13,4 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[Entity relationship diagrams are used to visualise the schema of data in a database]]
 - [[A database schema defines the tables and columns in a database]]
 - [[Table constraints impose restrictions on values in tables]]
+- [[when you import from csv to sqlite, data comes in as text by default]]
