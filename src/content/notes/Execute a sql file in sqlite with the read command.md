@@ -1,7 +1,7 @@
 ---
 title: Execute a sql file in sqlite with the read command
-pubDate: 2023-10-26 16:43
-updatedDate: 2023-10-26 16:43
+pubDate: 2023-10-26T16:43
+updatedDate: 2023-11-13T17:04
 id: 20231026161086-execute-a-sql-file-in-sqlite-with-the-read-command
 ---
 

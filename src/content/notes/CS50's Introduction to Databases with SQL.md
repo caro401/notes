@@ -1,7 +1,7 @@
 ---
 title: CS50's Introduction to Databases with SQL
 pubDate: 2023-10-26T15:14
-updatedDate: 2023-11-13T16:40
+updatedDate: 2023-11-13T17:52
 id: 20231010151075-cs50-databases
 ---
 
@@ -16,3 +16,6 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[SQLite imports from CSV as text data by default]]
 - [[SQL triggers are statements that run in response to other statements]]
 - [[A view is a virtual table defined by a query]]
+- [[Scanning each row in a database can be slow]], you might want to use an [[An index is a structure to speed up retrieval of rows from a database|index]]
+- [[Clean up unused space in a database using vacuum or optimise]]
+- [[Transactions are single units of work in a database]], and they can help guard against [[Race conditions]] if transactions are made to be sequential using [[Transactional locking ]]
