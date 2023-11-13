@@ -1,0 +1,12 @@
+---
+title: Soft deletion means marking data as deleted without actually deleting it
+pubDate: 2023-11-13 15:30
+updatedDate: 2023-11-13 15:30
+id: 20231113151109-soft-deletion-means-marking-data-as-deleted-without-actually-deleting-it
+---
+
+You can implement this using [[SQL triggers are statements that run in response to other statements|trigger statements]], or by updating the value in a specific column (for example `deleted`) to something that your application logic knows means deleted. This is often done as a boolean, but you might prefer to have `deleted_at` be null if the thing isn't deleted, and a timestamp if it is, representing when the thing was deleted, not just that it was.
+
+Combine this concept with views to make it easy to only query data that hasn't been deleted.
+
+Sometimes this can be helpful for users, allowing them or you to recover accidentally deleted data, but you need to consider the ethics of what data you should be keeping around and for how long if a user has requested to delete it. This is particularly important for sensitive data or PII, but you should think about it for all data.

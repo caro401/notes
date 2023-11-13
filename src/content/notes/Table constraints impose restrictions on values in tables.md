@@ -7,7 +7,7 @@ id: 20231026161079-table-constraints-impose-restrictions-on-values-in-tables
 
 Common uses for these are for representing primary keys and [[A foreign key is a column in a table linked to a column in a different table|foreign key]]. You add these to the [[A database schema defines the tables and columns in a database|schema]] of the table.
 
-```sqlite
+```sql
 CREATE TABLE "riders" (
 	"id" INTEGER,
 	"name" TEXT,

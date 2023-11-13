@@ -1,7 +1,7 @@
 ---
 title: CS50's Introduction to Databases with SQL
-pubDate: 2023-10-10 15:42
-updatedDate: 2023-10-23T17:20
+pubDate: 2023-10-26T15:14
+updatedDate: 2023-11-13T16:40
 id: 20231010151075-cs50-databases
 ---
 
@@ -13,4 +13,6 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[Entity relationship diagrams are used to visualise the schema of data in a database]]
 - [[A database schema defines the tables and columns in a database]]
 - [[Table constraints impose restrictions on values in tables]]
-- [[when you import from csv to sqlite, data comes in as text by default]]
+- [[SQLite imports from CSV as text data by default]]
+- [[SQL triggers are statements that run in response to other statements]]
+- [[A view is a virtual table defined by a query]]

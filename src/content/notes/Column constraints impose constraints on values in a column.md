@@ -14,6 +14,7 @@ You provide your own logical expressions to `CHECK`, for example make sure a col
 Setting a column as a primary key usually implies both `UNIQUE` and `NOT NULL` on that column. Setting a column as a [[A foreign key is a column in a table linked to a column in a different table|foreign key]] implies `NOT NULL`.
 
 When you try to insert rows into a table with constraints, the insert will fail if the constraints are violated.
+
 ## Sources
 
 - [sqlite docs about column constraints](https://www.sqlite.org/lang_createtable.html#the_primary_key)
