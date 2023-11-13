@@ -7,7 +7,7 @@
   "obsidian-local-images",
   "obsidian-git",
   "obsidian-advanced-uri",
-  "update-time-on-edit",
   "recent-files-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-linter"
 ]
