@@ -51,3 +51,4 @@ I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-hed
 - [This knitty article about finishing](https://knitty.com/ISSUEw15/FEATw15GW/FEATw15GW.php) is my go-to when I'm thinking about how I want to finish off a piece - knots, twists, hemstitching and other alternatives
 - [This tutorial about how to do indirect warping on pegs](https://www.ashford.co.nz/indirect-warping-on-the-rigid-heddle-loom) for every time I forget which peg to start on.
 - [Little Looms magazine](https://littlelooms.com/) has loads of ideas specifically for rigid heddle and other small looms, band weaving and the like.
+- [Laverne Waddington's blog](https://backstrapweaving.wordpress.com/backstrap-basics-an-article-from-weavezine-by-laverne-waddington/) is the canonical source for everything about backstrap weaving

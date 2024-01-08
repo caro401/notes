@@ -17,3 +17,5 @@ You can even set these looms up for [houndstooth and other twill patterns](https
 
 - this blog has so much information! https://backstrapweaving.wordpress.com/
 - [this article about getting started](https://backstrapweaving.wordpress.com/backstrap-basics-an-article-from-weavezine-by-laverne-waddington/) from the above website is a really good introduction, with loads of clear pictures
+- [This person explores different kinds of heddles](https://www.afieldguidetoneedlework.com/blog-2014-2021/backstrap-weaving-i-think-i-like-it)
+- [some videos from WeaveZine](https://www.youtube.com/watch?v=ptf-Y8cZhB8)
