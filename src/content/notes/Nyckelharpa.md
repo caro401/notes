@@ -4,6 +4,7 @@ pubDate: 2024-03-18 12:38
 updatedDate: 2024-03-18 12:38
 id: 20240318120361-untitled
 ---
+
 Current hyperfixation interest is learning how to build musical instruments, specifically a [Nyckelharpa](https://en.wikipedia.org/wiki/Nyckelharpa) of some sort. Because these are pretty hard to acquire in the UK, there's very few makers and most of them are old.
 
 For now, just a dump of ideas, resources, things I've found or am thinking about, with no particular organisation
@@ -11,7 +12,7 @@ For now, just a dump of ideas, resources, things I've found or am thinking about
 - [This dude writes a little about building one](https://www.nyckelharpa.org/wp-content/uploads/nn_37.pdf), specifically reference to plans by Sören Åhker, and associated DVD course _Build Nyckelharpa with Sören Åhker_ - [clip available on youtube?](https://www.youtube.com/watch?v=UEVolmHI5rE)
 - [Different kinds](https://nyckelharpansforum.net/harpmodellerna.htm)
 - [Makers in sweden](https://nyckelharpan.org/instrumentet/harpbyggare/)
-	- https://www.pederkallman.se/nyckelharpor.html
+  - https://www.pederkallman.se/nyckelharpor.html
 - [More makers](https://www.emeliewaldken.net/nyckelharpabuilders)
 - Eric Sahlström institutet sometimes runs courses?
 - [American interpretation](https://www.youtube.com/watch?v=1gUFyMvHjrs)

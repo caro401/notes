@@ -18,4 +18,4 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[A view is a virtual table defined by a query]]
 - [[Scanning each row in a database can be slow]], you might want to use an [[An index is a structure to speed up retrieval of rows from a database|index]]
 - [[Clean up unused space in a database using vacuum or optimise]]
-- [[Transactions are single units of work in a database]], and they can help guard against [[Race conditions]] if transactions are made to be sequential using [[Transactional locking ]]
+- [[Transactions are single units of work in a database]], and they can help guard against [[Race conditions]] if transactions are made to be sequential using [[Transactional locking]]

@@ -11,8 +11,8 @@ Combine this concept with [[A view is a virtual table defined by a query|views]]
 
 ```sql
 CREATE VIEW "current_collections" AS
-SELECT "id", "title", "accession_number", "acquired" 
-FROM "collections" 
+SELECT "id", "title", "accession_number", "acquired"
+FROM "collections"
 WHERE "deleted" = 0;
 ```
 
@@ -23,7 +23,7 @@ CREATE TRIGGER "delete"
 INSTEAD OF DELETE ON "current_collections"
 FOR EACH ROW
 BEGIN
-    UPDATE "collections" SET "deleted" = 1 
+    UPDATE "collections" SET "deleted" = 1
     WHERE "id" = OLD."id";
 END;
 ```

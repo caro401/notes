@@ -3,13 +3,14 @@
 
 export const SITE_TITLE = "Caro's Notes";
 export const SITE_DESCRIPTION = "Caro is thinking out loud";
+import { readdirSync } from "fs";
 
-import { getPermalinks } from "@flowershow/remark-wiki-link";
-
-const permalinks = (await getPermalinks("src/content/notes")).map((permalink) =>
-  permalink.toLowerCase().replaceAll(" ", "-"),
-);
 export const wikiLinkConfig = {
+  aliasDivider: "|",
+  hrefTemplate: (permalink) => `/${permalink}`,
+  pageResolver: (name) => [name.replace(/ /g, "-").toLowerCase()],
   pathFormat: "obsidian-absolute",
-  permalinks,
+  permalinks: readdirSync("./src/content/notes").map((note) =>
+    note.toLowerCase().replace(".md", "").replaceAll(" ", "-"),
+  ),
 };

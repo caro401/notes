@@ -1,7 +1,7 @@
 import { getCollection } from "astro:content";
 import { unified } from "unified";
 import markdown from "remark-parse";
-import wikiLinkPlugin from "@flowershow/remark-wiki-link";
+import wikiLinkPlugin from "remark-wiki-link";
 import remarkRehype from "remark-rehype";
 import remarkStringify from "remark-stringify";
 import { wikiLinkConfig } from "../consts";
