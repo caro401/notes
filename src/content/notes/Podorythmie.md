@@ -1,0 +1,28 @@
+---
+title: Podorythmie
+pubDate: 2024-07-15 12:38
+updatedDate: 2024-07-15 12:38
+id: 20240715120361-Podorythmie
+---
+
+I found a bunch of videos of people teaching or just doing french canadian foot percussion
+
+- [some examples in french](https://www.youtube.com/watch?v=OjlJNumhpms)
+- [a bit about the history too](https://www.youtube.com/watch?v=CDXSgRR8aCw)
+- [including a bit about how to make it not hurt](https://www.youtube.com/watch?v=yRKUgY4H9o8)
+- [very basic reel step](https://www.youtube.com/watch?v=MDJeIXKUqZI)
+- [slightly more interesting reel step](https://www.youtube.com/watch?v=AhyCeeUksJA)
+- [and another](https://www.youtube.com/watch?v=Qo97CNDI6ro)
+- [in french](https://www.youtube.com/watch?v=UCq_yxwyAtc)
+- [a workshop](https://www.youtube.com/watch?v=m3ijnnjOlO0)
+- [another workshop in french](https://www.youtube.com/watch?v=SC0E0eo3ZuI)
+- [a waltz](https://www.youtube.com/watch?v=aD-JY8wl4Ys)
+- [this guy has MIDI in a foot board](https://www.youtube.com/watch?v=sacAHemW7ag)
+- [amazing example from la bottine souriante](https://www.youtube.com/watch?v=o_tUCxxWXH8)
+- [short lesson in french](https://www.youtube.com/watch?v=K7QKRG2e6YM), with really clear footage of how to do the basic step
+- [someone doing it to accompany singing](https://www.youtube.com/watch?v=whQbiofXc8s)
+- [Accadian chair dance steps](https://www.youtube.com/watch?v=x0KDtQmTIGM)
+- [in a jig rhythm](https://www.youtube.com/watch?v=JtDgh2iO_eA)
+- [with some nice cross-rhythms later](https://www.youtube.com/watch?v=bn0kO0lsHZo)
+- [another example](https://www.youtube.com/watch?v=_rv8aPJMkXQ)
+- [bits of someone doing it while playing some cool tunes](https://www.youtube.com/watch?v=w0Zpa9VR3-c)
