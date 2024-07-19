@@ -27,3 +27,4 @@ For now, just a dump of ideas, resources, things I've found or am thinking about
 - https://spegling.blog/2013/03/07/nyckelharpsbygge/
 - [a big academic reading list](https://janinebuisman.blogspot.com/2016/07/read-watch-learn.html)
 - [another build log (pp11-15)](https://www.nyckelharpa.org/wp-content/uploads/NyckNotes51.pdf) and [part 2 (pp12-17)](https://www.nyckelharpa.org/wp-content/uploads/NyckNotes52C.pdf)
+- [A bit of history](https://www.youtube.com/watch?v=lr8hVcI43s0)

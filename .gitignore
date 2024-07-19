@@ -29,3 +29,6 @@ src/content/notes/.obsidian/plugins/**/manifest.json
 src/content/notes/.obsidian/plugins/**/data.json
 
 src/content/notes/embed
+
+.frontmatter
+frontmatter.json
