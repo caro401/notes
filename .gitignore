@@ -32,3 +32,5 @@ src/content/notes/embed
 
 .frontmatter
 frontmatter.json
+**/.DS_Store
+**/.stfolder
