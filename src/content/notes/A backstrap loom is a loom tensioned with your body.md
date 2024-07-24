@@ -1,7 +1,7 @@
 ---
 title: A backstrap loom is a loom tensioned with your body
-pubDate: 2023-07-06 16:01
-updatedDate: 2023-07-06 17:56
+pubDate: 2024-01-12T12:19
+updatedDate: 2024-07-24T11:44
 id: 20230706160721-backstrap-loom
 ---
 
@@ -15,7 +15,8 @@ You can even set these looms up for [houndstooth and other twill patterns](https
 
 ## Resources
 
-- this blog has so much information! https://backstrapweaving.wordpress.com/
+- this blog has so much information! <https://backstrapweaving.wordpress.com/>
 - [this article about getting started](https://backstrapweaving.wordpress.com/backstrap-basics-an-article-from-weavezine-by-laverne-waddington/) from the above website is a really good introduction, with loads of clear pictures
 - [This person explores different kinds of heddles](https://www.afieldguidetoneedlework.com/blog-2014-2021/backstrap-weaving-i-think-i-like-it)
 - [some videos from WeaveZine](https://www.youtube.com/watch?v=ptf-Y8cZhB8)
+- A whole series on YouTube of someone going through the whole process really clearly, including setting up string heddles and some interesting techniques. Episodes [1 (basics)](https://www.youtube.com/watch?v=gppq4JlhErg), [2 (no warp bar)](https://www.youtube.com/watch?v=xhqNzjUPtIQ), [3](https://www.youtube.com/watch?v=5kVxju3Lyfs), [4](https://www.youtube.com/watch?v=NKHUHurH0hw), [5](https://www.youtube.com/watch?v=TGcxrimDjt4) (3-5 are handling the weft), [6 (log cabin)](https://www.youtube.com/watch?v=BkKSCYMHT_s), [7 (houndstooth)](https://www.youtube.com/watch?v=vu3OdBut654) and [8 (houndstooth, clasped weft)](https://www.youtube.com/watch?v=UNA6t2AMUO0)
