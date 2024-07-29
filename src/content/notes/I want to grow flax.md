@@ -18,6 +18,7 @@ Here's a bunch of resources I've gathered about the process:
 - [another group of americans doing it](https://www.youtube.com/watch?v=cLOPCAJKeLE), explaining most of the bits of the process.
 - [someone doing something similar with wild plants including nettle and milkweed](https://www.youtube.com/watch?v=Vy1tw-7sI7k), broadening the idea of what can be a fibre plant (in the US).
 - [spinning flax](https://www.youtube.com/watch?v=wqr-GRveyRg), and [how to dress a distaff](https://www.youtube.com/watch?v=1EpceAEdQZQ) - flax fibre is a pain and tends to chaos - re-combing it might help, as does working with damp hands. Spinning from the fold (directly or from rolled up ends on a distaff) probably works well.
+- [This guy grew a tiny plot](https://www.youtube.com/watch?v=pRH2lnw-cZA) and parts [2](https://www.youtube.com/watch?v=H4dwyEv-B2Q), [3 (scutching knife)](https://www.youtube.com/watch?v=o0pKovl4Omc) and [4 (hackle)](https://www.youtube.com/watch?v=3K6t7oZbSJg)
 questions:
 
 - where can get flax seed in the UK? [this video](https://www.youtube.com/watch?v=3JKhhtoe9v4) suggests <www.flaxland.co.uk> and <www.wildfibres.co.uk>, and to make sure its a special type for long fibre, not for food seeds.
