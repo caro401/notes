@@ -1,7 +1,7 @@
 ---
 title: Podorythmie
-pubDate: 2024-07-15 12:38
-updatedDate: 2024-07-15 12:38
+pubDate: 2024-07-15T14:16
+updatedDate: 2024-07-30T15:12
 id: 20240715120361-Podorythmie
 ---
 
@@ -26,3 +26,6 @@ I found a bunch of videos of people teaching or just doing french canadian foot 
 - [with some nice cross-rhythms later](https://www.youtube.com/watch?v=bn0kO0lsHZo)
 - [another example](https://www.youtube.com/watch?v=_rv8aPJMkXQ)
 - [bits of someone doing it while playing some cool tunes](https://www.youtube.com/watch?v=w0Zpa9VR3-c)
+- [a blog post from someone else discovering](https://leisureguy.ca/2022/04/30/rhythm-feet/)
+- [a workshop](https://www.fiddlevideo.com/quebecois-fiddle-footwork-tutorial-andre-brunet-free/) with a focus on fiddle playing
+- [three](https://www.youtube.com/watch?v=OkUQjx_AL98) [part](https://www.youtube.com/watch?v=beExkXwbSvg) [series](https://www.youtube.com/watch?v=NpaxOahxJ38) by Pascal Gemme - the 3rd is particularly interesting about variations. French speaking with english subtitles
