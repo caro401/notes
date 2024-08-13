@@ -1,7 +1,7 @@
 ---
 title: Lots of people are doing electronic folk music
 pubDate: 2024-07-30T15:12
-updatedDate: 2024-07-30T16:31
+updatedDate: 2024-08-05T11:19
 id: 20240730150777-electronic-folk-music
 ---
 
@@ -11,6 +11,9 @@ As [one of my bands](https://portmanteaufolk.com) has been doing more playing fo
 - [Green Lads](https://www.viagramophone.com/green-lads) do Irish-ish stuff, it's great fun
 - [Novar](https://www.novar.be/) do balfolk with just a hint of electronics
 - [Apolkalypse](https://apolkalypse.bandcamp.com/album/a1) is totally pre-recorded music intended for ceilidh dancing. It ran at IVFDF a few years ago
+- [The Drystones](https://www.thedrystones.co.uk/) do some interesting things. They got arts council funding to bring folk to young people
+- [Event Horizon](https://www.gezafrank.com/projects) is whistle/pipes, guitar and fiddle with electronics, addressing physics themes. Dead website, but they have a [bandcamp page](https://eventhorizonproject.bandcamp.com) where you can buy their music.
+- [Ramblxr by Elias Alexander](https://ramblxr.com/) calls itself "Celtic EDM", and has pipes. [Here's a music video](https://youtu.be/fvaVUoxpw04) of them doing livelooping, singing and playing a banging tune.
 
 ## technocontra
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A backstrap loom is a loom tensioned with your body.md",
+                "file": "Podorythmie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A backstrap loom is a loom tensioned with your body.md",
+            "file": "Podorythmie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A backstrap loom is a loom tensioned with your body.md",
+            "file": "Podorythmie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A backstrap loom is a loom tensioned with your body.md"
+            "file": "Podorythmie.md"
           }
         }
       }
@@ -143,5 +143,10 @@
     }
   },
   "active": "66ca914cbd5f535c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Lots of people are doing electronic folk music.sync-conflict-20240730-151441-FKIGUVW.md",
+    "Lots of people are doing electronic folk music.md",
+    "Generative music is a thing.md",
+    "A backstrap loom is a loom tensioned with your body.md"
+  ]
 }
