@@ -17,9 +17,6 @@ export default defineConfig({
         mastodon: "https://fosstodon.org/@carofyi",
       },
       pagination: false,
-      components: {
-        PageSidebar: "./src/components/PageSidebar.astro",
-      },
       customCss: [
         "./src/styles/global.css",
         "@fontsource-variable/newsreader",
