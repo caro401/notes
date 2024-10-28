@@ -3,7 +3,6 @@ import tailwind from "@astrojs/tailwind";
 import starlightSiteGraph from "starlight-site-graph";
 import starlight from "@astrojs/starlight";
 import starlightObsidian, { obsidianSidebarGroup } from "starlight-obsidian";
-import rehypeLinkProcessor from "rehype-link-processor";
 
 // https://astro.build/config
 export default defineConfig({
@@ -41,7 +40,5 @@ export default defineConfig({
     }),
   ],
   build: { format: "file" },
-  markdown: {
-    rehypePlugins: [rehypeLinkProcessor()],
-  },
+
 });
