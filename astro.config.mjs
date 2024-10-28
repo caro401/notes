@@ -39,4 +39,5 @@ export default defineConfig({
       sidebar: [obsidianSidebarGroup],
     }),
   ],
+  build: { format: 'file' }
 });
