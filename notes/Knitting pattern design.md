@@ -1,7 +1,7 @@
 ---
 title: Knitting pattern design
-pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-13 11:38
+pubDate: 2023-04-14T11:27
+updatedDate: 2024-10-22T10:43
 ---
 
 - [Lovecrafts' requirements for patterns](https://designer-handbook.lovecrafts.com/knowledge-base/criteria-for-pdf-patterns/) has a bunch of useful things to think about

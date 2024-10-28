@@ -1,7 +1,7 @@
 ---
 title: I want to grow flax for linen
 pubDate: 2024-07-24T11:45
-updatedDate: 2024-07-24T12:15
+updatedDate: 2024-10-22T10:42
 id: 20240724110796-grow-flax
 ---
 

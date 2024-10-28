@@ -1,7 +1,7 @@
 ---
 title: JamStack fun
-pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-13 11:38
+pubDate: 2023-04-14T11:27
+updatedDate: 2024-10-22T10:43
 ---
 
 Random cool tools and inspiration to use in static sites

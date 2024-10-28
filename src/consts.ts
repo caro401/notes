@@ -10,7 +10,7 @@ export const wikiLinkConfig = {
   hrefTemplate: (permalink) => `/${permalink}`,
   pageResolver: (name) => [name.replace(/ /g, "-").toLowerCase()],
   pathFormat: "obsidian-absolute",
-  permalinks: readdirSync("./src/content/notes").map((note) =>
+  permalinks: readdirSync("./notes").map((note) =>
     note.toLowerCase().replace(".md", "").replaceAll(" ", "-"),
   ),
 };
