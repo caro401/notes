@@ -14,7 +14,7 @@ Here's a bunch of resources I've gathered about the process:
 - [this dude doing it in northern england](https://www.youtube.com/watch?v=3JKhhtoe9v4)
 - Allan Brown seems to be a UK expert in this kind of thing, [here's a video of him](https://www.youtube.com/watch?v=Q0SFRIZqkfE)
 - [someone's video going through the whole process](https://www.youtube.com/watch?v=7VKN04zmEjg), including some books they recommend. They are from california, and grow tightly on their balcony in raised beds.
-	- plant the flax seeds kinda close together so it grows straight up
+  - plant the flax seeds kinda close together so it grows straight up
 - [another group of americans doing it](https://www.youtube.com/watch?v=cLOPCAJKeLE), explaining most of the bits of the process.
 - [someone doing something similar with wild plants including nettle and milkweed](https://www.youtube.com/watch?v=Vy1tw-7sI7k), broadening the idea of what can be a fibre plant (in the US).
 - [spinning flax](https://www.youtube.com/watch?v=wqr-GRveyRg), and [how to dress a distaff](https://www.youtube.com/watch?v=1EpceAEdQZQ) - flax fibre is a pain and tends to chaos - re-combing it might help, as does working with damp hands. Spinning from the fold (directly or from rolled up ends on a distaff) probably works well.

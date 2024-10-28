@@ -35,6 +35,9 @@
   a.new {
     @apply underline decoration-dashed;
   }
+  a.external {
+    @apply underline decoration-double;
+  }
   article > *:first-child {
     margin-top: 0;
     padding-top: 0;
