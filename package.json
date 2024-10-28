@@ -8,30 +8,26 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "postbuild": "pagefind --exclude-selectors 'aside, header, footer' --site dist --output-subdir pagefind",
     "format": "prettier --write . --plugin=prettier-plugin-astro --plugin=prettier-plugin-tailwindcss "
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.7",
-    "@astrojs/sitemap": "^3.1.6",
-    "@astrojs/tailwind": "^5.1.0",
-    "@fontsource-variable/newsreader": "^5.0.19",
-    "@fontsource/fira-mono": "^5.0.13",
-    "astro": "^4.11.6",
-    "remark-wiki-link": "^2.0.1",
-    "tailwindcss": "^3.4.6"
+    "@astrojs/rss": "^4.0.9",
+    "@astrojs/starlight": "^0.28.3",
+    "@astrojs/starlight-tailwind": "^2.0.3",
+    "@astrojs/tailwind": "^5.1.2",
+    "@fontsource-variable/newsreader": "^5.1.0",
+    "@fontsource/fira-mono": "^5.1.0",
+    "astro": "^4.16.7",
+    "starlight-obsidian": "^0.4.9",
+    "starlight-site-graph": "^0.1.8",
+    "tailwindcss": "^3.4.14"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.13",
-    "pagefind": "^1.1.0",
+    "@tailwindcss/typography": "^0.5.15",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.12.3",
-    "prettier-plugin-tailwindcss": "^0.6.5",
+    "prettier-plugin-tailwindcss": "^0.6.8",
     "rehype-external-links": "^2.1.0",
-    "remark-parse": "10.0.1",
-    "remark-rehype": "^10.1.0",
-    "remark-stringify": "^10.0.3",
-    "sharp": "^0.32.6",
-    "unified": "10.1.2"
+    "sharp": "^0.32.6"
   }
 }

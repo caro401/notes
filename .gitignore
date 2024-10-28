@@ -30,6 +30,9 @@ notes/.obsidian/plugins/**/data.json
 
 notes/embed
 
+src/assets/notes
+src/content/docs/notes
+
 .frontmatter
 frontmatter.json
 **/.DS_Store

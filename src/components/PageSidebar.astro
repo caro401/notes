@@ -1,0 +1,14 @@
+---
+import Default from "@astrojs/starlight/components/PageSidebar.astro";
+import type { Props } from "@astrojs/starlight/props";
+
+import { PageBacklinks } from "starlight-site-graph/components";
+---
+
+<Default {...Astro.props}>
+  <slot />
+</Default>
+
+<PageBacklinks {...Astro.props} class="right-sidebar-panel backlinks-panel">
+  <h2 slot="title">{Astro.locals.t("starlight-site-graph.backlinks")}</h2>
+</PageBacklinks>
