@@ -20,7 +20,7 @@ In no particular order
 - <https://www.goodreads.com/book/show/24737268-badass>
 - <https://www.goodreads.com/series/43723-the-steerswoman>
 - <https://www.goodreads.com/series/198015-tensorate>
-- [Open Handbook of Linugistic Data Management](https://direct.mit.edu/books/oa-edited-volume/5244/The-Open-Handbook-of-Linguistic-Data-Management)
+- [Open Handbook of Linugistic Data Management](http://web.archive.org/web/20240610041443/https://direct.mit.edu/books/oa-edited-volume/5244/The-Open-Handbook-of-Linguistic-Data-Management)
 - <https://mitpress.mit.edu/books/metadata>
 - <https://link.springer.com/book/10.1007/978-3-030-86144-5>
 - <https://www.openbookpublishers.com/10.11647/obp.0192.10.pdf>

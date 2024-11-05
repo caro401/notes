@@ -47,6 +47,6 @@ These [fannrem socks](https://www.ravelry.com/patterns/library/fannrem-sokker) w
 
 [Bramble Basket Hanging Organiser by One Dog Woof](https://www.1dogwoof.com/bramble-hanging-basket-crochet-pattern/) is a horrible website full of adverts and pinterest links, but the pattern is a very versatile and useful crochet pouch, which can be made in basically any yarn weight, using up whatever I have left. These would make great gifts, or even gift wrapping for something small.
 
-A bunch of headbands that don't use much yarn: [Ragi headband](https://www.ravelry.com/patterns/library/ragi-hairband), [cats headband](https://www.ravelry.com/patterns/library/headband-cats), [celtic knot headband](https://www.ravelry.com/patterns/library/headband-celtic-knots), [smidge headband](https://h3dakota.com/2010/07/22/smidge-headband/), [summer band](http://amoangelus.blogspot.com/2014/07/summer-band.html?m=1)
+A bunch of headbands that don't use much yarn: [Ragi headband](https://www.ravelry.com/patterns/library/ragi-hairband), [cats headband](https://www.ravelry.com/patterns/library/headband-cats), [celtic knot headband](https://www.ravelry.com/patterns/library/headband-celtic-knots), [smidge headband](https://h3dakota.com/2010/07/22/smidge-headband/).
 
 This set of patterns for a whole [vegetable box](https://www.ravelry.com/bundles/vegetable-box)!
