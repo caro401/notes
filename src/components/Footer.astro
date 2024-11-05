@@ -1,23 +1,69 @@
-<footer class="p-6 text-center text-sm">
-  Made with <svg
-    xmlns="http://www.w3.org/2000/svg"
-    fill="currentColor"
-    viewBox="0 0 24 24"
-    stroke-width="1.5"
-    stroke="currentColor"
-    class="inline h-4 w-4 text-lime-700 dark:text-lime-300"
-  >
-    <path
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
-    ></path>
-  </svg>
-  by <a
-    href="https://www.caro.fyi"
-    class="text-lime-700 no-underline dark:text-lime-300">Caro</a
-  >, content licensed under <a
-    rel="license"
-    href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a
-  >
+---
+import type { Props } from "@astrojs/starlight/props";
+const { lastUpdated } = Astro.props;
+const pubDate = Astro.props.entry.data.pubDate;
+---
+
+<footer class="mt-12 p-6 text-sm md:mt-24">
+  <p class="text-center">
+    {
+      pubDate && (
+        <span class="mr-6">
+          First published{" "}
+          <time datetime={pubDate.toISOString()}>
+            {pubDate
+              .toLocaleDateString("sv-se", {
+                timeZone: "UTC",
+              })
+              .trimEnd()}
+          </time>
+        </span>
+      )
+    }
+    {
+      lastUpdated && (
+        <span>
+          Last updated{" "}
+          <time datetime={lastUpdated.toISOString()}>
+            {lastUpdated.toLocaleDateString("sv-se", {
+              timeZone: "UTC",
+            })}
+          </time>
+        </span>
+      )
+    }
+  </p>
+
+  <p class="text-center">
+    Made with <svg
+      xmlns="http://www.w3.org/2000/svg"
+      fill="currentColor"
+      viewBox="0 0 24 24"
+      stroke-width="1.5"
+      stroke="currentColor"
+      class="inline h-3 w-3 text-lime-700 dark:text-lime-300"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+      ></path>
+    </svg>
+    by <a
+      href="https://www.caro.fyi"
+      class="text-lime-700 no-underline dark:text-lime-300">Caro</a
+    >, content licensed under <a
+      rel="license"
+      href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a
+    >
+  </p>
+
+  <style>
+    footer p,
+    footer p a {
+      opacity: 80%;
+      margin-top: 0;
+      margin-bottom: 1em;
+    }
+  </style>
 </footer>

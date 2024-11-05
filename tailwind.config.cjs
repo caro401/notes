@@ -1,11 +1,17 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
-/** @type {import('tailwindcss').Config} */
+import starlightPlugin from "@astrojs/starlight-tailwind";
+import colors from "tailwindcss/colors";
+
 module.exports = {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     extend: {
+      colors: {
+        accent: colors.lime,
+        gray: colors.neutral,
+      },
       fontFamily: {
-        serif: [
+        sans: [
           "Newsreader Variable",
           "Newsreader",
           ...defaultTheme.fontFamily.serif,
@@ -14,5 +20,5 @@ module.exports = {
       },
     },
   },
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [require("@tailwindcss/typography"), starlightPlugin()],
 };
