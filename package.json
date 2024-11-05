@@ -11,7 +11,6 @@
     "format": "prettier --write . --plugin=prettier-plugin-astro --plugin=prettier-plugin-tailwindcss "
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.9",
     "@astrojs/starlight": "^0.28.3",
     "@astrojs/starlight-tailwind": "^2.0.3",
     "@astrojs/tailwind": "^5.1.2",
@@ -19,11 +18,13 @@
     "@fontsource/fira-mono": "^5.1.0",
     "astro": "^4.16.7",
     "starlight-obsidian": "^0.4.9",
-    "starlight-site-graph": "^0.1.8",
     "tailwindcss": "^3.4.14"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
+    "astro-integration-kit": "^0.17.0",
+    "gray-matter": "^4.0.3",
+    "micromatch": "^4.0.8",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.12.3",
     "prettier-plugin-tailwindcss": "^0.6.8",

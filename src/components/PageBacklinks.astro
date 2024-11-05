@@ -1,0 +1,74 @@
+---
+import path from "node:path";
+import micromatch from "micromatch";
+
+import config from "virtual:starlight-site-graph/config";
+import astroConfig from "virtual:starlight-site-graph/astro-config";
+
+interface Props {
+  slug?: string;
+  class?: string;
+  showBacklinks?: boolean;
+  entry?: Record<string, any>;
+}
+
+let backlinksData = {};
+let { slug } = Astro.props;
+
+// If frontmatter is explicitly passed as 'entry' (happens in a Starlight context)
+if (Astro.props.entry) {
+  backlinksData = Astro.props.entry["data"]?.backlinks;
+}
+
+function stripSlashes(s: string, onlyStripPrefix?: boolean): string {
+  if (s.startsWith("/")) s = s.substring(1);
+  if (!onlyStripPrefix && s.endsWith("/")) s = s.slice(0, -1);
+  return s;
+}
+function ensureTrailingSlash(path: string): string {
+  return path.endsWith("/") ? path : `${path}/`;
+}
+
+// Infer slug from URL if not explicitly provided
+const slugWithBase = ensureTrailingSlash(
+  stripSlashes(
+    (slug ? path.join(astroConfig.base, slug) : Astro.url.pathname).replaceAll(
+      "\\",
+      "/",
+    ),
+  ),
+);
+
+const sitemap = config.sitemapConfig.sitemap;
+
+let backlinks: string[] = [];
+if (sitemap) {
+  const sitemap_entry = sitemap[slugWithBase];
+  if (sitemap_entry?.backlinks)
+    backlinks = sitemap_entry.backlinks.sort((a, b) =>
+      sitemap[a]!.title.localeCompare(sitemap[b]!.title),
+    );
+}
+---
+
+{
+  backlinks.length > 0 && (
+    <>
+      <h2>Notes mentioning this note</h2>
+      <ul>
+        {backlinks.map((link) => (
+          <li>
+            <a href={"/" + link}>{sitemap![link]!.title}</a>
+          </li>
+        ))}
+      </ul>
+    </>
+  )
+}
+
+<style>
+  ul {
+    list-style: none;
+    padding-left: 0.5em;
+  }
+</style>

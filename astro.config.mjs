@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
-import starlightSiteGraph from "starlight-site-graph";
+import starlightSiteGraph from "./vendor/starlight-site-graph";
 import starlight from "@astrojs/starlight";
 import starlightObsidian, { obsidianSidebarGroup } from "starlight-obsidian";
 
@@ -17,13 +17,28 @@ export default defineConfig({
         mastodon: "https://fosstodon.org/@carofyi",
       },
       pagination: false,
+      lastUpdated: true,
       customCss: [
         "./src/styles/global.css",
         "@fontsource-variable/newsreader",
         "@fontsource-variable/newsreader/wght-italic.css",
         "@fontsource/fira-mono/400.css",
       ],
+      components: {
+        PageSidebar: "./src/components/PageSidebar.astro",
+        Footer: "./src/components/Footer.astro",
+      },
       expressiveCode: { themes: ["catppuccin-frappe", "catppuccin-latte"] },
+      head: [
+        {
+          tag: "script",
+          attrs: {
+            src: "https://cdn.usefathom.com/script.js",
+            "data-site": "GWBRQJFW",
+            defer: true,
+          },
+        },
+      ],
       plugins: [
         starlightSiteGraph({
           backlinksConfig: { glob: ["**/*"] },
@@ -40,5 +55,4 @@ export default defineConfig({
     }),
   ],
   build: { format: "file" },
-
 });
