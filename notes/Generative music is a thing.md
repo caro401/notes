@@ -1,7 +1,7 @@
 ---
 title: Generative music is a thing
-pubDate: 2024-07-30T16:31
-updatedDate: 2024-07-30T18:57
+pubDate: 2024-07-30
+lastUpdated: 2024-07-30
 id: 20240730160704-generative-music
 ---
 

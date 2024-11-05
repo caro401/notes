@@ -1,7 +1,7 @@
 ---
 title: Practical SVG - Chris Coyier
-pubDate: 2024-07-23 09:49
-updatedDate: 2024-07-23 09:49
+pubDate: 2024-07-23
+lastUpdated: 2024-07-23
 id: 20240723090738-practical-svg-chris-coyier
 ---
 

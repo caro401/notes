@@ -1,7 +1,7 @@
 ---
 title: a subquery is a SQL query inside another
-pubDate: 2023-10-23 13:37
-updatedDate: 2023-10-23T14:01
+pubDate: 2023-10-23
+lastUpdated: 2023-10-23
 id: 20231023131057-a-subquery-is-a-sql-query-inside-another
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Setting up tidal
-pubDate: 2024-10-22T14:34
-updatedDate: 2024-10-28T10:10
+pubDate: 2024-10-22
+lastUpdated: 2024-10-28
 id: 20241022141047-setting-up-tidal
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: What to do with photos
-pubDate: 2022-06-20 10:00
-updatedDate: 2023-04-13 18:47
+pubDate: 2022-06-20
+lastUpdated: 2023-04-13
 ---
 
 I have a load of digital photos, which I have recently actually managed to wrangle into one place. But I basically never look at them, and most of them are rubbish. How can I make better use of them?

@@ -1,7 +1,7 @@
 ---
 title: Draw-in describes the width lost when cloth is woven
-pubDate: 2023-10-18 11:52
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-18
+lastUpdated: 2023-10-23
 id: 20231018111015-draw-in-describes-the-width-lost-when-cloth-is-woven
 aliases:
   - draw-in

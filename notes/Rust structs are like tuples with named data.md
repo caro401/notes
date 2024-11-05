@@ -1,7 +1,7 @@
 ---
 title: Rust structs are like tuples with named data
-pubDate: 2023-04-13 16:19
-updatedDate: 2023-04-13 16:59
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413160462-rust-structs-are-like-tuples-with-named-data
 ---
 

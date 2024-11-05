@@ -1,7 +1,7 @@
 ---
 title: Books someone said I should read
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-13 11:34
+pubDate: 2022-11-08
+lastUpdated: 2023-04-13
 ---
 
 In no particular order

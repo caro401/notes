@@ -1,7 +1,7 @@
 ---
 title: NULL represents missing data
-pubDate: 2023-10-10 16:27
-updatedDate: 2023-10-10T16:28
+pubDate: 2023-10-10
+lastUpdated: 2023-10-10
 id: 20231010161037-null-represents-missing-data
 ---
 

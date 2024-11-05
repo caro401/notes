@@ -1,7 +1,7 @@
 ---
 title: Clean up unused space in a database using vacuum or optimise
-pubDate: 2023-11-13T17:34
-updatedDate: 2023-11-13T17:39
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113171119-clean-up-unused-space-in-a-database-using-vacuum-or-optimise
 ---
 

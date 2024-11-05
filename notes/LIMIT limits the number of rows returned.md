@@ -1,7 +1,7 @@
 ---
 title: LIMIT limits the number of rows returned
-pubDate: 2023-10-10 16:17
-updatedDate: 2023-10-10T16:17
+pubDate: 2023-10-10
+lastUpdated: 2023-10-10
 id: 20231010161005-limit-limits-the-number-of-rows-returned
 ---
 

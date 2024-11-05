@@ -1,8 +1,8 @@
 ---
 id: 20220907140929-semi-structured-data
 title: "Semi-structured data uses some formal constructs to indicate semantic elements"
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-13 11:39
+pubDate: 2022-11-08
+lastUpdated: 2023-04-13
 ---
 
 Semi-structured data doesn't conform to a formal data model, but uses formal constructs to indicate separate semantic elements within the data. This often looks like adding markup elements such as XML tags to otherwise unstructured data, to make those elements more easily processable computationally.

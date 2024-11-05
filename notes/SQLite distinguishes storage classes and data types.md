@@ -1,7 +1,7 @@
 ---
 title: SQLite distinguishes storage classes and data types
-pubDate: 2023-10-26 16:29
-updatedDate: 2023-10-26 16:29
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026161026-sqlite-distinguishes-storage-classes-and-data-types
 ---
 

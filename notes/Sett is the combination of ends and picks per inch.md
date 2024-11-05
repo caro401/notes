@@ -1,7 +1,7 @@
 ---
 title: Sett is the combination of ends and picks per inch
-pubDate: 2023-10-17 11:21
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017111031-sett-is-the-combination-of-ends-and-picks-per-inch
 ---
 

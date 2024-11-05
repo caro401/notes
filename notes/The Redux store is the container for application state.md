@@ -1,7 +1,7 @@
 ---
 title: The Redux store is the container for application state
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-13 11:39
+pubDate: 2022-11-08
+lastUpdated: 2023-04-13
 ---
 
 The [[Redux is a predictable state container for js|Redux]] store is a JavaScript object with a few special functions and abilities:

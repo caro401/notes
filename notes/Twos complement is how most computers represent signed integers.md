@@ -1,7 +1,7 @@
 ---
 title: Two's complement is how most computers represent signed integers
-pubDate: 2023-04-13 14:10
-updatedDate: 2023-04-13 14:20
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413140464-twos-complement-is-how-most-computers-represent-integers
 ---
 

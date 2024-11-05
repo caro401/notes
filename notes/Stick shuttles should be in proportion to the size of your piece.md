@@ -1,7 +1,7 @@
 ---
 title: Stick shuttles should be in proportion to the size of your piece
-pubDate: 2023-10-17 10:55
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017101094-stick-shuttles-should-be-in-proportion-to-the-size-of-your-loom
 ---
 

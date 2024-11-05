@@ -1,7 +1,7 @@
 ---
 title: Transactions are single units of work in a database
-pubDate: 2023-11-13T17:41
-updatedDate: 2023-11-13T17:53
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113171109-transactions-are-single-units-of-work-in-a-database
 ---
 

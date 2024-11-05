@@ -1,7 +1,7 @@
 ---
 title: An index is a structure to speed up retrieval of rows from a database
-pubDate: 2023-11-13T17:13
-updatedDate: 2023-11-13T17:33
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113171105-an-index-is-a-structure-to-speed-up-retrieval-of-rows-from-a-database
 ---
 

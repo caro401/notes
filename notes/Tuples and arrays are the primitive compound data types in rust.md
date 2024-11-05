@@ -1,7 +1,7 @@
 ---
 title: Tuples and arrays are the primitive compound data types in rust
-pubDate: 2023-04-13 14:32
-updatedDate: 2023-04-13 15:29
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413140490-tuples-and-arrays-are-the-primitive-compound-data-types-in-rust
 ---
 

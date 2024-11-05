@@ -1,7 +1,7 @@
 ---
 title: Common table expression is a view that exists for a single query
-pubDate: 2023-11-13 16:02
-updatedDate: 2023-11-13 16:02
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113161193-common-table-expression-is-a-view-that-exists-for-a-single-query
 aliases:
   - CTE

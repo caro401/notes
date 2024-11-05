@@ -1,7 +1,7 @@
 ---
 title: Take a control sample from your spinning
-pubDate: 2023-10-18 12:33
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-18
+lastUpdated: 2023-10-23
 id: 20231018121070-take-a-control-sample-from-your-spinning
 ---
 

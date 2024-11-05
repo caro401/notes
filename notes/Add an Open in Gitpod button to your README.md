@@ -1,8 +1,8 @@
 ---
 id: 20220823060529-open-in-gitpod
 title: Add an Open in Gitpod button to your README
-pubDate: 2022-08-23 18:05
-updatedDate: 2023-04-13 11:33
+pubDate: 2022-08-23
+lastUpdated: 2023-04-13
 ---
 
 I like to add [Gitpod](https://www.gitpod.io/) buttons to the README files of GitHub repos that are good for using with Gitpod (ie not developing desktop GUI software), so I, or any potential other contributors, can get an environment up and running quickly.

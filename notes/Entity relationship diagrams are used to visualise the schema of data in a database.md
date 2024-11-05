@@ -1,7 +1,7 @@
 ---
 title: Entity relationship diagrams are used to visualise the schema of data in a database
-pubDate: 2023-10-23 13:07
-updatedDate: 2023-10-23T13:25
+pubDate: 2023-10-23
+lastUpdated: 2023-10-23
 id: 20231023131052-entity-relationship-diagrams-are-used-to-visualise-the-schema-of-data-in-a-database
 aliases:
   - entity-relationship diagram

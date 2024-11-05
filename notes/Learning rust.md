@@ -1,7 +1,7 @@
 ---
 title: Learning Rust
-pubDate: 2023-04-13 11:57
-updatedDate: 2023-07-24 13:19
+pubDate: 2023-04-13
+lastUpdated: 2023-07-24
 id: 20230413110483-learning-rust
 ---
 

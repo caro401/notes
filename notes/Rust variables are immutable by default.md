@@ -1,7 +1,7 @@
 ---
 title: Rust variables are immutable by default
-pubDate: 2023-04-13 13:48
-updatedDate: 2023-04-14 16:43
+pubDate: 2023-04-13
+lastUpdated: 2023-04-14
 id: 20230413130434-rust-variables-are-immutable-by-default
 ---
 

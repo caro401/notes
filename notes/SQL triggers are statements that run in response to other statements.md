@@ -1,7 +1,7 @@
 ---
 title: SQL triggers are statements that run in response to other statements
-pubDate: 2023-11-13 15:22
-updatedDate: 2023-11-13 15:22
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113151127-sql-triggers-are-statements-that-run-in-response-to-other-statements
 ---
 

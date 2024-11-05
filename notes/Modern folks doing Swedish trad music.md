@@ -1,7 +1,7 @@
 ---
 title: Modern folks doing Swedish trad music
-pubDate: 2024-09-04T15:37
-updatedDate: 2024-09-04T18:04
+pubDate: 2024-09-04
+lastUpdated: 2024-09-04
 id: 20240904150912-modern-folks-doing-swedish-trad-music
 ---
 

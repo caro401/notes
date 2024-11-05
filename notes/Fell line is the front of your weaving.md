@@ -1,7 +1,7 @@
 ---
 title: Fell line is the front of your weaving
-pubDate: 2023-10-17 10:44
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017101061-fell-line-is-the-front-of-your-weaving
 ---
 

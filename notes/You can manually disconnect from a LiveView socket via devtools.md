@@ -1,7 +1,7 @@
 ---
 title: You can manually disconnect from a LiveView socket via devtools
-pubDate: 2024-07-16 15:06
-updatedDate: 2024-07-16 15:06
+pubDate: 2024-07-16
+lastUpdated: 2024-07-16
 id: 20240716150765-liveview-socket-devtools
 ---
 

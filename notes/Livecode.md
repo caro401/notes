@@ -1,7 +1,7 @@
 ---
 title: Livecode
-pubDate: 2024-10-28 10:10
-updatedDate: 2024-10-28 10:10
+pubDate: 2024-10-28
+lastUpdated: 2024-10-28
 id: 20241028101077-livecode
 ---
 

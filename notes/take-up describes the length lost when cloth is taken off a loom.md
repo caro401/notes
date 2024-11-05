@@ -1,7 +1,7 @@
 ---
 title: Take-up describes the length lost when cloth is taken off a loom
-pubDate: 2023-10-18 11:45
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-18
+lastUpdated: 2023-10-23
 id: 20231018111013-take-up-describes-the-length-lost-when-cloth-is-taken-off-a-loom
 aliases:
   - take-up

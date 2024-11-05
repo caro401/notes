@@ -1,7 +1,7 @@
 ---
 title: Spinning for sewing thread
-pubDate: 2024-07-24T12:05
-updatedDate: 2024-07-24T12:08
+pubDate: 2024-07-24
+lastUpdated: 2024-07-24
 id: 20240724120773-spinning-for-sewing-thread
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: 2204022047920-recency-bias
 title: "Recency bias means we remember the last thing in a list more strongly"
-pubDate: 2022-06-30 15:54
-updatedDate: 2023-04-13 11:38
+pubDate: 2022-06-30
+lastUpdated: 2023-04-13
 ---
 
 Recency bias means we remember the last thing in a list more strongly. It is easiest to remember the last thing you heard, so you're most likely to remember things from the end of an interview, or what the last participant said.

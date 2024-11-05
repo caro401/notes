@@ -1,7 +1,7 @@
 ---
 title: ISSN is an identifier for continuing media
-pubDate: 2022-07-18 12:56
-updatedDate: 2023-04-13 11:37
+pubDate: 2022-07-18
+lastUpdated: 2023-04-13
 ---
 
 An ISSN or International Standard Serial Number is an 8-digit code used to identify newspapers, journals, magazines and periodicals of all kinds and on all media. It is associated with the title of the publication (eg journal name).

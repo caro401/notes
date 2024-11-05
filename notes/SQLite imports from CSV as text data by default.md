@@ -1,7 +1,7 @@
 ---
 title: SQLite imports from CSV as text data by default
-pubDate: 2023-10-31T15:07
-updatedDate: 2023-11-13T16:40
+pubDate: 2023-10-31
+lastUpdated: 2023-11-13
 id: 20231031151021-when-you-import-from-csv-to-sqlite,-data-comes-in-as-text-by-default
 ---
 

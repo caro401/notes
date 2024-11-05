@@ -1,7 +1,7 @@
 ---
 title: A heddle is aka reed
-pubDate: 2024-10-22T10:40
-updatedDate: 2024-10-22T10:42
+pubDate: 2024-10-22
+lastUpdated: 2024-10-22
 id: 20231017101071-a-heddle-is-aka-reed
 aliases:
   - heddle

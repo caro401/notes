@@ -1,7 +1,7 @@
 ---
 title: Table constraints impose restrictions on values in tables
-pubDate: 2023-10-26 16:52
-updatedDate: 2023-10-26 16:52
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026161079-table-constraints-impose-restrictions-on-values-in-tables
 ---
 

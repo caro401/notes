@@ -1,7 +1,7 @@
 ---
 title: Rust char type is a scalar type like numbers
-pubDate: 2023-04-13 14:27
-updatedDate: 2023-04-13 15:30
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413140454-rust-char-type-is-a-scalar-type-like-numbers
 ---
 

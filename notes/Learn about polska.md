@@ -1,7 +1,7 @@
 ---
 title: Learn about polska
-pubDate: 2024-09-04T17:57
-updatedDate: 2024-09-04T18:04
+pubDate: 2024-09-04
+lastUpdated: 2024-09-04
 id: 20240904170950-learn-about-polska
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Sashiko has practical as well as decorative applications
-pubDate: 2024-07-19T11:11
-updatedDate: 2024-07-24T12:19
+pubDate: 2024-07-19
+lastUpdated: 2024-07-24
 id: 202407161408-sashiko-has-practical applications
 ---
 

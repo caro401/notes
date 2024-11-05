@@ -1,7 +1,7 @@
 ---
 title: Make an enhanced form return an error in SvelteKit
-pubDate: 2023-04-21 16:57
-updatedDate: 2023-07-24 13:19
+pubDate: 2023-04-21
+lastUpdated: 2023-07-24
 id: 20230421160413-form-errors-sveltekit
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Search rust docs quickly from raycast
-pubDate: 2023-04-17 10:40
-updatedDate: 2023-07-24 13:19
+pubDate: 2023-04-17
+lastUpdated: 2023-07-24
 id: 20230417100493-search-rust-docs-quickly-from-raycast
 ---
 

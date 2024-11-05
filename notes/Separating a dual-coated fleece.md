@@ -1,7 +1,7 @@
 ---
 title: Separating a dual-coated fleece
-pubDate: 2022-11-21 14:07
-updatedDate: 2023-04-04 18:16
+pubDate: 2022-11-21
+lastUpdated: 2023-04-04
 ---
 
 ### Further Reading

@@ -1,7 +1,7 @@
 ---
 title: Ownership in Rust is a discipline for safely using memory
-pubDate: 2023-04-13 15:22
-updatedDate: 2023-04-13 16:07
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413150471-ownership-in-rust-is-a-discipline-for-safely-using-memory
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: 2204022047954-unconscious-bias
 title: "Unconscious bias is the collection of attitudes and stereotypes we associate with people without conscious knowledge"
-pubDate: 2022-06-30 15:57
-updatedDate: 2023-04-13 11:40
+pubDate: 2022-06-30
+lastUpdated: 2023-04-13
 ---
 
 Implicit or unconscious bias is the collection of attitudes and stereotypes we associate with people without conscious knowledge.

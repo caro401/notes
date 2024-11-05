@@ -1,7 +1,7 @@
 ---
 title: Aggregate functions return statistics about groups of rows
-pubDate: 2023-10-10 16:49
-updatedDate: 2023-10-23T17:16
+pubDate: 2023-10-10
+lastUpdated: 2023-10-23
 id: 20231010161058-aggregate-functions-return-statistics-about-groups-of-rows
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Use cargo by convention
-pubDate: 2023-04-13 12:32
-updatedDate: 2023-04-17 10:39
+pubDate: 2023-04-13
+lastUpdated: 2023-04-17
 id: 20230413120482-use-cargo-by-convention
 ---
 

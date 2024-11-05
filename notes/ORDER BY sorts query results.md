@@ -1,7 +1,7 @@
 ---
 title: ORDER BY sorts query results
-pubDate: 2023-10-10 16:42
-updatedDate: 2023-10-10T16:48
+pubDate: 2023-10-10
+lastUpdated: 2023-10-10
 id: 20231010161065-order-by-sorts-query-results
 ---
 

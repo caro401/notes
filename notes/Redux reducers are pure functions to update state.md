@@ -1,7 +1,7 @@
 ---
 title: Redux reducers are pure functions to update state
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-13 11:39
+pubDate: 2022-11-08
+lastUpdated: 2023-04-13
 ---
 
 The function signature for a [[Redux is a predictable state container for js|Redux]] reducer is `(state, action) => newState`. Reducers must follow these rules:

@@ -1,7 +1,7 @@
 ---
 title: CS50's Introduction to Databases with SQL
-pubDate: 2023-10-26T15:14
-updatedDate: 2023-11-13T17:52
+pubDate: 2023-10-26
+lastUpdated: 2023-11-13
 id: 20231010151075-cs50-databases
 ---
 

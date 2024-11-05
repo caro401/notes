@@ -1,7 +1,7 @@
 ---
 title: Mend it
-pubDate: 2023-11-07T15:10
-updatedDate: 2024-10-22T10:42
+pubDate: 2023-11-07
+lastUpdated: 2024-10-22
 id: 20231107151167-mend-it!-by-maureen-goldsworthy
 ---
 

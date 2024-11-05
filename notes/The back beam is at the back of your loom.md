@@ -1,7 +1,7 @@
 ---
 title: The back beam is at the back of your loom
-pubDate: 2023-10-17 10:53
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017101034-the-back-beam-is-at-the-back-of-your-loom
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: SELECT gets data from rows in a table
-pubDate: 2023-10-10 16:16
-updatedDate: 2023-10-10T16:58
+pubDate: 2023-10-10
+lastUpdated: 2023-10-10
 id: 20231010161017-select-gets-data-from-rows-in-a-table
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: keys are used to identify and relate data
-pubDate: 2024-10-22T10:40
-updatedDate: 2024-10-22T10:43
+pubDate: 2024-10-22
+lastUpdated: 2024-10-22
 id: 20231023131015-keys-are-used-to-relate-data
 ---
 

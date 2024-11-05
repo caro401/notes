@@ -1,7 +1,7 @@
 ---
 title: SQL is a language used to interact with data in a database
-pubDate: 2023-10-10 15:52
-updatedDate: 2023-10-23T14:02
+pubDate: 2023-10-10
+lastUpdated: 2023-10-23
 id: 20231010151097-sql-is-a-language-used-to-interact-with-data-in-a-database
 ---
 

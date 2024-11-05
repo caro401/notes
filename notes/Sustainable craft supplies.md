@@ -1,7 +1,7 @@
 ---
 title: Sustainable craft supplies
-pubDate: 2023-04-13T11:39
-updatedDate: 2023-11-13T16:33
+pubDate: 2023-04-13
+lastUpdated: 2023-11-13
 ---
 
 - [Tencel](https://jamestailoring.co.uk/product/sew-all-celofil-100-tencel-biological-thread-40/) thread from James Tailoring - still biodegradable but less damaging than cotton?

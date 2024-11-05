@@ -1,7 +1,7 @@
 ---
 title: Sheep grease melts at 60C
-pubDate: 2023-10-18 15:12
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-18
+lastUpdated: 2023-10-23
 id: 20231018151030-sheep-grease-melts-at-60c
 ---
 

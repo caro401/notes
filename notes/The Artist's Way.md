@@ -1,7 +1,7 @@
 ---
 title: The Artist's Way
-pubDate: 2024-07-16T17:44
-updatedDate: 2024-07-23T09:49
+pubDate: 2024-07-16
+lastUpdated: 2024-07-23
 id: 20240716170737-the-artists-way
 ---
 

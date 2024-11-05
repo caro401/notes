@@ -1,8 +1,8 @@
 ---
 id: 20220825060756-green-software-resources
 title: Green software resources
-pubDate: 2022-08-25 18:07
-updatedDate: 2023-04-13 11:37
+pubDate: 2022-08-25
+lastUpdated: 2023-04-13
 ---
 
 I haven't read any of these things, but wanted to keep track of resources recommended in various places around the internet that I should follow up on

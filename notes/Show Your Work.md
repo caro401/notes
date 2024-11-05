@@ -1,7 +1,7 @@
 ---
 title: Show Your Work
-pubDate: 2024-07-23T17:35
-updatedDate: 2024-07-23T17:42
+pubDate: 2024-07-23
+lastUpdated: 2024-07-23
 id: 20240723170796-show-your-work
 ---
 

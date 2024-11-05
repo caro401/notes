@@ -1,7 +1,7 @@
 ---
 title: Scanning each row in a database can be slow
-pubDate: 2023-11-13T17:10
-updatedDate: 2023-11-13T17:13
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113171119-scanning-each-row-in-a-database-can-be-slow
 ---
 

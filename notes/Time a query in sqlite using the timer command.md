@@ -1,7 +1,7 @@
 ---
 title: Time a query in sqlite using the timer command
-pubDate: 2023-11-13T17:04
-updatedDate: 2023-11-13T17:09
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113171146-time-a-query-in-sqlite-using-the-timer-command
 ---
 

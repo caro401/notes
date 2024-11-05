@@ -1,8 +1,8 @@
 ---
 id: 20221110113330-analogue-productivity
 title: Analogue productivity systems
-pubDate: 2022-11-10 11:33
-updatedDate: 2023-04-13 11:34
+pubDate: 2022-11-10
+lastUpdated: 2023-04-13
 ---
 
 ## [Everbook](https://everbookforever.com/)

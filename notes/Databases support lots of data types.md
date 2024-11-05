@@ -1,7 +1,7 @@
 ---
 title: Databases support lots of data types
-pubDate: 2023-10-26 16:35
-updatedDate: 2023-10-26 16:35
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026161091-databases-support-lots-of-data-types
 ---
 

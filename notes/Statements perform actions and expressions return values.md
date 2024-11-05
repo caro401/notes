@@ -1,7 +1,7 @@
 ---
 title: Statements perform actions, expressions return values
-pubDate: 2023-04-13 14:47
-updatedDate: 2023-04-13 15:29
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413140467-statements-perform-actions,-expressions-return-values
 ---
 

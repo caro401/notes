@@ -1,7 +1,7 @@
 ---
 title: Use Rustup to install Rust
-pubDate: 2023-04-13 12:12
-updatedDate: 2023-04-13 12:31
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413120458-Use-Rustup
 ---
 

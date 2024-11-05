@@ -1,7 +1,7 @@
 ---
 title: Transactional locking
-pubDate: 2023-11-13T17:52
-updatedDate: 2023-11-13T17:57
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113171181-transactional-locking
 ---
 

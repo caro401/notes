@@ -1,7 +1,7 @@
 ---
 title: Art-write
-pubDate: 2024-07-23T17:44
-updatedDate: 2024-07-23T18:00
+pubDate: 2024-07-23
+lastUpdated: 2024-07-23
 id: 20240723170759-art-write
 ---
 

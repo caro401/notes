@@ -1,7 +1,7 @@
 ---
 title: Recipes
-pubDate: 2022-07-05 12:01
-updatedDate: 2023-04-13 11:38
+pubDate: 2022-07-05
+lastUpdated: 2023-04-13
 ---
 
 ## That I have made and really like

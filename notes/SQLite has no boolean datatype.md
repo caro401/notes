@@ -1,7 +1,7 @@
 ---
 title: SQLite has no boolean datatype
-pubDate: 2023-10-26 16:50
-updatedDate: 2023-10-26 16:50
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026161090-sqlite-has-no-boolean-datatype
 ---
 

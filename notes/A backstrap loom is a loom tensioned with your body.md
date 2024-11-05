@@ -1,7 +1,7 @@
 ---
 title: A backstrap loom is a loom tensioned with your body
-pubDate: 2024-01-12T12:19
-updatedDate: 2024-07-24T11:44
+pubDate: 2024-01-12
+lastUpdated: 2024-07-24
 id: 20230706160721-backstrap-loom
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Apron rods are mounted to beams
-pubDate: 2023-10-17 10:51
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017101095-apron-rods-are-mounted-to-beams
 ---
 

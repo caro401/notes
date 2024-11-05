@@ -1,10 +1,39 @@
 ---
 import type { Props } from "@astrojs/starlight/props";
-import Default from "@astrojs/starlight/components/LastUpdated.astro";
+const { lastUpdated } = Astro.props;
+const pubDate = Astro.props.entry.data.pubDate;
 ---
 
-<footer class="sl-flex p-6 text-sm">
-  <Default {...Astro.props} />
+<footer class="mt-12 p-6 text-sm md:mt-24">
+  <p class="text-center">
+    {
+      pubDate && (
+        <span class="mr-6">
+          First published{" "}
+          <time datetime={pubDate.toISOString()}>
+            {pubDate
+              .toLocaleDateString("sv-se", {
+                timeZone: "UTC",
+              })
+              .trimEnd()}
+          </time>
+        </span>
+      )
+    }
+    {
+      lastUpdated && (
+        <span>
+          Last updated{" "}
+          <time datetime={lastUpdated.toISOString()}>
+            {lastUpdated.toLocaleDateString("sv-se", {
+              timeZone: "UTC",
+            })}
+          </time>
+        </span>
+      )
+    }
+  </p>
+
   <p class="text-center">
     Made with <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -28,4 +57,13 @@ import Default from "@astrojs/starlight/components/LastUpdated.astro";
       href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a
     >
   </p>
+
+  <style>
+    footer p,
+    footer p a {
+      opacity: 80%;
+      margin-top: 0;
+      margin-bottom: 1em;
+    }
+  </style>
 </footer>

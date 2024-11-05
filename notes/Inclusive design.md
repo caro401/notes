@@ -1,8 +1,8 @@
 ---
 id: 2204022927021-inclusive-design
 title: "Inclusive Design means designing products to be usable for as many people as possible"
-pubDate: 2022-08-25 18:47
-updatedDate: 2023-04-04 18:26
+pubDate: 2022-08-25
+lastUpdated: 2023-04-04
 ---
 
 Inclusive design means making design choices that take into account things like ability, race, economic status, language, age and gender. This includes researchers and designers from traditionally excluded backgrounds in the process, so they can provide their unique perspectives. "solve for one, extend to many". No one should be excluded from using a product we build because we didn't consider their needs when building it. There is no "average person".

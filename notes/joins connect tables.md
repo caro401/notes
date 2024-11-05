@@ -1,7 +1,7 @@
 ---
 title: joins connect tables
-pubDate: 2023-10-23 14:01
-updatedDate: 2023-10-23T14:19
+pubDate: 2023-10-23
+lastUpdated: 2023-10-23
 id: 20231023141099-joins-connect-tables
 ---
 

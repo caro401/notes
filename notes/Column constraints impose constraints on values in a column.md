@@ -1,7 +1,7 @@
 ---
 title: Column constraints impose constraints on values in a column
-pubDate: 2023-10-26 17:03
-updatedDate: 2023-10-26 17:03
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026171097-column-constraints-impose-constraints-on-values-in-a-column
 ---
 

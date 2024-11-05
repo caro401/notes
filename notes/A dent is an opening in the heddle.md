@@ -1,7 +1,7 @@
 ---
 title: A dent is an opening in the heddle
-pubDate: 2023-10-17 10:48
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017101095-a-dent-is-an-opening-in-the-heddle
 ---
 

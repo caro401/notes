@@ -1,7 +1,7 @@
 ---
 title: clean out old dependencies from your package manager
-pubDate: 2023-11-01 10:19
-updatedDate: 2023-11-01 10:19
+pubDate: 2023-11-01
+lastUpdated: 2023-11-01
 id: 20231101101115-clean-out-old-dependencies-from-your-package-manager
 ---
 

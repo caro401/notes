@@ -1,7 +1,7 @@
 ---
 title: The type affinity of a sqlite column is the recommended type for data in that column
-pubDate: 2023-10-26 16:38
-updatedDate: 2023-10-26 16:38
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026161069-the-type-affinity-of-a-sqlite-column-is-the-recommended-type-for-data-in-that-column
 ---
 

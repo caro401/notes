@@ -2,8 +2,8 @@
 id: 20220907105042-gyb
 alias: "GYB"
 title: GYB is a CLI for backing up gmail
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-13 11:37
+pubDate: 2022-11-08
+lastUpdated: 2023-04-13
 ---
 
 > Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS. <cite><a href="https://github.com/GAM-team/got-your-back">GYB on GitHub</a></cite>

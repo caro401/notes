@@ -1,8 +1,8 @@
 ---
 id: 20220825022342-gitops-is-devops
 title: GitOps is a prescriptive way of implementing DevOps
-pubDate: 2022-08-25 14:23
-updatedDate: 2023-04-13 11:37
+pubDate: 2022-08-25
+lastUpdated: 2023-04-13
 ---
 
 [OpenGitOps](https://opengitops.dev/#principles) states that there are 4 principles of GitOps:

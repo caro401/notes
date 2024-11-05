@@ -1,7 +1,7 @@
 ---
 title: Lots of people are doing electronic folk music
-pubDate: 2024-07-30T15:12
-updatedDate: 2024-08-05T11:19
+pubDate: 2024-07-30
+lastUpdated: 2024-08-05
 id: 20240730150777-electronic-folk-music
 ---
 

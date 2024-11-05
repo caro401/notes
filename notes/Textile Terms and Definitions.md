@@ -1,7 +1,7 @@
 ---
 title: Textile Terms and Definitions
-pubDate: 2022-08-26 17:43
-updatedDate: 2023-04-13 11:39
+pubDate: 2022-08-26
+lastUpdated: 2023-04-13
 ---
 
 ![Book cover for Textile Terms and Definitions from the Textile Institute](https://covers.openlibrary.org/b/id/5015336-M.jpg)

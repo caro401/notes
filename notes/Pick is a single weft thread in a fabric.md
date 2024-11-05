@@ -1,8 +1,8 @@
 ---
 id: 20220826055136-pick
 title: Pick is a single weft thread in a fabric
-pubDate: 2022-08-26 17:53
-updatedDate: 2023-04-13 11:38
+pubDate: 2022-08-26
+lastUpdated: 2023-04-13
 ---
 
 Also known as shot. Pick can also refer to the action of passing the weft thread through the warp [[Shed is the opening formed when warp threads are separated|shed]].

@@ -1,7 +1,7 @@
 ---
 title: A view is a virtual table defined by a query
-pubDate: 2023-11-13T15:43
-updatedDate: 2023-11-13T17:00
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113151111-a-view-is-a-virtual-table-defined-by-a-query
 ---
 

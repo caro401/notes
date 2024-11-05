@@ -1,7 +1,7 @@
 ---
 title: Choosing yarn for your weaving project
-pubDate: 2023-10-17 11:02
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017111095-choosing-yarn-for-your-weaving-project
 ---
 

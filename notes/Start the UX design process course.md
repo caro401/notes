@@ -1,7 +1,7 @@
 ---
 title: Start the UX design process course
-pubDate: 2022-06-30 15:39
-updatedDate: 2023-04-13 11:39
+pubDate: 2022-06-30
+lastUpdated: 2023-04-13
 ---
 
 [This course on Coursera](https://www.coursera.org/learn/start-ux-design-process), from Google.

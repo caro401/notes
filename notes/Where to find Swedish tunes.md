@@ -1,7 +1,7 @@
 ---
 title: Where to find Swedish tunes
-pubDate: 2024-09-04T18:04
-updatedDate: 2024-09-04T18:06
+pubDate: 2024-09-04
+lastUpdated: 2024-09-04
 id: 20240904180905-where-to-find-swedish-tunes
 ---
 

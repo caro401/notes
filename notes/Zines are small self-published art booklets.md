@@ -1,7 +1,7 @@
 ---
 title: Zines are small self-published art booklets
-pubDate: 2024-07-16 14:12
-updatedDate: 2024-07-16 14:12
+pubDate: 2024-07-16
+lastUpdated: 2024-07-16
 id: 20240716140792-zines-are-small-self-published-art-booklets
 ---
 

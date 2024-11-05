@@ -1,7 +1,7 @@
 ---
 title: A Rust string slice is a reference to part of a String
-pubDate: 2023-04-13 16:15
-updatedDate: 2023-04-13 16:59
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413160406-a-rust-string-slice-is-a-reference-to-part-of-a-string
 ---
 

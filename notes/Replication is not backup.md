@@ -1,8 +1,8 @@
 ---
 id: "22040613304914-replication-is-not-backup"
 title: Database replication is not a backup solution
-pubDate: 2022-06-30 15:23
-updatedDate: 2023-04-13 11:39
+pubDate: 2022-06-30
+lastUpdated: 2023-04-13
 ---
 
 Replication alone is not sufficient for backup. It assists in protecting against hardware failure on the primary server, but does not protect against data loss. An accidental or malicious `DROP DATABASE` or `TRUNCATE TABLE` statement will be replicated onto the replicas as well.

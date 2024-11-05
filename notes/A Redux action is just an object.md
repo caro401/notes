@@ -1,7 +1,7 @@
 ---
 title: A Redux action is just an object
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-04-13 11:33
+pubDate: 2022-11-08
+lastUpdated: 2023-04-13
 ---
 
 A Redux action is an object of special form. They correspond conceptually with an event that can happen in your application, such as "add a todo" or "increment the counter".

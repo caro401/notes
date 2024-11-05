@@ -1,7 +1,7 @@
 ---
 title: Use cargo check to quickly see if your code compiles
-pubDate: 2023-04-13 12:26
-updatedDate: 2023-04-13 12:26
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413120438-use-cargo-check
 ---
 

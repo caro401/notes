@@ -1,7 +1,7 @@
 ---
 title: SQLite is a DBMS
-pubDate: 2023-10-26T16:47
-updatedDate: 2023-11-13T17:04
+pubDate: 2023-10-26
+lastUpdated: 2023-11-13
 id: 20231026161030-sqlite-is-a-dbms
 aliases:
   - sqlite

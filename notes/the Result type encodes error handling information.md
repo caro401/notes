@@ -1,7 +1,7 @@
 ---
 title: the Result type encodes error handling information
-pubDate: 2023-04-13 12:55
-updatedDate: 2023-04-13 13:05
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413120427-the-result-type-encodes-error-handling-information
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: 20220823051446-weaving
 title: Weaving
-pubDate: 2022-11-08 11:29
-updatedDate: 2023-10-23T12:55
+pubDate: 2022-11-08
+lastUpdated: 2023-10-23
 ---
 
 I own an [Ashford rigid heddle loom](https://www.winghamwoolwork.co.uk/rigid-heddle-loom.html) in the 24inch/60cm size, and a DIY [[A backstrap loom is a loom tensioned with your body|backstrap loom]] that I made from some rolling pins, a ruler and some cable ties.

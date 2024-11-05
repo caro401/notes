@@ -1,7 +1,7 @@
 ---
 title: Project planning and calculations
-pubDate: 2023-10-17 11:14
-updatedDate: 2023-10-23T12:55
+pubDate: 2023-10-17
+lastUpdated: 2023-10-23
 id: 20231017111089-project-planning-and-calculations
 ---
 

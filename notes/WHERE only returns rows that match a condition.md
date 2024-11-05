@@ -1,7 +1,7 @@
 ---
 title: WHERE only returns rows that match a condition
-pubDate: 2023-10-10 16:20
-updatedDate: 2023-10-23T17:17
+pubDate: 2023-10-10
+lastUpdated: 2023-10-23
 id: 20231010161044-where-only-returns-rows-that-match-a-condition
 ---
 

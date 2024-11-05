@@ -1,7 +1,7 @@
 ---
 title: Playing harmony lines in Swedish folk music
-pubDate: 2024-09-04T16:07
-updatedDate: 2024-09-04T17:41
+pubDate: 2024-09-04
+lastUpdated: 2024-09-04
 id: 20240904160926-playing-harmony-lines-in-swedish-folk-music
 ---
 

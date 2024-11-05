@@ -1,7 +1,7 @@
 ---
 title: Learn regex
-pubDate: 2022-06-30 10:24
-updatedDate: 2023-04-13 11:38
+pubDate: 2022-06-30
+lastUpdated: 2023-04-13
 ---
 
 Periodically people I know or work with ask for help with learning regex, and I always forget the links I send. Here they are.

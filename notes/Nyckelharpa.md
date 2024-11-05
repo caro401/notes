@@ -1,8 +1,8 @@
 ---
 title: Nyckelharpa
-pubDate: 2024-07-19T11:11
-updatedDate: 2024-09-04T16:18
-id: 20240318120361-untitled
+pubDate: 2024-07-19
+lastUpdated: 2024-09-04
+id: 20240318120361-nyckelharpa
 ---
 
 Current hyperfixation interest is learning how to build musical instruments, specifically a [Nyckelharpa](https://en.wikipedia.org/wiki/Nyckelharpa) of some sort. Because these are pretty hard to acquire in the UK, there's very few makers and most of them are old.

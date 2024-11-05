@@ -1,7 +1,7 @@
 ---
 title: A DBMS is a way to interact with a database
-pubDate: 2023-10-10 15:48
-updatedDate: 2023-10-10T15:52
+pubDate: 2023-10-10
+lastUpdated: 2023-10-10
 id: 20231010151025-a-dbms-is-a-way-to-interact-with-a-database
 ---
 

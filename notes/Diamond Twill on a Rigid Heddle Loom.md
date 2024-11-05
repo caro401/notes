@@ -1,8 +1,8 @@
 ---
 id: 20221110082608-twill-rigid-heddle
 title: Diamond Twill on a Rigid Heddle Loom
-pubDate: 2022-11-10 20:25
-updatedDate: 2023-04-13 11:37
+pubDate: 2022-11-10
+lastUpdated: 2023-04-13
 ---
 
 ### Further Reading

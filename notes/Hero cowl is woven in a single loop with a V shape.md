@@ -1,8 +1,8 @@
 ---
 id: 20230103105023-hero-cowl
 title: Hero cowl is woven in a single loop with a V shape
-pubDate: 2023-01-03 10:50
-updatedDate: 2023-07-24 13:19
+pubDate: 2023-01-03
+lastUpdated: 2023-07-24
 ---
 
 This cowl has a really clever construction, using warp threads from the start of the piece as the weft for the final bit, giving a loop without any sewing. Using warp with different colours in gives a neat tartan-like effect on the front piece.

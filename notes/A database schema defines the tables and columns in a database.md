@@ -1,7 +1,7 @@
 ---
 title: A database schema defines the tables and columns in a database
-pubDate: 2023-10-26 16:11
-updatedDate: 2023-10-26 16:11
+pubDate: 2023-10-26
+lastUpdated: 2023-10-26
 id: 20231026161075-a-database-schema-defines-the-tables-and-columns-in-a-database
 ---
 

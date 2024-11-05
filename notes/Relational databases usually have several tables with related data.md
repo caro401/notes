@@ -1,7 +1,7 @@
 ---
 title: Relational databases usually have several tables with related data
-pubDate: 2023-10-23 13:04
-updatedDate: 2023-10-23T13:06
+pubDate: 2023-10-23
+lastUpdated: 2023-10-23
 id: 20231023131024-relational-databases-usually-have-several-tables-with-related-data
 ---
 

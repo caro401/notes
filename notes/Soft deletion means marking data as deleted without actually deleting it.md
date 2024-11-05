@@ -1,7 +1,7 @@
 ---
 title: Soft deletion means marking data as deleted without actually deleting it
-pubDate: 2023-11-13T15:30
-updatedDate: 2023-11-13T16:50
+pubDate: 2023-11-13
+lastUpdated: 2023-11-13
 id: 20231113151109-soft-deletion-means-marking-data-as-deleted-without-actually-deleting-it
 ---
 

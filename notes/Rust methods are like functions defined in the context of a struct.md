@@ -1,7 +1,7 @@
 ---
 title: Rust methods are like functions defined in the context of a struct
-pubDate: 2023-04-13 16:34
-updatedDate: 2023-04-13 17:00
+pubDate: 2023-04-13
+lastUpdated: 2023-04-13
 id: 20230413160491-rust-methods-are-like-functions-defined-in-the-context-of-a-struct
 ---
 
