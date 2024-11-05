@@ -10,7 +10,7 @@ alias setup := install
 # Install all project dependencies
 install:
     pnpm i
-    pnpx playwright install
+    pnpx playwright install --with-deps chromium
 
 # Update all project dependencies
 update-deps:
