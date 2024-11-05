@@ -1,7 +1,7 @@
 ---
 title: Colour gamp or colour sampler
 pubDate: 2023-10-17
-lastUpdated: 2023-10-23
+lastUpdated: 2024-11-05
 id: 20231017111008-colour-gamp-or-colour-sampler
 ---
 
@@ -11,4 +11,4 @@ This is great for learning about colour theory, and exploring the colours availa
 
 [Apparently, the word gamp comes from old slang for umbrella](https://handwovenmagazine.com/actual-definition-gamp/), because of the thing having sections.
 
-Here's loads more information about [how to design one](https://www.weavezine.com/content/color-gamps.html)
+Here's loads more information about [how to design one](https://web.archive.org/web/20240617100157/https://weavezine.com/content/color-gamps.html)

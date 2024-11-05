@@ -1,7 +1,7 @@
 ---
 title: Nyckelharpa
 pubDate: 2024-07-19
-lastUpdated: 2024-09-04
+lastUpdated: 2024-11-05
 id: 20240318120361-nyckelharpa
 ---
 
@@ -16,7 +16,7 @@ For now, just a dump of ideas, resources, things I've found or am thinking about
 - [More makers](https://www.emeliewaldken.net/nyckelharpabuilders)
 - Eric Sahlström institutet sometimes runs courses?
 - [American interpretation](https://www.youtube.com/watch?v=1gUFyMvHjrs)
-- [NerdyHarpa](https://www.nerdygurdy.nl/product/nerdyharpa-v3-kit/), [plans on thingiverse](https://www.thingiverse.com/thing:4845356), and [someone reviewing it](https://www.youtube.com/watch?v=YBzz0T3MEPk), and [someone building it](https://www.youtube.com/watch?v=WnYX3MSRk84)
+- [NerdyHarpa](https://www.nerdygurdy.nl/product-category/nyckelharpa/nyckelharpa-kit/), [plans on thingiverse](https://www.thingiverse.com/thing:4845356), and [someone reviewing it](https://www.youtube.com/watch?v=YBzz0T3MEPk), and [someone building it](https://www.youtube.com/watch?v=WnYX3MSRk84)
 - [The Nyckelharpa project](https://nyckelharpa.me.uk/)
 - [Vicki also has a youtube channel](https://www.youtube.com/@NyckelharpaUK)
 - [The plans](https://www.sorenahker.com/) (via [Rigg Music](https://www.riggmusic.co.uk/)) - [buy here](https://www.sorenahker.com/sortiment/order.htm)

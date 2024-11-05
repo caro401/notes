@@ -1,7 +1,7 @@
 ---
 title: Books someone said I should read
 pubDate: 2022-11-08
-lastUpdated: 2023-04-13
+lastUpdated: 2024-11-05
 ---
 
 In no particular order
@@ -20,20 +20,20 @@ In no particular order
 - <https://www.goodreads.com/book/show/24737268-badass>
 - <https://www.goodreads.com/series/43723-the-steerswoman>
 - <https://www.goodreads.com/series/198015-tensorate>
-- <https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management>
+- [Open Handbook of Linugistic Data Management](https://direct.mit.edu/books/oa-edited-volume/5244/The-Open-Handbook-of-Linguistic-Data-Management)
 - <https://mitpress.mit.edu/books/metadata>
 - <https://link.springer.com/book/10.1007/978-3-030-86144-5>
 - <https://www.openbookpublishers.com/10.11647/obp.0192.10.pdf>
 - <https://booksilkroadstextiles.artsci.utoronto.ca/?page_id=743>
 - <https://www.penguin.co.uk/books/311/311987/index--a-history-of-the/9780241374238.html>
-- <https://carletonu.pressbooks.pub/digh5000/chapter/chapter-6-accessibility-and-design/>
+- [Digital Humanities: a primer](https://web.archive.org/web/20220825145523/https://carletonu.pressbooks.pub/digh5000/chapter/chapter-6-accessibility-and-design/)
 - <https://link.springer.com/book/10.1007/978-3-319-20170-2>
 - <https://bookshop.org/books/write-and-organize-for-deeper-learning-28-evidence-based-and-easy-to-apply-tactics-that-will-make-your-instruction-better-for-learning/9781545162408>
 - <https://2020-eu.semantics.cc/knowledge-graph-cookbook>
 - <https://www.sciencedirect.com/book/9780123740373/sketching-user-experiences>
 - <https://computingbook.org/>
 - <<https://aosabook.org/en/index.html> [(Archived)](https://web.archive.org/web/20220825/https://aosabook.org/en/index.html)>
-- <https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html>
+- [Structure and interpretation of classical mechanics](https://tgvaughan.github.io/sicm/)
 - <<https://raytracing.github.io/books/RayTracingInOneWeekend.html> [(Archived)](https://web.archive.org/web/20220825/https://raytracing.github.io/books/RayTracingInOneWeekend.html)>
 - <<https://maadmob.com.au/speaking/books/practical-ia> [(Archived)](https://web.archive.org/web/20220825/https://maadmob.com.au/speaking/books/practical-ia)>
 - <https://livebook.manning.com/book/code-like-a-pro/about-this-book/>
@@ -56,7 +56,7 @@ In no particular order
 - <<https://mitpress.mit.edu/books/little-typer> [(Archived)](https://web.archive.org/web/20220825/https://mitpress.mit.edu/books/little-typer)>
 - [Contesting archives](https://twitter.com/juliannenyhan/status/1445385576711139330) [(Archived)](https://web.archive.org/web/20220825/https://twitter.com/juliannenyhan/status/1445385576711139330)
 - [Information and knowledge organisation in Digital Humanities](https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516) [(Archived)](https://web.archive.org/web/20220825/https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516)
-- [Digital Humanities and Creativity: Intersections](https://pub.colnes.org/index.php/anis/article/view/95) [(Archived)](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
+- [Digital Humanities and Creativity: Intersections](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
 - [Small sharp software tools](https://pragprog.com/titles/bhcldev/small-sharp-software-tools/)
 - [Using Digital Humanities in the Classroom](https://www.amazon.com/dp/1350180890)
 - [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available)

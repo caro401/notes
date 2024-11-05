@@ -2,7 +2,7 @@
 id: 20220823041723-clasped-weft
 title: Clasped Weft Weaving
 pubDate: 2022-08-25
-lastUpdated: 2023-10-23
+lastUpdated: 2024-11-05
 ---
 
 This is a weft-faced or weft-dominant technique, with a doubled [[Pick is a single weft thread in a fabric|pick]] - 2 strands in each pick so choose your yarn weights accordingly.
@@ -22,7 +22,7 @@ You can get really cool effects using 2 skeins/shuttles of gradient yarn, starti
 - You can do this with [3 colours](https://www.youtube.com/watch?v=W0Q_2mzYNW0) and even [4 colours](https://www.youtube.com/watch?v=QwTj6hn4PHI)!
 - and there's a related technique [clasped warp](https://littlelooms.com/clasped-warp-weaving/) to let you have warp strands changing colour part way along a piece
 - [A pattern for a cushion cover](https://schachtspindle.com/clasped-weft-pillow-pillow-month/) from schacht that uses this technique
-- [Clasped Weft Weaving with Conductive Thread and LEDs](https://www.weavezine.com/content/clasped-weft-weaving-conductive-thread-and-leds.html) from WeaveZine uses this technique to insert lights into cloth
+- [Clasped Weft Weaving with Conductive Thread and LEDs](https://web.archive.org/web/20220825150852/https://www.weavezine.com/content/clasped-weft-weaving-conductive-thread-and-leds.html) from WeaveZine uses this technique to insert lights into cloth
 - [Curious Weaver](https://curiousweaver.id.au/archives/107) has some nice jagged patterns
 
 ### Sources

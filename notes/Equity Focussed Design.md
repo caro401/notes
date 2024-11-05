@@ -1,8 +1,8 @@
 ---
 id: 20220630033616-equity-focussed-design
-title: "Equity-focussed design means actively involving minoritized groups in the design process"
+title: Equity-focussed design means actively involving minoritized groups in the design process
 pubDate: 2022-08-25
-lastUpdated: 2023-04-13
+lastUpdated: 2024-11-05
 ---
 
 Equity focussed design is the UX industry's goal these days, taking [[inclusive design]] one step further. Focus on designing for groups that have been historically underrepresented or ignored when building products.
@@ -17,8 +17,8 @@ Build products that specifically meet the needs of those who have been excluded 
 
 ### Further reading
 
-- Listen to [design better podcast](https://www.designbetter.co/podcast/benjamin-evans)
-- read [this article from unicef](https://evalpartners.org/sites/default/files/EWP5_Equity_focused_evaluations.pdf) pp18-24
+- Listen to [design better podcast](https://designbetterpodcast.com/podcast/archive)
+- read [this article from unicef](https://web.archive.org/web/20221111194138/http://www.evalpartners.org/sites/default/files/EWP5_Equity_focused_evaluations.pdf) pp18-24
 
 ### Sources
 

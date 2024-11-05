@@ -1,21 +1,21 @@
 ---
 title: Things I want to make
 pubDate: 2022-06-30
-lastUpdated: 2023-04-13
+lastUpdated: 2024-11-05
 ---
 
 ## Wood
 
 - [fun stool idea](https://www.youtube.com/watch?v=FzZdFCSet48)
 - [cute lil shelf](https://www.tiktok.com/@something_quaint/video/6956860850451778821?_d=secCgYIASAHKAESMgowXTERhCy0L9QrWDxqGnLoC7iGVffvKIh98%2Ft3MMTnGqjlecMISMWBTTVN%2BsoO6XASGgA%3D)
-- different [shop stool](https://woodworkingformeremortals.com/basic-shop-stool/)
+- different [shop stool](https://shopwwmm.com/products/basic-built-shop-stool)
 - [folding flute stand](http://goferjoe.bygones.biz/flutstnd.htm)
 - [wooden keycaps!](https://www.instructables.com/Wooden-Keycaps-Using-Hand-Tools/) hand carved caps, with a 3d-printed stem mounted inside
 - [wooden wrist rests](https://www.instructables.com/Redox-Keyboard-With-Wooden-Case/) covered in leather and stuffed with felt
 
 ## Misc
 
-- [felt succulent wreath](https://www.craftsy.com/post/diy-succulent-wreath/) or [instructables version](https://www.instructables.com/DIY-Felt-Succulent-Display-How-to-Make-Faux-Plant-/)
+- [felt succulent wreath](https://web.archive.org/web/20210515013256/https://www.craftsy.com/post/diy-succulent-wreath/) or [instructables version](https://www.instructables.com/DIY-Felt-Succulent-Display-How-to-Make-Faux-Plant-/)
 - [natural inks](https://www.instructables.com/Home-Made-Ink-From-Nature-Perfect-Purples/)
 - [paper stars](https://www.instructables.com/How-to-make-lucky-paper-stars/)
 
@@ -51,4 +51,4 @@ lastUpdated: 2023-04-13
 - [calash hooded scarf](https://knitty.com/ISSUEdf19/PATTcalash/PATTcalash.php)
 - [open road rib top](https://knitty.com/ISSUEw19/PATTopenroad/PATTopenroad.php)
 - [Dala horse patterned mittens](https://www.ravelry.com/patterns/library/dala-selbu-hybrid--dala-selbuvotter) great norwegian-swedish knitting mashup
-- [Blacksod hat](https://www.whiletheydream.com/blacksod-hat/) with a gorgeous massive cable panel
+- [Blacksod hat](https://whiletheydream.com/blogs/knit-hats/the-blacksod-hat/) with a gorgeous massive cable panel

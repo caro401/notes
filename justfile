@@ -33,3 +33,6 @@ lint:
 # Run all the tests
 test:
     @echo "ℹ️  You decided this repo probably doesn't need tests"
+
+links: build
+    lychee --no-progress --scheme https ./dist  
