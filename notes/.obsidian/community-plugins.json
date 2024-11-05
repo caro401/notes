@@ -1,5 +1,4 @@
 [
-  "customizable-sidebar",
   "obsidian-minimal-settings",
   "nldates-obsidian",
   "oz-image-plugin",
@@ -9,5 +8,6 @@
   "obsidian-advanced-uri",
   "recent-files-obsidian",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "update-time-on-edit"
 ]

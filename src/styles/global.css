@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-
   :root[data-theme="dark"] {
     --sl-color-gray-3: var(--sl-color-gray-1);
   }

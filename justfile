@@ -10,6 +10,7 @@ alias setup := install
 # Install all project dependencies
 install:
     pnpm i
+    pnpx playwright install
 
 # Update all project dependencies
 update-deps:

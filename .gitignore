@@ -27,6 +27,7 @@ notes/.obsidian/plugins/**/*.js
 notes/.obsidian/plugins/**/*.css
 notes/.obsidian/plugins/**/manifest.json
 notes/.obsidian/plugins/**/data.json
+notes/.obsidian/themes/**/*.css
 
 notes/embed
 

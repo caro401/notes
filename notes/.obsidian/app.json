@@ -9,7 +9,10 @@
   "showFrontmatter": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "embed",
-  "userIgnoreFilters": ["embed/"],
+  "userIgnoreFilters": [
+    "embed/"
+  ],
   "communityThemeSortOrder": "download",
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "propertiesInDocument": "source"
 }
