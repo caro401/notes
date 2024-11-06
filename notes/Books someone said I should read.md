@@ -54,7 +54,7 @@ In no particular order
 - <<https://homotopytypetheory.org/book/> [(Archived)](https://web.archive.org/web/20220825/https://homotopytypetheory.org/book/)>
 - <<https://gnosis.cx/TPiP/> [(Archived)](https://web.archive.org/web/20220825/https://gnosis.cx/TPiP/)>
 - <<https://mitpress.mit.edu/books/little-typer> [(Archived)](https://web.archive.org/web/20220825/https://mitpress.mit.edu/books/little-typer)>
-- [Contesting archives](https://twitter.com/juliannenyhan/status/1445385576711139330) [(Archived)](https://web.archive.org/web/20220825/https://twitter.com/juliannenyhan/status/1445385576711139330)
+- [Contesting archives](https://web.archive.org/web/20220825/https://twitter.com/juliannenyhan/status/1445385576711139330)
 - [Information and knowledge organisation in Digital Humanities](https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516) [(Archived)](https://web.archive.org/web/20220825/https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516)
 - [Digital Humanities and Creativity: Intersections](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
 - [Small sharp software tools](https://pragprog.com/titles/bhcldev/small-sharp-software-tools/)

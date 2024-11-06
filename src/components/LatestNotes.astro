@@ -1,0 +1,19 @@
+---
+import { getCollection } from "astro:content";
+
+const allNotes = (await getCollection("docs"))
+  .filter((x) => x.slug.startsWith("notes"))
+  .sort((a, b) => b.data.pubDate - a.data.pubDate)
+  .slice(0, 6);
+---
+
+<h2>Recently updated notes</h2>
+<ul>
+  {
+    allNotes.map((n) => (
+      <li>
+        <a href={`/{n.slug}`}>{n.data.title}</a>
+      </li>
+    ))
+  }
+</ul>
