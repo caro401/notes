@@ -47,7 +47,7 @@ export default defineConfig({
         }),
         starlightObsidian({
           vault: "./notes",
-          copyStarlightFrontmatter: true,
+          copyFrontmatter: 'all',
           tableOfContentsOverview: "title",
         }),
         starlightLinksValidator({ errorOnRelativeLinks: false }),
