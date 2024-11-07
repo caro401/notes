@@ -11,3 +11,5 @@ Feel free to use this as an example for how to publish your own obsidian vault, 
 If you're not confident how to do this technically, reach out and I can help!
 
 Do all the things using the `justfile`. It assumes you have node and pnpm installed.
+
+Code is licensed under [MIT](./LICENSE), content is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
