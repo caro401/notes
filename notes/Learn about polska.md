@@ -1,7 +1,7 @@
 ---
 title: Learn about polska
 pubDate: 2024-09-04
-lastUpdated: 2024-11-05
+lastUpdated: 2024-11-08
 id: 20240904170950-learn-about-polska
 ---
 
@@ -12,6 +12,15 @@ id: 20240904170950-learn-about-polska
 a whole book! <https://musikverket.se/wp-content/uploads/2017/02/Polska_FINAL2.pdf>
 
 [Bodapolska, slängpolska och finnskogspols: En komparativ analys av tre tretakter i svensk folkmusik](https://web.archive.org/web/20220709192314/http://www.diva-portal.org/smash/get/diva2:1677292/FULLTEXT01.pdf)
+
 <https://sv.wikipedia.org/wiki/Polska_(musik_och_dans)>
 
 <https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA21363115350003606>
+
+Different kinds of polska:
+
+- short first beat (kort etta)
+	- [[Boda polska]]
+	- [[Värmland polska]]
+	- [[Røros pols]]
+	- [[Springlek is a fast polska from Västerdalarna with a short first beat|springlek]]
