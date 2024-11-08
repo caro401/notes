@@ -1,8 +1,8 @@
 {
-  "accentColor": "#d9f99d",
+  "accentColor": "#8aaf3c",
   "textFontFamily": "Newsreader",
   "monospaceFontFamily": "Operator Mono",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Minimal",
   "translucency": false,
   "showViewHeader": false,
