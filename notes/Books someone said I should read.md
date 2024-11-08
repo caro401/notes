@@ -1,11 +1,12 @@
 ---
 title: Books someone said I should read
 pubDate: 2022-11-08
-lastUpdated: 2024-11-05
+lastUpdated: 2024-11-08
 ---
 
 In no particular order
 
+- [Flexible Typesetting](https://flexibletypesetting.com) by Tim Brown, now available for free since A Book Apart went away
 - <https://www.amazon.co.uk/Cognitive-Behavioral-Therapy-Overcoming-Depression-ebook/dp/B08LSDDVCM>
 - <https://www.amazon.co.uk/Cloth-Experience-Smithsonian-ethnographic-inquiry/dp/0874749956>
 - <https://www.amazon.co.uk/Textiles-Whole-Story-Meanings-Significance/dp/0500291136>
@@ -32,10 +33,10 @@ In no particular order
 - <https://2020-eu.semantics.cc/knowledge-graph-cookbook>
 - <https://www.sciencedirect.com/book/9780123740373/sketching-user-experiences>
 - <https://computingbook.org/>
-- <<https://aosabook.org/en/index.html> [(Archived)](https://web.archive.org/web/20220825/https://aosabook.org/en/index.html)>
+- <https://aosabook.org/en/index.html> [(Archived)](https://web.archive.org/web/20220825/https://aosabook.org/en/index.html)>
 - [Structure and interpretation of classical mechanics](https://tgvaughan.github.io/sicm/)
-- <<https://raytracing.github.io/books/RayTracingInOneWeekend.html> [(Archived)](https://web.archive.org/web/20220825/https://raytracing.github.io/books/RayTracingInOneWeekend.html)>
-- <<https://maadmob.com.au/speaking/books/practical-ia> [(Archived)](https://web.archive.org/web/20220825/https://maadmob.com.au/speaking/books/practical-ia)>
+- <https://raytracing.github.io/books/RayTracingInOneWeekend.html> [(Archived)](https://web.archive.org/web/20220825/https://raytracing.github.io/books/RayTracingInOneWeekend.html)>
+- <https://maadmob.com.au/speaking/books/practical-ia> [(Archived)](https://web.archive.org/web/20220825/https://maadmob.com.au/speaking/books/practical-ia)>
 - <https://livebook.manning.com/book/code-like-a-pro/about-this-book/>
 - <https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/>
 - <https://www.wisdom.weizmann.ac.il/~harel/STM.Book/chapter1.pdf/>
@@ -51,9 +52,9 @@ In no particular order
 - <https://books.google.co.uk/books/about/Key_Ideas_in_Linguistics_and_the_Philoso.html?id=SyKlBgAAQBAJ&redir_esc=y>
 - <https://github.com/jakevdp/PythonDataScienceHandbook>
 - <https://github.com/getify/Functional-Light-JS#book>
-- <<https://homotopytypetheory.org/book/> [(Archived)](https://web.archive.org/web/20220825/https://homotopytypetheory.org/book/)>
-- <<https://gnosis.cx/TPiP/> [(Archived)](https://web.archive.org/web/20220825/https://gnosis.cx/TPiP/)>
-- <<https://mitpress.mit.edu/books/little-typer> [(Archived)](https://web.archive.org/web/20220825/https://mitpress.mit.edu/books/little-typer)>
+- <https://homotopytypetheory.org/book/> [(Archived)](https://web.archive.org/web/20220825/https://homotopytypetheory.org/book/)>
+- <https://gnosis.cx/TPiP/> [(Archived)](https://web.archive.org/web/20220825/https://gnosis.cx/TPiP/)>
+- <https://mitpress.mit.edu/books/little-typer> [(Archived)](https://web.archive.org/web/20220825/https://mitpress.mit.edu/books/little-typer)>
 - [Contesting archives](https://web.archive.org/web/20220825/https://twitter.com/juliannenyhan/status/1445385576711139330)
 - [Information and knowledge organisation in Digital Humanities](https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516) [(Archived)](https://web.archive.org/web/20220825/https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516)
 - [Digital Humanities and Creativity: Intersections](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
