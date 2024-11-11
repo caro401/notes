@@ -1,9 +1,11 @@
 ---
-title: Springlek is a fast polska from Västerdalarna with a short first beat
+title: Springlek
 pubDate: 2024-11-08
 lastUpdated: 2024-11-11
 id: 20241108151174-springlek-is-a-fast-polska
 ---
+
+Springlek is a fast polska from Västerdalarna with a short first beat
 
 [[Learn about polska|As I'm learning about polska]], there's loads of different kinds!
 
@@ -13,7 +15,7 @@ Here's a [cool tune](https://spillefolk.dk/nodesamling/visnode.php?key=po-lissmy
 
 People who play in this tradition: Mattias Helje, Lars Halvarsson, Kalle Almlöf.
 
-There's other kinds of kort etta polskor too - [[Värmland polska]], [[Boda polska]] (also Dalarna) and [[Røros pols]] (Norway).
+There's other kinds of kort etta polskor too - [[Vrmland polska|Värmland polska]], [[Boda polska]] (also Dalarna) and [[Røros pols]] (Norway).
 
 Don't learn tunes like this from written dots! You really need to learn them by ear, and just use dots as a memory aid that the tune exists.
 

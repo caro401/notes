@@ -21,6 +21,6 @@ Different kinds of polska:
 
 - short first beat (kort etta)
   - [[Boda polska]]
-  - [[Värmland polska]]
+  - [[Vrmland polska|Värmland polska]]
   - [[Røros pols]]
-  - [[Springlek is a fast polska from Västerdalarna with a short first beat|springlek]]
+  - [[Springlek]]
