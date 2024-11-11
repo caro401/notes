@@ -1,7 +1,7 @@
 ---
 title: Springlek is a fast polska from Västerdalarna with a short first beat
 pubDate: 2024-11-08
-lastUpdated: 2024-11-08
+lastUpdated: 2024-11-11
 id: 20241108151174-springlek-is-a-fast-polska
 ---
 
@@ -19,5 +19,5 @@ Don't learn tunes like this from written dots! You really need to learn them by 
 
 ## Sources
 
-- [Swedish Wikipedia about polska](https://sv.wikipedia.org/wiki/Polska_(musik_och_dans)#Oj%C3%A4mna_polskor_(vanligen_%C3%A5ttondelspolskor_eller_triolpolskor))
+- [Swedish Wikipedia about polska](<https://sv.wikipedia.org/wiki/Polska_(musik_och_dans)#Oj%C3%A4mna_polskor_(vanligen_%C3%A5ttondelspolskor_eller_triolpolskor)>)
 - [Talking about kort etta polskor](https://www.youtube.com/watch?v=--merswt1Bk&list=WL)

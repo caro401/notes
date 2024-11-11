@@ -1,7 +1,7 @@
 ---
 title: Learn about polska
 pubDate: 2024-09-04
-lastUpdated: 2024-11-08
+lastUpdated: 2024-11-11
 id: 20240904170950-learn-about-polska
 ---
 
@@ -20,7 +20,7 @@ a whole book! <https://musikverket.se/wp-content/uploads/2017/02/Polska_FINAL2.p
 Different kinds of polska:
 
 - short first beat (kort etta)
-	- [[Boda polska]]
-	- [[Värmland polska]]
-	- [[Røros pols]]
-	- [[Springlek is a fast polska from Västerdalarna with a short first beat|springlek]]
+  - [[Boda polska]]
+  - [[Värmland polska]]
+  - [[Røros pols]]
+  - [[Springlek is a fast polska from Västerdalarna with a short first beat|springlek]]
