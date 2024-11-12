@@ -52,3 +52,4 @@ lastUpdated: 2024-11-05
 - [open road rib top](https://knitty.com/ISSUEw19/PATTopenroad/PATTopenroad.php)
 - [Dala horse patterned mittens](https://www.ravelry.com/patterns/library/dala-selbu-hybrid--dala-selbuvotter) great norwegian-swedish knitting mashup
 - [Blacksod hat](https://whiletheydream.com/blogs/knit-hats/the-blacksod-hat/) with a gorgeous massive cable panel
+- [Norway pine hat](https://www.ravelry.com/patterns/library/norway-pine-hat) also with cables (via someone made it on Mastodon)
