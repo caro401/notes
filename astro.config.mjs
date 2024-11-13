@@ -39,6 +39,19 @@ export default defineConfig({
             defer: true,
           },
         },
+        {
+          tag: "script",
+          attrs: {
+            src: "https://cdn.jsdelivr.net/npm/abcjs/dist/abcjs-basic-min.js",
+          },
+        },
+        {
+          tag: "script",
+          attrs: {
+            type: "module",
+            src: "https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.5.0/lite-youtube.js",
+          },
+        },
       ],
       plugins: [
         starlightSiteGraph({

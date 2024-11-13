@@ -1,13 +1,17 @@
 ---
 title: Värmland polska
 pubDate: 2024-11-08
-lastUpdated: 2024-11-11
+lastUpdated: 2024-11-13
 id: 20241108151196-värmland-polska
 ---
 
 Fiddlers in the Värmland tradition : Nina Pérez, Mia Marin, Mats Berglund
 
 Also called Jössehäradspolska, for a particularly energetic form? [[Springlek]] is even more energetic and emphasised
+
+Here's a tune I like from that style, but I can't find a transcription anywhere [Jössehärspolska efter Magnus Olsson, Arvika](https://youtube.com/watch?v=g1Msqjz0LYs)
+
+<lite-youtube videoid="g1Msqjz0LYs"></lite-youtube>
 
 ## Sources
 

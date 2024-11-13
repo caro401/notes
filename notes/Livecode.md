@@ -18,7 +18,7 @@ Link vomit for now while I attempt to form coherent thoughts
 - Yaxu - [cp0x0d] Broken - Side B [chordpunch] 2014
 - Canute - Live repetition
 
- [Here's another video](https://www.youtube.com/watch?v=uA4SDytz8Aw)
+[Here's another video](https://www.youtube.com/watch?v=uA4SDytz8Aw)
 
 - With: Lucy Cheesman ([website](https://heavy-lifting.org/))
 - Alex McLean ([website](https://yaxu.org/))
@@ -26,7 +26,9 @@ Link vomit for now while I attempt to form coherent thoughts
 - Kate Sicchio ([website](https://www.sicchio.com/)]
 - Graham Dunning ([website](https://grahamdunning.com/about/) & [video of a live performance](https://www.youtube.com/watch?v=QSKb-w8dnlw))
 - Joanne Armitage ([website](https://joannnne.github.io/))
+
 With music by:
+
 - T.Y.P.E. [video](https://www.youtube.com/watch?v=496NVIHprOg)
 - Royal Laptop Squad
 - [Codie](https://codie.live/)
