@@ -1,0 +1,16 @@
+.abcjs-container {
+	background: white;
+	border-radius: 8px
+}
+
+.abcjs-container svg {
+	color: black;
+}
+
+.abcjs-container svg path {
+	fill: black;
+}
+
+.abcjs-container svg text {
+	fill: black;
+}
