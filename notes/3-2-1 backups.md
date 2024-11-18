@@ -7,11 +7,11 @@ id: 20241113161156-3-2-1-backups
 
 Traditionally, this looks like 3 copies of your data, on 2 types of storage media, 1 offsite (physically or cloud). But nowadays there's various different interpretations of what bits are important, or whether you should have more copies.
 
- Different media types is important to help eliminate data loss due to media failure - different media types fail under different conditions. These days this might just be different brands or ages of hard drive, rather than you actually having a tape drive in your house.
+Different media types is important to help eliminate data loss due to media failure - different media types fail under different conditions. These days this might just be different brands or ages of hard drive, rather than you actually having a tape drive in your house.
 
- The offsite bit is important for eg house fire/theft/natural disaster. It's unlikely that both your house and your offsite backup place would get destroyed at the same time.
+The offsite bit is important for eg house fire/theft/natural disaster. It's unlikely that both your house and your offsite backup place would get destroyed at the same time.
 
- Having 2 copies onsite helps with fast recovery often, and is more convenient. But don't leave them right next to each other most of the time, because this can help reduce risk from theft/accident/your tapes melting because you left them on top of the server.
+Having 2 copies onsite helps with fast recovery often, and is more convenient. But don't leave them right next to each other most of the time, because this can help reduce risk from theft/accident/your tapes melting because you left them on top of the server.
 
 Some people suggest 322 (3 copies of your data, 2 media types, 2 cloud locations) now that cloud is much more prevalent.
 

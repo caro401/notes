@@ -14,4 +14,5 @@ The interest in your track then needs to come from melody, riffs, drums and the 
 ## Sources
 
 - [This video about the fastest way to arrange a track](https://www.youtube.com/watch?v=3gnSs21XXwI)
+
 <lite-youtube videoid="3gnSs21XXwI"></lite-youtube>

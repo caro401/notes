@@ -22,7 +22,7 @@ Here's a [cool tune](https://spillefolk.dk/nodesamling/visnode.php?key=po-lissmy
 ```abc
 X: 1
 T: Polska efter Lissmyr Erik Persson
-O: väastra Dalarna
+O: västra Dalarna
 R: polska, springlek
 S: https://spillefolk.dk/nodesamling/visnode.php?key=po-lissmyrerik3
 M: 3/4

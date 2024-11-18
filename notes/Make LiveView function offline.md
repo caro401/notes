@@ -7,7 +7,7 @@ id: 20241111121144-making-liveview-function-offline
 
 LiveView works over a websocket, so inherently can't be offline. Combine it with [LiveSvelte](https://github.com/woutdp/live_svelte) for client-side state holding, localstorage or indexedDB to hold that state across reloads, a service worker to sync with the server, and [Yjs](https://github.com/yjs/yjs) for conflict resolution (or in principle any other CRDT solution).
 
-Not sure how best to run yjs in the elixir context - seems from the youtube comments they haven't really solved this yet either.
+Not sure how best to run yjs in the elixir context - seems from the youtube comments they haven't really solved this yet either. - In [a follow-up](https://www.youtube.com/watch?v=SWC182dPh2I), they don't run yjs server-side at all, all the state merging happens on the client when clients connect
 
 Not sure how much I should worry about the transition to svelte 5
 

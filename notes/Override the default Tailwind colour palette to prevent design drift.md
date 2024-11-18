@@ -10,26 +10,26 @@ Tailwind provides a whole bunch of colours by default, including like 6 differen
 You can [disable default colours in Tailwind](https://tailwindcss.com/docs/customizing-colors#disabling-a-default-color), usually by explicitly picking which ones of the default colours you include. This looks like:
 
 ```js title="tailwind.config.js"
-const colors = require('tailwindcss/colors')
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   theme: {
     colors: {
       // always keep these!
-      transparent: 'transparent', 
-      current: 'currentColor',
+      transparent: "transparent",
+      current: "currentColor",
       // you probably want these
       black: colors.black,
       white: colors.white,
       // now define the colours you want in your application
-      grey: colors.stone,  // pick your grey scale
+      grey: colors.stone, // pick your grey scale
       green: colors.emerald, // probably for success states etc
-      red: colors.rose,  // probably for error states
-      brand: colors.sky,  // the accent colour you're using
+      red: colors.rose, // probably for error states
+      brand: colors.sky, // the accent colour you're using
     },
   },
   // ...
-}
+};
 ```
 
 The Tailwind folks [don't recommend you renaming their things](https://tailwindcss.com/docs/customizing-colors#naming-your-colors), but I find it fits into my workflow a bit easier, especially when I'm working across a bunch of projects with similar structure. It doesn't matter what my grey or brand colour actually is, I just need to remember the class is called `text-grey-800` or whatever, in all my contexts where I've set up my Tailwind config file like this.
