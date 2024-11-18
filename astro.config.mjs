@@ -8,7 +8,7 @@ import starlightLinksValidator from "starlight-links-validator";
 // https://astro.build/config
 export default defineConfig({
   site: "https://notes.caro.fyi/",
-
+  trailingSlash: "never",
   integrations: [
     tailwind(),
     starlight({
