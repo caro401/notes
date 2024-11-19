@@ -18,19 +18,21 @@
     "@astrojs/tailwind": "^5.1.2",
     "@fontsource-variable/newsreader": "^5.1.0",
     "@fontsource/fira-mono": "^5.1.0",
-    "astro": "^4.16.10",
-    "starlight-links-validator": "^0.13.0",
+    "astro": "^4.16.13",
+    "starlight-links-validator": "^0.13.2",
     "starlight-obsidian": "^0.5.0",
-    "tailwindcss": "^3.4.14"
+    "tailwindcss": "^3.4.15"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "astro-integration-kit": "^0.17.0",
     "gray-matter": "^4.0.3",
     "micromatch": "^4.0.8",
+    "playwright-core": "1.40",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.12.3",
-    "prettier-plugin-tailwindcss": "^0.6.8",
+    "prettier-plugin-tailwindcss": "^0.6.9",
+    "rehype-mermaid": "^3.0.0",
     "sharp": "^0.32.6"
   }
 }
