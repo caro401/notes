@@ -28,7 +28,7 @@
     "astro-integration-kit": "^0.17.0",
     "gray-matter": "^4.0.3",
     "micromatch": "^4.0.8",
-    "playwright-core": "1.40",
+    "playwright": "1.48",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.12.3",
     "prettier-plugin-tailwindcss": "^0.6.9",
