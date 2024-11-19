@@ -1,7 +1,7 @@
 ---
 title: Books someone said I should read
 pubDate: 2022-11-08
-lastUpdated: 2024-11-08
+lastUpdated: 2024-11-19
 ---
 
 In no particular order
@@ -63,3 +63,6 @@ In no particular order
 - [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available)
 - [The Missing README](https://www.amazon.com/exec/obidos/ASIN/1718501838) recommended on the Teaching Python podcast
 - [Field Guide to Fleece](https://www.amazon.co.uk/Field-Guide-Fleece-Deborah-Robson/dp/1612121780/)
+- [The Elements of User Experience](http://www.jjg.net/elements/) via the informed life podcast, also [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one-second-edition/)
+- [Approachable Open Source](https://approachableopensource.com) via Brad Frost's blog (and somewhere else a while ago that I forgot)
+- [Disability Visibility](https://disabilityvisibilityproject.com/book/dv/) via Rachele DiTullio's blog

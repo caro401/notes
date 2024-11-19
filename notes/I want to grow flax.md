@@ -1,7 +1,7 @@
 ---
 title: I want to grow flax for linen
 pubDate: 2024-07-24
-lastUpdated: 2024-10-22
+lastUpdated: 2024-11-19
 id: 20240724110796-grow-flax
 ---
 
@@ -20,8 +20,8 @@ Here's a bunch of resources I've gathered about the process:
 - [spinning flax](https://www.youtube.com/watch?v=wqr-GRveyRg), and [how to dress a distaff](https://www.youtube.com/watch?v=1EpceAEdQZQ) - flax fibre is a pain and tends to chaos - re-combing it might help, as does working with damp hands. Spinning from the fold (directly or from rolled up ends on a distaff) probably works well.
 - [This guy grew a tiny plot](https://www.youtube.com/watch?v=pRH2lnw-cZA) and parts [2](https://www.youtube.com/watch?v=H4dwyEv-B2Q), [3 (scutching knife)](https://www.youtube.com/watch?v=o0pKovl4Omc) and [4 (hackle)](https://www.youtube.com/watch?v=3K6t7oZbSJg)
 - [this person retted some](https://waltin.se/josefinwaltinspinner/flax-retting-success/) and shows some nice photos
-
-questions:
+- This person is kinda near me and has [a bunch](https://www.youtube.com/watch?v=v64lW5JE9tM) [of short](https://www.youtube.com/watch?v=kLLLVhfH9Uk) [videos](https://www.youtube.com/watch?v=rsXFjzBa8UE) showing the different stages of retting (also kitty!).
+  questions:
 
 - where can get flax seed in the UK? [this video](https://www.youtube.com/watch?v=3JKhhtoe9v4) suggests <www.flaxland.co.uk> and <www.wildfibres.co.uk>, and to make sure its a special type for long fibre, not for food seeds.
 - is there a history of flax where I'm from (cambridgeshire currently, yorkshire previously)?

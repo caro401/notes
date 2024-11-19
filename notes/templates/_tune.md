@@ -6,7 +6,7 @@
 
 <script>
 ABCJS.renderAbc(
-	"paper", 
+	"tune", 
 `X:1
 T:`, 
 	{responsive: 'resize'}
