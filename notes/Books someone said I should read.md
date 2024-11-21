@@ -1,7 +1,7 @@
 ---
 title: Books someone said I should read
 pubDate: 2022-11-08
-lastUpdated: 2024-11-19
+lastUpdated: 2024-11-21
 ---
 
 In no particular order
@@ -66,3 +66,4 @@ In no particular order
 - [The Elements of User Experience](http://www.jjg.net/elements/) via the informed life podcast, also [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one-second-edition/)
 - [Approachable Open Source](https://approachableopensource.com) via Brad Frost's blog (and somewhere else a while ago that I forgot)
 - [Disability Visibility](https://disabilityvisibilityproject.com/book/dv/) via Rachele DiTullio's blog
+- [Handspinning: Art and Technique by Allen Fannin](https://www.amazon.com/Handspinning-Allen-Fannin/dp/B003VZYS1S?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=9f3de76ebc77895b3b00c6578011f2d2&camp=1789&creative=9325), [The Intentional Spinner: A Holistic Approach to Making Yarn by Judith MacKenzie](https://www.amazon.com/Intentional-Spinner-Judith-Mackenzie-ebook/dp/B01AOH7AIS/?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=46a74118021c62b4257a104a8c01d541&camp=1789&creative=9325) , [Respect the Spindle: Spin Infinite Yarns with One Amazing Tool by Abby Franquemont](https://www.amazon.com/Respect-Spindle-Infinite-Yarns-Amazing-ebook/dp/B00DH40QZ0?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=316954d7d2bdce22435ee361a9e7636d&camp=1789&creative=9325) (I have a paper copy of this one), [The Aldon Amos Big Book of Handspinning](https://www.amazon.com/Alden-Amos-Big-Book-Handspinning/dp/1883010888/?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=f4cc35443aefd7f4968f1f7b483944d3&camp=1789&creative=9325) and [The Spinner’s Book of Yarn Designs by Sarah Anderson](https://www.amazon.com/Spinners-Book-Yarn-Designs-Techniques/dp/1603427384/?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=93e808f9bcc4cacc52e57fd10be78927&camp=1789&creative=9325), all via [Jillian Eve's blog post](https://jillianeve.com/5-best-spinning-books/)

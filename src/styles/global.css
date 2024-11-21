@@ -42,7 +42,7 @@
 }
 
 div .abcjs-container {
-  @apply bg-stone-50 text-stone-900 rounded-sm shadow-md;
+  @apply rounded-sm bg-stone-50 text-stone-900 shadow-md;
 }
 
 @layer components {
