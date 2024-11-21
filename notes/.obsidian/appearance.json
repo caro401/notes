@@ -1,0 +1,13 @@
+{
+  "accentColor": "#8aaf3c",
+  "textFontFamily": "Newsreader",
+  "monospaceFontFamily": "Operator Mono",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "showViewHeader": false,
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "abc"
+  ]
+}

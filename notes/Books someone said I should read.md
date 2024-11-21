@@ -1,0 +1,69 @@
+---
+title: Books someone said I should read
+pubDate: 2022-11-08
+lastUpdated: 2024-11-21
+---
+
+In no particular order
+
+- [Flexible Typesetting](https://flexibletypesetting.com) by Tim Brown, now available for free since A Book Apart went away
+- <https://www.amazon.co.uk/Cognitive-Behavioral-Therapy-Overcoming-Depression-ebook/dp/B08LSDDVCM>
+- <https://www.amazon.co.uk/Cloth-Experience-Smithsonian-ethnographic-inquiry/dp/0874749956>
+- <https://www.amazon.co.uk/Textiles-Whole-Story-Meanings-Significance/dp/0500291136>
+- <https://www.amazon.com/War-Art-Steven-Pressfield-ebook/dp/B007A4SDCG/>
+- <https://www.amazon.co.uk/dp/B095VY4XGD>
+- <https://www.amazon.co.uk/PixlPeople-Cross-Stitch-Your-Favorite-People/dp/0764361910>
+- <https://www.amazon.co.uk/dp/1919621601/>
+- <https://www.amazon.co.uk/dp/B09Q6SYBJR>
+- <https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161/>
+- <http://www.howtomakesenseofanymess.com/>
+- <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>
+- <https://www.goodreads.com/book/show/24737268-badass>
+- <https://www.goodreads.com/series/43723-the-steerswoman>
+- <https://www.goodreads.com/series/198015-tensorate>
+- [Open Handbook of Linugistic Data Management](http://web.archive.org/web/20240610041443/https://direct.mit.edu/books/oa-edited-volume/5244/The-Open-Handbook-of-Linguistic-Data-Management)
+- <https://mitpress.mit.edu/books/metadata>
+- <https://link.springer.com/book/10.1007/978-3-030-86144-5>
+- <https://www.openbookpublishers.com/10.11647/obp.0192.10.pdf>
+- <https://booksilkroadstextiles.artsci.utoronto.ca/?page_id=743>
+- <https://www.penguin.co.uk/books/311/311987/index--a-history-of-the/9780241374238.html>
+- [Digital Humanities: a primer](https://web.archive.org/web/20220825145523/https://carletonu.pressbooks.pub/digh5000/chapter/chapter-6-accessibility-and-design/)
+- <https://link.springer.com/book/10.1007/978-3-319-20170-2>
+- <https://bookshop.org/books/write-and-organize-for-deeper-learning-28-evidence-based-and-easy-to-apply-tactics-that-will-make-your-instruction-better-for-learning/9781545162408>
+- <https://2020-eu.semantics.cc/knowledge-graph-cookbook>
+- <https://www.sciencedirect.com/book/9780123740373/sketching-user-experiences>
+- <https://computingbook.org/>
+- <https://aosabook.org/en/index.html> [(Archived)](https://web.archive.org/web/20220825/https://aosabook.org/en/index.html)>
+- [Structure and interpretation of classical mechanics](https://tgvaughan.github.io/sicm/)
+- <https://raytracing.github.io/books/RayTracingInOneWeekend.html> [(Archived)](https://web.archive.org/web/20220825/https://raytracing.github.io/books/RayTracingInOneWeekend.html)>
+- <https://maadmob.com.au/speaking/books/practical-ia> [(Archived)](https://web.archive.org/web/20220825/https://maadmob.com.au/speaking/books/practical-ia)>
+- <https://livebook.manning.com/book/code-like-a-pro/about-this-book/>
+- <https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/>
+- <https://www.wisdom.weizmann.ac.il/~harel/STM.Book/chapter1.pdf/>
+- <https://www.notion.so/1e6aa053a4124c2b9718924d76dc0832?v=77481f43e6e849fd85dca55ac8208704>
+- <https://futuretextpublishing.com/future-of-text-2020-download/>
+- <https://nlp.stanford.edu/IR-book/>
+- <https://booknlp.pythonhumanities.com/intro.html>
+- <https://www.taylorfrancis.com/books/edit/10.4324/9781315612195/text-editing-print-digital-world-kathryn-sutherland-marilyn-deegan>
+- <https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003131816/information-knowledge-organisation-digital-humanities-koraljka-golub-ying-hsang-liu>
+- <https://www.dataorienteddesign.com/dodbook/>
+- <https://www.winghamwoolwork.co.uk/the-spinners-book-of-fleece.html>
+- <https://www.intellectbooks.com/design-and-the-digital-humanities>
+- <https://books.google.co.uk/books/about/Key_Ideas_in_Linguistics_and_the_Philoso.html?id=SyKlBgAAQBAJ&redir_esc=y>
+- <https://github.com/jakevdp/PythonDataScienceHandbook>
+- <https://github.com/getify/Functional-Light-JS#book>
+- <https://homotopytypetheory.org/book/> [(Archived)](https://web.archive.org/web/20220825/https://homotopytypetheory.org/book/)>
+- <https://gnosis.cx/TPiP/> [(Archived)](https://web.archive.org/web/20220825/https://gnosis.cx/TPiP/)>
+- <https://mitpress.mit.edu/books/little-typer> [(Archived)](https://web.archive.org/web/20220825/https://mitpress.mit.edu/books/little-typer)>
+- [Contesting archives](https://web.archive.org/web/20220825/https://twitter.com/juliannenyhan/status/1445385576711139330)
+- [Information and knowledge organisation in Digital Humanities](https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516) [(Archived)](https://web.archive.org/web/20220825/https://www.routledge.com/Information-and-Knowledge-Organisation-in-Digital-Humanities-Global-Perspectives/Golub-Liu/p/book/9780367675516)
+- [Digital Humanities and Creativity: Intersections](https://web.archive.org/web/20220825/https://pub.colnes.org/index.php/anis/article/view/95)
+- [Small sharp software tools](https://pragprog.com/titles/bhcldev/small-sharp-software-tools/)
+- [Using Digital Humanities in the Classroom](https://www.amazon.com/dp/1350180890)
+- [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available)
+- [The Missing README](https://www.amazon.com/exec/obidos/ASIN/1718501838) recommended on the Teaching Python podcast
+- [Field Guide to Fleece](https://www.amazon.co.uk/Field-Guide-Fleece-Deborah-Robson/dp/1612121780/)
+- [The Elements of User Experience](http://www.jjg.net/elements/) via the informed life podcast, also [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one-second-edition/)
+- [Approachable Open Source](https://approachableopensource.com) via Brad Frost's blog (and somewhere else a while ago that I forgot)
+- [Disability Visibility](https://disabilityvisibilityproject.com/book/dv/) via Rachele DiTullio's blog
+- [Handspinning: Art and Technique by Allen Fannin](https://www.amazon.com/Handspinning-Allen-Fannin/dp/B003VZYS1S?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=9f3de76ebc77895b3b00c6578011f2d2&camp=1789&creative=9325), [The Intentional Spinner: A Holistic Approach to Making Yarn by Judith MacKenzie](https://www.amazon.com/Intentional-Spinner-Judith-Mackenzie-ebook/dp/B01AOH7AIS/?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=46a74118021c62b4257a104a8c01d541&camp=1789&creative=9325) , [Respect the Spindle: Spin Infinite Yarns with One Amazing Tool by Abby Franquemont](https://www.amazon.com/Respect-Spindle-Infinite-Yarns-Amazing-ebook/dp/B00DH40QZ0?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=316954d7d2bdce22435ee361a9e7636d&camp=1789&creative=9325) (I have a paper copy of this one), [The Aldon Amos Big Book of Handspinning](https://www.amazon.com/Alden-Amos-Big-Book-Handspinning/dp/1883010888/?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=f4cc35443aefd7f4968f1f7b483944d3&camp=1789&creative=9325) and [The Spinner’s Book of Yarn Designs by Sarah Anderson](https://www.amazon.com/Spinners-Book-Yarn-Designs-Techniques/dp/1603427384/?&_encoding=UTF8&tag=jillianevefa-20&linkCode=ur2&linkId=93e808f9bcc4cacc52e57fd10be78927&camp=1789&creative=9325), all via [Jillian Eve's blog post](https://jillianeve.com/5-best-spinning-books/)

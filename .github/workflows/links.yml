@@ -1,0 +1,23 @@
+name: Links
+
+on:
+  push:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "18 03 * * 0" # weekly on sunday morning
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: pnpm/action-setup@v3
+        with:
+          version: 8
+      - run: pnpm install && pnpx playwright install --with-deps chromium && pnpm build
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          fail: true
+          args: --no-progress ./src/content/

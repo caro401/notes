@@ -10,6 +10,7 @@ alias setup := install
 # Install all project dependencies
 install:
     pnpm i
+    pnpx playwright install --with-deps chromium
 
 # Update all project dependencies
 update-deps:
@@ -32,3 +33,6 @@ lint:
 # Run all the tests
 test:
     @echo "ℹ️  You decided this repo probably doesn't need tests"
+
+links: build
+    lychee --suggest ./src/content  

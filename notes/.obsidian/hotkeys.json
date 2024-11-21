@@ -1,0 +1,34 @@
+{
+  "templater-obsidian:replace-in-file-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "r"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:create-templates/_tune.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:create-templates/_video.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "V"
+    }
+  ]
+}

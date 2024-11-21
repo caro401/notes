@@ -3,21 +3,46 @@
 @tailwind utilities;
 
 @layer base {
+  .sl-container {
+    --sl-content-margin-inline: auto;
+  }
+  :root[data-theme="dark"] {
+    --sl-color-gray-3: var(--sl-color-gray-1);
+  }
+
+  :root[data-theme="light"] {
+    --sl-color-gray-3: var(--sl-color-gray-1);
+  }
   main {
-    @apply prose mx-auto max-w-screen-md p-6 dark:prose-invert;
+    @apply prose prose-neutral mx-auto w-full max-w-none font-normal dark:prose-invert md:prose-lg;
   }
 
   html {
-    @apply prose prose-neutral mx-auto max-w-none font-normal md:prose-lg lg:prose-xl;
-    @apply bg-neutral-100;
     @apply dark:prose-invert dark:bg-neutral-800 dark:font-medium;
     @apply hover:prose-a:text-lime-700 dark:hover:prose-a:text-lime-300;
     @apply prose-blockquote:prose-base prose-blockquote:font-normal;
     @apply prose-code:font-normal prose-code:text-lime-700 dark:prose-code:text-lime-300;
   }
-  body {
-    @apply mx-auto box-content max-w-6xl overflow-x-hidden px-4 py-6;
+
+  h1 {
+    margin-bottom: 0 !important;
   }
+
+  .backlinks-panel {
+    padding: 1rem var(--sl-sidebar-pad-x);
+
+    h2 {
+      color: var(--slsg-text-color);
+      font-size: var(--slsg-text-lg);
+      font-weight: 600;
+      line-height: var(--sl-line-height-headings);
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+div .abcjs-container {
+  @apply rounded-sm bg-stone-50 text-stone-900 shadow-md;
 }
 
 @layer components {
@@ -34,16 +59,11 @@
   cite:before {
     content: "― ";
   }
-  /* a {
-    @apply cursor-pointer font-semibold  text-lime-700 no-underline;
-    @apply hover:bg-yellow-100 hover:text-neutral-800 focus:bg-yellow-100 focus:text-neutral-800;
-    @apply dark:text-lime-300 dark:hover:bg-yellow-400 dark:hover:text-neutral-600 dark:focus:bg-yellow-400 dark:focus:text-neutral-600;
-  } */
+
   a.new {
     @apply underline decoration-dashed;
   }
-
-  article a:not(.internal) {
+  a.external {
     @apply underline decoration-double;
   }
   article > *:first-child {

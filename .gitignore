@@ -20,17 +20,22 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-src/content/notes/.obsidian/workspace.json
-src/content/notes/.obsidian/graph.json
-src/content/notes/.obsidian/workspace.json
-src/content/notes/.obsidian/plugins/**/*.js
-src/content/notes/.obsidian/plugins/**/*.css
-src/content/notes/.obsidian/plugins/**/manifest.json
-src/content/notes/.obsidian/plugins/**/data.json
+notes/.obsidian/workspace.json
+notes/.obsidian/graph.json
+notes/.obsidian/workspace-mobile.json
+notes/.obsidian/plugins/**/*.js
+notes/.obsidian/plugins/**/*.css
+notes/.obsidian/plugins/**/manifest.json
+notes/.obsidian/plugins/**/data.json
+notes/.obsidian/themes/**/*.css
 
-src/content/notes/embed
+notes/embed
 
+src/assets/notes
+src/content/docs/notes
+public/notes
 .frontmatter
 frontmatter.json
 **/.DS_Store
 **/.stfolder
+**/*.tmp
