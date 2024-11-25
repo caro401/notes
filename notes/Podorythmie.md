@@ -13,12 +13,12 @@ I found a bunch of videos of people teaching or just doing french canadian foot 
 - [slightly more interesting reel step](https://www.youtube.com/watch?v=AhyCeeUksJA)
 - [and another](https://www.youtube.com/watch?v=Qo97CNDI6ro)
 - [a bit about the history too](https://www.youtube.com/watch?v=CDXSgRR8aCw)
-    - what shoes you choose can influence the texture of the sound - smoother, more bass etc
-    - there's not really one way to do things, rather a lot of creativity.
+  - what shoes you choose can influence the texture of the sound - smoother, more bass etc
+  - there's not really one way to do things, rather a lot of creativity.
 - [including a bit about how to make it not hurt](https://www.youtube.com/watch?v=yRKUgY4H9o8)
-    - don't force your legs, things are light and bouncy
+  - don't force your legs, things are light and bouncy
 - [in french](https://www.youtube.com/watch?v=UCq_yxwyAtc)
-    - main beat goes with your foot forward, other goes with the foot back towards the edge of your board
+  - main beat goes with your foot forward, other goes with the foot back towards the edge of your board
 - [a workshop](https://www.youtube.com/watch?v=m3ijnnjOlO0)
 - [another workshop in french](https://www.youtube.com/watch?v=SC0E0eo3ZuI)
 
@@ -35,7 +35,7 @@ I found a bunch of videos of people teaching or just doing french canadian foot 
 
 - [three](https://www.youtube.com/watch?v=OkUQjx_AL98) [part](https://www.youtube.com/watch?v=beExkXwbSvg) [series](https://www.youtube.com/watch?v=NpaxOahxJ38) by Pascal Gemme - the 3rd is particularly interesting about variations. French speaking with english subtitles
 
-No idea how to notate this, so I'm gonna define my own conventions to make it easy for me to write. I need to be able to denote heel, toe, both of dominant and non-dominant foot, possibly all at the same time.  So, pick the space notes on the stave.
+No idea how to notate this, so I'm gonna define my own conventions to make it easy for me to write. I need to be able to denote heel, toe, both of dominant and non-dominant foot, possibly all at the same time. So, pick the space notes on the stave.
 F for dominant heel, C for dominant toe, A for non-dominant heel, E for non-dominant toe. For most people, they do the on-beats with the right leg and the off-beats with the left.
 
 ```abc

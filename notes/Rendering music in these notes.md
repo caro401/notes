@@ -1,7 +1,7 @@
 ---
 title: Rendering music in these notes
 pubDate: 2024-11-13
-lastUpdated: 2024-11-13
+lastUpdated: 2024-11-25
 id: 20241113101126-rendering-music-in-these-notes
 ---
 
@@ -61,3 +61,32 @@ I've made a template in Obsidian to insert this structure (empty abc code block,
 I don't use any of the MIDI capabilities of abcjs, mostly because a lot of the things I intend to write down are Swedish tunes, which aren't transcribed much like they are played. I much prefer to link out to or embed a recording of an actual human playing the tune, so I can get a truer understanding of the groove of these tunes.
 
 If you know of a better way to achieve any of this, please [let me know](mailto:hi@caro.fyi).
+
+## Bonus CSS
+
+I have an irrational dislike of music in dark mode, so use a little bit of CSS in this site, and a CSS snippet in Obsidian, to make rendered music always be dark text on a light background.
+
+```css title=".obsidian/snippets/abc.css"
+.abcjs-container {
+  background: white;
+  border-radius: 8px;
+}
+
+.abcjs-container svg {
+  color: black;
+}
+
+.abcjs-container svg path {
+  fill: black;
+}
+
+.abcjs-container svg text {
+  fill: black;
+}
+```
+
+```css title="main.css"
+div .abcjs-container {
+  @apply rounded-sm bg-stone-50 text-stone-900 shadow-md;
+}
+```

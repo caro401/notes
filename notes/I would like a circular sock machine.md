@@ -15,3 +15,4 @@ AKA a CSM
 - [This person says a bit about history](https://www.youtube.com/watch?v=DRT-SEdBXmc). They made [a follow-up too](https://www.youtube.com/watch?v=k-w3kcYpAh4), adding a [variation to the machine](https://www.printables.com/model/355228-circular-sock-knitting-machine-for-my-mom-and-you)
 - [SweetGeorgia got one](https://www.youtube.com/watch?v=Ux4yaThZ5Qk) from [this manufacturer](https://erlbacherknitting.com/shop/) - suuuuuper expensive!
 - [Bear Valley fibres](https://www.bearvalleyfibres.ca/collections/csm) in canada make their own design
+- [Here's someone knitting a whole sock](https://www.youtube.com/watch?v=PUcVIYgROpI), including fixing a bunch of things that went wrong

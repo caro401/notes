@@ -35,4 +35,7 @@ test:
     @echo "ℹ️  You decided this repo probably doesn't need tests"
 
 links: build
-    lychee --suggest ./src/content  
+    lychee --suggest ./src/content
+
+recent:
+    git log --since="1 week ago" --name-only --pretty=format: | sort -u

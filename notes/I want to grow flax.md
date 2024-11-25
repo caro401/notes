@@ -22,7 +22,6 @@ Here's a bunch of resources I've gathered about the process:
 - [this person retted some](https://waltin.se/josefinwaltinspinner/flax-retting-success/) and shows some nice photos
 - This person is kinda near me and has [a bunch](https://www.youtube.com/watch?v=v64lW5JE9tM) [of short](https://www.youtube.com/watch?v=kLLLVhfH9Uk) [videos](https://www.youtube.com/watch?v=rsXFjzBa8UE) showing the different stages of retting (also kitty!).
 
-
 questions:
 
 - where can get flax seed in the UK? [this video](https://www.youtube.com/watch?v=3JKhhtoe9v4) suggests <www.flaxland.co.uk> and <www.wildfibres.co.uk>, and to make sure its a special type for long fibre, not for food seeds.
