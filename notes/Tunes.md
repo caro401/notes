@@ -14,4 +14,14 @@ I like to play folk tunes from the UK, the US, Canada, France, Belgium, Scandina
 - [[Boda polska]]
 - [[Eklundapolska nr 3]]
 
+## Slängpolska
+
+- [[Slängpolska av Carl Viktor Rulin]]
+
+## Halling
+
+I don't know how to dance halling, but some of the tunes are really cool!
+
+- [[Halling från Ekshärad]]
+
 [[Rendering music in these notes]] is how I display them.

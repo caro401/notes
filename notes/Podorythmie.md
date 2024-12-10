@@ -3,6 +3,7 @@ title: Podorythmie
 pubDate: 2024-07-15
 updatedDate: 2024-08-01
 id: 20240715120361-Podorythmie
+lastUpdated: 2024-11-28
 ---
 
 I found a bunch of videos of people teaching or just doing french canadian foot percussion
@@ -21,7 +22,6 @@ I found a bunch of videos of people teaching or just doing french canadian foot 
   - main beat goes with your foot forward, other goes with the foot back towards the edge of your board
 - [a workshop](https://www.youtube.com/watch?v=m3ijnnjOlO0)
 - [another workshop in french](https://www.youtube.com/watch?v=SC0E0eo3ZuI)
-
 - [a waltz and a jig and a reel demonstration](https://www.youtube.com/watch?v=aD-JY8wl4Ys)
 - [this guy has MIDI in a foot board](https://www.youtube.com/watch?v=sacAHemW7ag)
 - [amazing example from la bottine souriante](https://www.youtube.com/watch?v=o_tUCxxWXH8)
@@ -32,10 +32,10 @@ I found a bunch of videos of people teaching or just doing french canadian foot 
 - [another example](https://www.youtube.com/watch?v=_rv8aPJMkXQ)
 - [bits of someone doing it while playing some cool tunes](https://www.youtube.com/watch?v=w0Zpa9VR3-c)
 - [a blog post from someone else discovering](https://leisureguy.ca/2022/04/30/rhythm-feet/)
-
 - [three](https://www.youtube.com/watch?v=OkUQjx_AL98) [part](https://www.youtube.com/watch?v=beExkXwbSvg) [series](https://www.youtube.com/watch?v=NpaxOahxJ38) by Pascal Gemme - the 3rd is particularly interesting about variations. French speaking with english subtitles
 
 No idea how to notate this, so I'm gonna define my own conventions to make it easy for me to write. I need to be able to denote heel, toe, both of dominant and non-dominant foot, possibly all at the same time. So, pick the space notes on the stave.
+
 F for dominant heel, C for dominant toe, A for non-dominant heel, E for non-dominant toe. For most people, they do the on-beats with the right leg and the off-beats with the left.
 
 ```abc
