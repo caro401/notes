@@ -21,6 +21,6 @@ Different kinds of polska:
 
 - short first beat (kort etta)
   - [[Boda polska]]
-  - [[Vrmland polska|Värmland polska]]
+  - [[Varmland polska|Värmland polska]]
   - [[Røros pols]]
   - [[Springlek]]

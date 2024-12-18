@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 
 const allNotes = (await getCollection("docs"))
-  .filter((x) => x.slug.startsWith("notes"))
+  .filter((x) => x.id.startsWith("notes"))
   .sort((a, b) => b.data.lastUpdated - a.data.lastUpdated)
   .slice(0, 6);
 ---
@@ -12,7 +12,7 @@ const allNotes = (await getCollection("docs"))
   {
     allNotes.map((n) => (
       <li>
-        <a href={`/${n.slug}`}>{n.data.title}</a>
+        <a href={`/${n.id}`}>{n.data.title}</a>
       </li>
     ))
   }

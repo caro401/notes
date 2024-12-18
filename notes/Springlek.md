@@ -13,7 +13,7 @@ The distinct feature of this kind of tune is the short first beat "kort etta", v
 
 People who play in this tradition: Mattias Helje, Lars Halvarsson, Kalle Almlöf.
 
-There's other kinds of kort etta polskor too - [[Vrmland polska|Värmland polska]], [[Boda polska]] (also Dalarna) and [[Røros pols]] (Norway).
+There's other kinds of kort etta polskor too - [[Varmland polska|Värmland polska]], [[Boda polska]] (also Dalarna) and [[Røros pols]] (Norway).
 
 Don't learn tunes like this from written dots! You really need to learn them by ear, and just use dots as a memory aid that the tune exists.
 
