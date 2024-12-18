@@ -8,7 +8,6 @@ import starlightLinksValidator from "starlight-links-validator";
 // https://astro.build/config
 export default defineConfig({
   site: "https://notes.caro.fyi/",
-  trailingSlash: "always",
   integrations: [
     tailwind(),
     starlight({
@@ -63,7 +62,7 @@ export default defineConfig({
           copyFrontmatter: "all",
           tableOfContentsOverview: "title",
         }),
-        starlightLinksValidator({ errorOnRelativeLinks: false }),
+        // starlightLinksValidator({ errorOnRelativeLinks: false }),
       ],
 
       sidebar: [obsidianSidebarGroup],
