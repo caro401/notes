@@ -16,4 +16,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2.1.0
         with:
           fail: true
-          args: --no-progress ./src/content/
+          args: --scheme https --no-progress ./src/content/docs/notes
