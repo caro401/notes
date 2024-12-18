@@ -7,7 +7,7 @@ id: 20241119121165-tunes
 
 I like to play folk tunes from the UK, the US, Canada, France, Belgium, Scandinavia etc, usually for dancing. Sometimes I write notes about or including tunes I play, or want to play. Here's a meta-note with them.
 
-## Polskor
+## Polska
 
 - [[Polska efter Ante Sundin]]
 - [[Springlek]]
