@@ -33,8 +33,8 @@ export default defineConfig({
         {
           tag: "script",
           attrs: {
-            src: "https://cdn.usefathom.com/script.js",
-            "data-site": "GWBRQJFW",
+            "data-goatcounter": "https://notescarofyi.goatcounter.com/count",
+            src: "//gc.zgo.at/count.js",
             defer: true,
           },
         },
