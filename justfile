@@ -39,3 +39,6 @@ links: build
 
 recent:
     git log --since="1 week ago" --name-only --pretty=format: | sort -u
+
+thisweek: 
+    uv run notes-this-week.py

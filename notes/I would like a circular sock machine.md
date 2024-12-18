@@ -1,7 +1,7 @@
 ---
 title: I would like a circular sock machine
 pubDate: 2024-11-19
-lastUpdated: 2024-11-19
+lastUpdated: 2024-12-18
 id: 20241119121171-i-would-like-a-circular-sock-machine
 ---
 
@@ -16,3 +16,5 @@ AKA a CSM
 - [SweetGeorgia got one](https://www.youtube.com/watch?v=Ux4yaThZ5Qk) from [this manufacturer](https://erlbacherknitting.com/shop/) - suuuuuper expensive!
 - [Bear Valley fibres](https://www.bearvalleyfibres.ca/collections/csm) in canada make their own design
 - [Here's someone knitting a whole sock](https://www.youtube.com/watch?v=PUcVIYgROpI), including fixing a bunch of things that went wrong
+
+[[Knitting Machines]]
