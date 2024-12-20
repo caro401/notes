@@ -1,7 +1,7 @@
 ---
 title: Collecting phoenix tips I might need
 pubDate: 2024-12-10
-lastUpdated: 2024-12-18
+lastUpdated: 2024-12-20
 id: 20241210181249-collecting-phoenix-tips-i-might-need
 ---
 
@@ -25,3 +25,4 @@ Articles I ran across for features I can imagine needing in things I'm building,
 - [multitenancy](https://curiosum.com/blog/multitenancy-in-elixir) - I'm gonna need this pretty soon!
 - [Hooking into JS libraries that don't really want to](https://blog.puretype.ai/liveview-javascript-event)
 - [Send a toast after async work](https://samrat.me/til-liveview-toast-after-async-work/)
+- [Work with map tiles](https://dev.to/dkuku/serving-open-street-map-vector-tiles-with-elixir-and-phoenix-40ip)

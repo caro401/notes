@@ -1,7 +1,7 @@
 ---
 title: Boda polska
 pubDate: 2024-11-08
-lastUpdated: 2024-11-08
+lastUpdated: 2024-12-18
 id: 20241108161133-boda-polska
 ---
 
