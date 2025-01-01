@@ -1,7 +1,7 @@
 ---
 title: Things I've knitted
 pubDate: 2022-11-08
-lastUpdated: 2024-11-05
+lastUpdated: 2024-12-29
 ---
 
 Some of these links are Ravelry links, beware!
@@ -14,6 +14,7 @@ Some of these links are Ravelry links, beware!
 - [nennir cable cowl](https://knitty.com/ISSUEw12/PATTnennir.php)
 - [briar ombre mitts](https://knitty.com/ISSUEff14/PATTbriar/PATTbriar.php)
 - [an american in china](https://www.ravelry.com/patterns/library/an-american-in-china) socks - I really love the dense sole and shaping
+- [mahakam jumper](https://knitty.com/ISSUEff20/PATTmahakam/PATTmahakam.php) in some ridiculous purple glitter yarn, it looks like chainmaille
 
 ## and some things I want to knit
 
@@ -50,3 +51,7 @@ These [fannrem socks](https://www.ravelry.com/patterns/library/fannrem-sokker) w
 A bunch of headbands that don't use much yarn: [Ragi headband](https://www.ravelry.com/patterns/library/ragi-hairband), [cats headband](https://www.ravelry.com/patterns/library/headband-cats), [celtic knot headband](https://www.ravelry.com/patterns/library/headband-celtic-knots), [smidge headband](https://h3dakota.com/2010/07/22/smidge-headband/).
 
 This set of patterns for a whole [vegetable box](https://www.ravelry.com/bundles/vegetable-box)!
+
+[These gansey-style textured fingerless gloves](https://www.ravelry.com/patterns/library/gansey-wristers), and [these with tiny sheeps](https://www.ravelry.com/patterns/library/greenway-sheep)
+
+The "Woolgrowers" hat and cowl set from Farm&Fiber knits magazine, which has lovely textures. Maybe something to make with my handspun.

@@ -1,7 +1,7 @@
 ---
 title: Mac apps
 pubDate: 2022-07-18
-lastUpdated: 2023-04-13
+lastUpdated: 2024-12-20
 ---
 
 I recently acquired a mac, and am learning about what the software ecosystem is like.
@@ -17,3 +17,5 @@ Only things that are only for mac
 ## That I should check out
 
 - [text sniper](https://textsniper.app/) for OCR out of screenshots, pdfs and the like. Paid (£10) and in setapp
+- [pearlcleaner](https://itsalin.com/appInfo/?id=pearcleaner) for properly uninstalling things and cleaning up all the files. Although maybe raycast can also do that?
+- [cap](https://cap.so) might be useful if I ever need to do screen recordings. There's an open-source version that probably does everything I might need

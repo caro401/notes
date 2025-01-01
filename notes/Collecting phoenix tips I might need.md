@@ -26,3 +26,5 @@ Articles I ran across for features I can imagine needing in things I'm building,
 - [Hooking into JS libraries that don't really want to](https://blog.puretype.ai/liveview-javascript-event)
 - [Send a toast after async work](https://samrat.me/til-liveview-toast-after-async-work/)
 - [Work with map tiles](https://dev.to/dkuku/serving-open-street-map-vector-tiles-with-elixir-and-phoenix-40ip)
+- [That pattern where you see everyone's cursor on the screen](https://koenvangilst.nl/blog/phoenix-liveview-cursors)
+  Ï

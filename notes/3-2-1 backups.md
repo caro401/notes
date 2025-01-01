@@ -1,7 +1,7 @@
 ---
 title: 3-2-1 backup strategy
 pubDate: 2024-11-13
-lastUpdated: 2024-11-13
+lastUpdated: 2024-12-30
 id: 20241113161156-3-2-1-backups
 ---
 
@@ -30,3 +30,7 @@ When you're choosing where to put things, think about how fast do you need to be
 - [Reminded about this on Mastodon](https://social.jacobian.org/@jacob/113473338504591549) from Jacob Kaplan-Moss.
 - [Backblaze has some more explanation](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/)
 - [3-2-1 backup sucks?](https://www.unitrends.com/blog/3-2-1-backup-sucks)
+
+## Further reading
+
+- [this person writing specifically about backups in the PKM space](https://tonyramella.com/how-to-future-proof-your-ideas/)

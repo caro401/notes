@@ -23,7 +23,7 @@ There's no standard for cross-platform lockfiles in python ([yet?](https://discu
 
 It is moving fast at the moment. Yay progress I guess, but it's a bit of a moving target to actually use or attempt to teach.
 
-UV can be the only tool you need for all the things? Including installing python itself (ish, it has some quirks because python doesn't really want to be a standalone thing even though [python-build-standalone](https://gregoryszorc.com/docs/python-build-standalone/main/index.html) exists).
+UV can be the only tool you need for all the things? Including installing python itself (ish, it has some quirks because python doesn't really want to be a standalone thing even though [python-build-standalone](https://gregoryszorc.com/docs/python-build-standalone/main/index.html) exists, and Astral now maintain it!).
 
 `uv run` rather than activating virtual environments.
 
@@ -32,6 +32,8 @@ It doesn't have a command runner (yet?) (`npm run test` or whatever), but I don'
 Astral is VC-backed, which is a big question, but the code is currently open source and permissively licensed, and seems to be doing well in the community, so would probably be forked/supported etc in the event it went away.
 
 Question about making dev tools for a language in rust (javascript is having the same question). Not as accessible for python users to contribute, but being able to install a single binary is nice
+
+`uv self update` regularly to keep up with changes!
 
 ## Sources/further reading
 
