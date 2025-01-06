@@ -1,7 +1,7 @@
 ---
 title: CS50's Introduction to Databases with SQL
 pubDate: 2023-10-26
-lastUpdated: 2023-11-13
+lastUpdated: 2025-01-02
 id: 20231010151075-cs50-databases
 ---
 
@@ -19,3 +19,5 @@ I'm taking [CS50's Introduction to Databases with SQL](https://www.edx.org/learn
 - [[Scanning each row in a database can be slow]], you might want to use an [[An index is a structure to speed up retrieval of rows from a database|index]]
 - [[Clean up unused space in a database using vacuum or optimise]]
 - [[Transactions are single units of work in a database]], and they can help guard against [[Race conditions]] if transactions are made to be sequential using [[Transactional locking]]
+
+I should probably work through [this course](https://lessonomicon.github.io/querynomicon/) from Greg Wilson too: The Querynomicon: An Introduction to SQL for the Cautious and Weary

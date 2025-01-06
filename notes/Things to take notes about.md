@@ -1,7 +1,7 @@
 ---
 title: Things to take notes about
 pubDate: 2024-11-11
-lastUpdated: 2024-11-21
+lastUpdated: 2025-01-06
 id: 20241111101180-things-to-take-notes-about
 ---
 
@@ -25,3 +25,12 @@ Their time-bound things relating to projects and publishing live in folders `Now
 - Running notes, documenting all the work they do, including dead ends ([[Recording  cancelled tasks is important]]). This is like a lab notebook of what you did/learned. It helps you get back in flow on a task if you are pulled away, and retains context around decisions you made in the process. Later they extract key points from these
 - Topic notes, self-contained well-written notes about a single topic. These are share-able, publishable or can be sent to colleagues. They publish some at `/snacks` on their site.
 - a Brag Document! Or rather two, one for their job and one for nice things people said about/to them
+
+Some people do their daily note in one big text file:
+
+- [Mike Grindle](https://mikegrindle.com/posts/obtf) puts _everything_ in one file. Tags and search are vital
+- [Ellane W](https://ellanew.com/ptpl/091-obtf-obsidian-bullet-journal) doesn theirs like a bullet journal with signifiers at the start of each line
+- [Dan Lucraft](https://danlucraft.com/blog/2008/04/plain-text-organizer/) includes an "80-character diary", kind of a line-a-day thing for nerds. They also run 30-day trials of a habit, which is cool (not quite a single big text file, but related)
+- [This person]() keeps task list in there too, so they can see what they've completed. I don't think I want that, but I get the value
+
+I'm intrigued by this as a way to force me to record memories/what I did there, and pull out anything that might have a use in other places into other places - refactoring enforced by limits in ability to link. Make more use of the note refactor functionality from Obsidian

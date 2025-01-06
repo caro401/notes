@@ -1,7 +1,7 @@
 ---
 title: Things I want to make
 pubDate: 2022-06-30
-lastUpdated: 2024-11-05
+lastUpdated: 2025-01-02
 ---
 
 ## Wood
@@ -18,6 +18,7 @@ lastUpdated: 2024-11-05
 - [felt succulent wreath](https://web.archive.org/web/20210515013256/https://www.craftsy.com/post/diy-succulent-wreath/) or [instructables version](https://www.instructables.com/DIY-Felt-Succulent-Display-How-to-Make-Faux-Plant-/)
 - [natural inks](https://www.instructables.com/Home-Made-Ink-From-Nature-Perfect-Purples/)
 - [paper stars](https://www.instructables.com/How-to-make-lucky-paper-stars/)
+- [solar dyeing](https://spinoffmagazine.com/solar-dyeing-cushings-direct-dyes-for-plant-fibers/)
 
 ## Yarn
 
@@ -53,3 +54,7 @@ lastUpdated: 2024-11-05
 - [Dala horse patterned mittens](https://www.ravelry.com/patterns/library/dala-selbu-hybrid--dala-selbuvotter) great norwegian-swedish knitting mashup
 - [Blacksod hat](https://whiletheydream.com/blogs/knit-hats/the-blacksod-hat/) with a gorgeous massive cable panel
 - [Norway pine hat](https://www.ravelry.com/patterns/library/norway-pine-hat) also with cables (via someone made it on Mastodon)
+
+## Fabric
+
+- [the Hugo hoodie](https://freesewing.org/docs/designs/hugo) from freesewing

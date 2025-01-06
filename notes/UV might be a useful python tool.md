@@ -1,7 +1,7 @@
 ---
 title: UV might be a useful python tool
 pubDate: 2024-11-26
-lastUpdated: 2024-11-27
+lastUpdated: 2025-01-02
 id: 20241126151181-uv-might-be-a-useful-python-tool
 ---
 
@@ -49,3 +49,4 @@ Note that UV is changing super fast at the moment, things addressed in these sou
 - [Charlie Marsh on Talk Python](https://talkpython.fm/episodes/show/476/unified-python-packaging-with-uv)
 - [This person doesn't recommend it yet](https://www.bitecode.dev/p/whats-up-python-uv-disrupts-packaging) (August 2024)
 - [Jeff Triplett uses it for one-off scripts](https://micro.webology.dev/2024/08/22/python-uv-run.html), inspired by [Simon Willison using a shebang for uv](https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/)
+- [is managed python the right way to go in production?](https://pythonspeed.com/articles/uv-python-production/) (TL;DR yes probably, but as usual think about security and your use case)

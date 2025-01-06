@@ -1,7 +1,7 @@
 ---
 title: Collecting phoenix tips I might need
 pubDate: 2024-12-10
-lastUpdated: 2024-12-20
+lastUpdated: 2025-01-02
 id: 20241210181249-collecting-phoenix-tips-i-might-need
 ---
 
@@ -27,4 +27,6 @@ Articles I ran across for features I can imagine needing in things I'm building,
 - [Send a toast after async work](https://samrat.me/til-liveview-toast-after-async-work/)
 - [Work with map tiles](https://dev.to/dkuku/serving-open-street-map-vector-tiles-with-elixir-and-phoenix-40ip)
 - [That pattern where you see everyone's cursor on the screen](https://koenvangilst.nl/blog/phoenix-liveview-cursors)
-  Ï
+- [A markdown-based static site](https://mishka.tools/blog/build-a-static-site-in-elixir-under-5-minutes-with-phoenix-components)
+- [A different icon set](https://rodolfosilva.com/elixir/adding-a-new-icon-collection-to-a-phoenix-project)
+- [Anti-patterns to watch out for](https://curiosum.com/blog/elixir-anti-patterns), which is essentially [use sobelow](https://github.com/nccgroup/sobelow) security static analysis tool

@@ -1,7 +1,7 @@
 ---
 title: Sustainable craft supplies
 pubDate: 2023-04-13
-lastUpdated: 2024-11-05
+lastUpdated: 2025-01-02
 ---
 
 - [Tencel](https://jamestailoring.co.uk/product/sew-all-celofil-100-tencel-biological-thread-40/) thread from James Tailoring - still biodegradable but less damaging than cotton?
@@ -11,3 +11,4 @@ lastUpdated: 2024-11-05
 - [Fill](https://www.fillrefill.co/) is probably a good source of bulk sustainable washing up liquid for processing fleece
 - [Maria Sigma](https://www.mariasigma.com/philosophy) writes about her sustainability choices
 - [Teemill](https://teemill.com/) might be a not terrible option for print on demand tshirts, since they take back used clothes and turn them into new products. Is this better overall than printing by hand on shirts from charity shops? Probably?
+- [this naturally-dyed wool thread from DMC??](https://www.dmc.com/GB/en-GB/products/eco-vita-yarn)

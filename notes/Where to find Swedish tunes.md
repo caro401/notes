@@ -1,7 +1,7 @@
 ---
 title: Where to find Swedish tunes
 pubDate: 2024-09-04
-lastUpdated: 2024-09-04
+lastUpdated: 2025-01-02
 id: 20240904180905-where-to-find-swedish-tunes
 ---
 
@@ -15,4 +15,8 @@ There's also an online collection of archival material [Folkmusikkommissionens n
 
 Some individuals have online tune collections, for example [Henrik Norbeck's](https://www.norbeck.nu/abc/index2.asp?cat=s) and [Martin Linden's](https://www.martinlinden.se/). Occasionally, tunes end up on The Session, or folktunefinder. Sometimes this has useful information, sometimes is just [catastrophically wrong](https://thesession.org/tunes/17179).
 
+[This is the collection from the London scandi session](http://www.tradtunedb.org.uk/#/)
+
 The book series "Svenska låtar", which I can borrow from my local library. This is one of the oldest and most influential big collections. It is grouped by area(?), and popularised that kind of categorising tunes (cite that book kaminsky??)
+
+[this person made a massively annotated playlist](https://www.malmgren.nl/post/Jens-Folk-Music-Playlist-1)

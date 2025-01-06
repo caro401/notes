@@ -1,7 +1,7 @@
 ---
 title: Livecode
 pubDate: 2024-10-28
-lastUpdated: 2024-11-12
+lastUpdated: 2025-01-02
 id: 20241028101077-livecode
 ---
 
@@ -38,6 +38,8 @@ With music by:
 
 [another video!](https://www.youtube.com/watch?v=nAGjTYa95HM) Alex' ted talk, references knitting, weaving and also maypole dancing
 
+[Show us your screens](https://vimeo.com/20241649)
+
 [https://slab.org/](https://slab.org/)
 
 TidalCycles:
@@ -46,6 +48,7 @@ TidalCycles:
 - "Tidal club" learn-at-home course - [archive](https://club.tidalcycles.org/c/course/14?ascending=true&order=created)
 - EulerRoom live coding streams: [eulerroom](https://www.youtube.com/eulerroom)
 - Algorave - [https://algorave.com/](https://algorave.com/)
+- [A different tidal tutorial/notes](https://mzadel.github.io/tidalfundamentals/) - really technical on the haskell side
 
 TOPLAP live coding community:
 
@@ -58,6 +61,7 @@ Other live coding systems mentioned:
 - Foxdot: [https://foxdot.org/](https://foxdot.org/)
 - Hydra: [https://hydra.ojack.xyz](https://hydra.ojack.xyz)
 - The loooong list: [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
+- An online book about [learning supercollider](https://thormagnusson.gitbooks.io/scoring/content/index.html)
 
 A [video including DJ_dave](https://www.youtube.com/watch?v=vuSZQnkOB_Y)
 
@@ -71,12 +75,22 @@ A [video including DJ_dave](https://www.youtube.com/watch?v=vuSZQnkOB_Y)
 
 [Live Coding in the Wild - Scott Wilson (ICLC2024)](https://www.youtube.com/watch?v=Cf5ncfdBlmw)
 
+[loading and manipulating samples with strudel](https://glfmn.io/presentations/algorave-2/), and an [introductory workshop](https://glfmn.io/presentations/algorave/) from the same creator.
+
+[A whole journal edition](https://dj.dancecult.net/index.php/dancecult/issue/view/104), and [a paper from the ICLC proceedings](https://zenodo.org/records/11350025)
+
+[Handmade electronic music book](https://www.nicolascollins.com/handmade.htm)
+
 ## Performance examples
 
 - [Benoît and the Mandelbrots performing in a TED talk with music and visuals](https://www.youtube.com/watch?v=Ix2b_qFYfAA) in what looks like supercollider.
 - [Kindohm Live @ ICLC 2016, Hamilton, Ontario](https://www.youtube.com/watch?v=smQOiFt8e4Q) using tidal. Very strong start! Just the high quality audio is [available on bandcamp](https://kindohm.bandcamp.com/album/live-iclc-2016), along with a bunch more of their stuff. [The artist's website](https://www.kindohm.com)
 - [SleepyAstroboi](https://www.youtube.com/watch?v=WK-34HPg4oY) does a bunch of stuff on YouTube, and shares some of their samples. They get a bunch of sounds through Ableton, including apparently the ability to sidechain!
 - [A whole bunch here from ICLC 2024](https://www.youtube.com/@NYUSH_IMA/videos)
+- [This is banging](https://www.youtube.com/watch?v=Lsa9vU5_YnM) i really like the drum patterns. They made a whole album!
+[A massive mix from yaxu](https://soundcloud.com/mixmag-1/welcome-to-the-algorave-movement-mixed-by-yaxu), and [the accompanying article](https://mixmag.net/feature/algorave/8)
+
+[This person's "septembeat" series](https://bkstrm.net/septembeat-8/)
 
 ## Some of my strudel experiments
 

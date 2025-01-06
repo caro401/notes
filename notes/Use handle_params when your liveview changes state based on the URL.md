@@ -1,7 +1,7 @@
 ---
 title: Use handle_params when your liveview changes state based on the URL
 pubDate: 2024-12-29
-lastUpdated: 2024-12-29
+lastUpdated: 2025-01-06
 id: 20241229171269-use-handle_params-when-your-liveview-changes-state-based-on-the-url
 ---
 
@@ -12,8 +12,6 @@ id: 20241229171269-use-handle_params-when-your-liveview-changes-state-based-on-t
 This is useful for things like searching and filtering. Assign the relevant values here rather than in the `mount` function, so you don't have to calculate them twice..
 
 > To trigger `handle_params/3`, [push_patch/2](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html#push_patch/2) can be used server-side, while [live_patch/2](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.Helpers.html#live_patch/2) will trigger `handle_param/3` through a client-side interaction.
-
-[[quilted placemats]]
 
 ## Sources
 

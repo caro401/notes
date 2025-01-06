@@ -1,7 +1,7 @@
 ---
 title: Make LiveView function offline
 pubDate: 2024-11-11
-lastUpdated: 2024-11-11
+lastUpdated: 2025-01-02
 id: 20241111121144-making-liveview-function-offline
 ---
 
@@ -18,3 +18,4 @@ Not sure how much I should worry about the transition to svelte 5
 ## Related
 
 - [this demo](https://www.youtube.com/watch?v=LBYQ_NLVKCw) also uses live svelte, but for working with canvas rather than offline. [source code](https://github.com/ChristianAlexander/Scribble-Pad)
+- [more about livesvelte](https://blog.sequinstream.com/liveview-is-best-with-svelte/)
