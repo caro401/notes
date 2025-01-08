@@ -1,7 +1,7 @@
 ---
 title: Make LiveView function offline
 pubDate: 2024-11-11
-lastUpdated: 2025-01-02
+lastUpdated: 2025-01-08
 id: 20241111121144-making-liveview-function-offline
 ---
 
