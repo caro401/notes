@@ -9,7 +9,7 @@ id: 20240904170950-learn-about-polska
 
 <https://www.idunn.no/doi/10.18261/issn.1504-2960-2017-01-05>
 
-a whole book! <https://musikverket.se/wp-content/uploads/2017/02/Polska_FINAL2.pdf>
+a whole book! <http://web.archive.org/web/20241118210233/https://musikverket.se/wp-content/uploads/2017/02/Polska_FINAL2.pdf>
 
 [Bodapolska, slängpolska och finnskogspols: En komparativ analys av tre tretakter i svensk folkmusik](https://web.archive.org/web/20220709192314/http://www.diva-portal.org/smash/get/diva2:1677292/FULLTEXT01.pdf)
 

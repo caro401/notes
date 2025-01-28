@@ -4,7 +4,7 @@ pubDate: 2023-04-14
 lastUpdated: 2024-10-22
 ---
 
-- [Lovecrafts' requirements for patterns](https://designer-handbook.lovecrafts.com/knowledge-base/criteria-for-pdf-patterns/) has a bunch of useful things to think about
+- [Lovecrafts' requirements for patterns](http://web.archive.org/web/20240623010509/https://designer-handbook.lovecrafts.com/knowledge-base/criteria-for-pdf-patterns/) has a bunch of useful things to think about
 - [about working with a tech editor](https://www.snickerdoodleknits.com/post/a-knitting-pattern-designer-s-guide-to-tech-editing-what-why-and-how-pattern-tech-editing-works)
 - [here's someone who does tech editing](https://findmeknitting.co.uk/tech-editing)
 - [using google docs for layout](https://www.sistermountain.com/blog/knitting-pattern-google-docs)

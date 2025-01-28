@@ -1,0 +1,11 @@
+scheme = ["https"]
+exclude = [
+  # These always fail
+  '^https://web\.archive\.org/web/',
+  # cert errors and probably blocking bots
+  '^https://laurafry\.com',
+  '^https://www\.fillrefill\.co',
+  '^https://github\.com/marketplace\?type=actions',
+  '^https://www\.weforum\.org/stories/2021/03/internet-carbon-emissions-data-path-scion/',
+  '^https://www\.idunn\.no/doi/10\.18261/issn\.1504-2960-2017-01-05',
+]

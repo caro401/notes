@@ -15,7 +15,7 @@ UV is modelled on cargo, which is a really pleasurable thing to use.
 
 UV should be fast to resolve dependencies (if it works?), much faster than pip. Lots of things are faster. This makes little difference for human work day to day, but probably does make a big difference for you in CI.
 
-`--resolution=lowest` useful for testing packaged
+`--resolution=lowest` useful for testing packages
 
 UV is virtual-environment first (what does that actually mean?)
 
@@ -41,7 +41,7 @@ Note that UV is changing super fast at the moment, things addressed in these sou
 
 - [this video from Hynek Schlawack](https://www.youtube.com/watch?v=_FdjW47Au30) about UV as a tool for packaging
 - [and the followup video](https://www.youtube.com/watch?v=8UuW8o4bHbw)
-- [Hynek's dockerfile](https://hynek.me/articles/docker-uv/), [Oliver Andrich's](https://andrich.me/2024/09/my-ideal-uv-based-dockerfile/) and [Michael Kennedy's](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
+- [Hynek's dockerfile](https://hynek.me/articles/docker-uv/) and [Michael Kennedy's](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
 - [Using UV on a django project](https://blog.pecar.me/uv-with-django)
 - [Someone's experience setting up their entire python environment with UV](https://andrich.me/2024/09/uv-i-am-somewhat-sold/)
 - [Simon Willison summarised a long mastodon discussion](https://simonwillison.net/2024/Sep/8/uv-under-discussion-on-mastodon/)
@@ -50,3 +50,5 @@ Note that UV is changing super fast at the moment, things addressed in these sou
 - [This person doesn't recommend it yet](https://www.bitecode.dev/p/whats-up-python-uv-disrupts-packaging) (August 2024)
 - [Jeff Triplett uses it for one-off scripts](https://micro.webology.dev/2024/08/22/python-uv-run.html), inspired by [Simon Willison using a shebang for uv](https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/)
 - [is managed python the right way to go in production?](https://pythonspeed.com/articles/uv-python-production/) (TL;DR yes probably, but as usual think about security and your use case)
+- [This pretty comprehensive guide](https://www.saaspegasus.com/guides/uv-deep-dive/) to what you can do with UV and what tools each bit replaces
+

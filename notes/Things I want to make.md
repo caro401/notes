@@ -36,7 +36,6 @@ lastUpdated: 2025-01-02
 - [yumiko](https://www.ravelry.com/patterns/library/yumiko) colourwork mitts
 - [asymmetrical shawl](https://www.ravelry.com/patterns/library/asymmetrical-shawl-with-knit-on-edging)
 - [blueberry patch slippers](https://www.ravelry.com/patterns/library/blueberry-patch-ballerinas)
-- [totoro socks!](https://www.ravelry.com/patterns/library/totoro-socks-2)
 - [crochet cat](https://www.ravelry.com/patterns/library/dumpling-kitty)
 - [herringbone stitch cowl](https://www.ravelry.com/patterns/library/big-herringbone-cowl)
 - [lace bookmark](https://www.ravelry.com/patterns/library/shetland-bookmark), and [this lace bookmark](https://www.ravelry.com/patterns/library/lacy-ladder-bookmark), and [these too](https://www.ravelry.com/patterns/library/bookmark-trio), which are great for using up tiny scraps of 4-ply

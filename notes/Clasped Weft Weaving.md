@@ -23,7 +23,7 @@ You can get really cool effects using 2 skeins/shuttles of gradient yarn, starti
 - and there's a related technique [clasped warp](https://littlelooms.com/clasped-warp-weaving/) to let you have warp strands changing colour part way along a piece
 - [A pattern for a cushion cover](https://schachtspindle.com/clasped-weft-pillow-pillow-month/) from schacht that uses this technique
 - [Clasped Weft Weaving with Conductive Thread and LEDs](https://web.archive.org/web/20220825150852/https://www.weavezine.com/content/clasped-weft-weaving-conductive-thread-and-leds.html) from WeaveZine uses this technique to insert lights into cloth
-- [Curious Weaver](https://curiousweaver.id.au/archives/107) has some nice jagged patterns
+- [Curious Weaver](https://web.archive.org/web/20240324194049/https://curiousweaver.id.au/archives/107) has some nice jagged patterns
 
 ### Sources
 
