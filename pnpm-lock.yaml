@@ -6586,7 +6586,7 @@ snapshots:
     dependencies:
       '@types/hast': 3.0.4
       hast-util-raw: 9.1.0
-      vfile: 6.0.3
+      vfile: 6.0.1
 
   rehype-recma@1.0.0:
     dependencies:
@@ -6599,7 +6599,7 @@ snapshots:
   rehype-stringify@10.0.1:
     dependencies:
       '@types/hast': 3.0.4
-      hast-util-to-html: 9.0.4
+      hast-util-to-html: 9.0.0
       unified: 11.0.5
 
   rehype@13.0.1:
@@ -6664,7 +6664,7 @@ snapshots:
   remark-parse@11.0.0:
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-util-from-markdown: 2.0.2
+      mdast-util-from-markdown: 2.0.0
       micromark-util-types: 2.0.1
       unified: 11.0.5
     transitivePeerDependencies:
@@ -6674,9 +6674,9 @@ snapshots:
     dependencies:
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
-      mdast-util-to-hast: 13.2.0
+      mdast-util-to-hast: 13.1.0
       unified: 11.0.5
-      vfile: 6.0.3
+      vfile: 6.0.1
 
   remark-smartypants@2.1.0:
     dependencies:

@@ -8,4 +8,9 @@ exclude = [
   '^https://github\.com/marketplace\?type=actions',
   '^https://www\.weforum\.org/stories/2021/03/internet-carbon-emissions-data-path-scion/',
   '^https://www\.idunn\.no/doi/10\.18261/issn\.1504-2960-2017-01-05',
+  # additionally 403 from github actions IPs 
+  '^https://www\.reddit\.com',
+  '^https://dj\.dancecult\.net',
+  '^https://bookshop\.org',
+  '^https://www\.sciencedirect\.com',
 ]

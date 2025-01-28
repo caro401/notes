@@ -34,8 +34,8 @@ lint:
 test:
     @echo "ℹ️  You decided this repo probably doesn't need tests"
 
-links: build
-    lychee --config ./lychee.toml --suggest ./src/content
+links:
+    lychee --config ./lychee.toml --suggest ./notes
 
 recent:
     git log --since="1 week ago" --name-only --pretty=format: | sort -u
