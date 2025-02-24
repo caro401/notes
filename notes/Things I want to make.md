@@ -1,7 +1,7 @@
 ---
 title: Things I want to make
 pubDate: 2022-06-30
-lastUpdated: 2025-01-02
+lastUpdated: 2025-02-24
 ---
 
 ## Wood
@@ -53,6 +53,7 @@ lastUpdated: 2025-01-02
 - [Dala horse patterned mittens](https://www.ravelry.com/patterns/library/dala-selbu-hybrid--dala-selbuvotter) great norwegian-swedish knitting mashup
 - [Blacksod hat](https://whiletheydream.com/blogs/knit-hats/the-blacksod-hat/) with a gorgeous massive cable panel
 - [Norway pine hat](https://www.ravelry.com/patterns/library/norway-pine-hat) also with cables (via someone made it on Mastodon)
+- [The Goldwing sweater](https://www.ravelry.com/patterns/library/goldwing-2) - gorgeous colourwork sweater, but quite an expensive pattern and needs loads of yardage. I really love the cuff details, and that designer has loads of similar patterns, I love [the Hinterland](https://www.ravelry.com/patterns/library/hinterland-5) too
 
 ## Fabric
 
