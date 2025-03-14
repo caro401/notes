@@ -1,7 +1,7 @@
 ---
 title: I want to grow flax for linen
 pubDate: 2024-07-24
-lastUpdated: 2024-11-19
+lastUpdated: 2025-03-05
 id: 20240724110796-grow-flax
 ---
 
@@ -21,7 +21,7 @@ Here's a bunch of resources I've gathered about the process:
 - [This guy grew a tiny plot](https://www.youtube.com/watch?v=pRH2lnw-cZA) and parts [2](https://www.youtube.com/watch?v=H4dwyEv-B2Q), [3 (scutching knife)](https://www.youtube.com/watch?v=o0pKovl4Omc) and [4 (hackle)](https://www.youtube.com/watch?v=3K6t7oZbSJg)
 - [this person retted some](https://waltin.se/josefinwaltinspinner/flax-retting-success/) and shows some nice photos
 - This person is kinda near me and has [a bunch](https://www.youtube.com/watch?v=v64lW5JE9tM) [of short](https://www.youtube.com/watch?v=kLLLVhfH9Uk) [videos](https://www.youtube.com/watch?v=rsXFjzBa8UE) showing the different stages of retting (also kitty!).
-- [JillianEve grew some](https://www.youtube.com/watch?v=qzYTJPZtWxY). She's in the US somewhere, and had a bunch of storms. She also planted some nettle (?!). Recommends some books
+- [JillianEve grew some](https://www.youtube.com/watch?v=qzYTJPZtWxY). She's in the US somewhere, and had a bunch of storms. She also planted some nettle (?!) ([follow-up on the nettle situation](https://www.youtube.com/watch?v=lq4GumwxXiA)). Recommends some books
 
 questions:
 

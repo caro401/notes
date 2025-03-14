@@ -1,7 +1,7 @@
 ---
 title: Collecting phoenix tips I might need
 pubDate: 2024-12-10
-lastUpdated: 2025-01-10
+lastUpdated: 2025-03-14
 id: 20241210181249-collecting-phoenix-tips-i-might-need
 ---
 
@@ -31,5 +31,5 @@ Articles I ran across for features I can imagine needing in things I'm building,
 - [A different icon set](https://rodolfosilva.com/elixir/adding-a-new-icon-collection-to-a-phoenix-project), or [a different approach](https://farens.me/blog/how-to-integrate-tabler-icons-into-your-phoenix-project)
 - [Anti-patterns to watch out for](https://curiosum.com/blog/elixir-anti-patterns), which is essentially [use sobelow](https://github.com/nccgroup/sobelow) security static analysis tool
 - [Tags](https://fly.io/phoenix-files/tag-all-the-things/)
-
 - [Audit logs of deletions](https://danschultzer.com/posts/deleted-record-audit-log-with-ecto-postgresql)
+- [Infinite scroll](https://abulasar.com/adding-infinite-scroll-in-phoenix-liveview-app)
