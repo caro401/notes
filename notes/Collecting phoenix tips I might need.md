@@ -1,7 +1,7 @@
 ---
 title: Collecting phoenix tips I might need
 pubDate: 2024-12-10
-lastUpdated: 2025-03-14
+lastUpdated: 2025-03-17
 id: 20241210181249-collecting-phoenix-tips-i-might-need
 ---
 
@@ -33,3 +33,4 @@ Articles I ran across for features I can imagine needing in things I'm building,
 - [Tags](https://fly.io/phoenix-files/tag-all-the-things/)
 - [Audit logs of deletions](https://danschultzer.com/posts/deleted-record-audit-log-with-ecto-postgresql)
 - [Infinite scroll](https://abulasar.com/adding-infinite-scroll-in-phoenix-liveview-app)
+- [Show what page you're currently on in your navigation](https://www.yellowduck.be/posts/using-the-current-url-in-a-phoenix-liveview-layout)
